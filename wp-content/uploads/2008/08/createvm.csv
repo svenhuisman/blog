@@ -1,0 +1,3 @@
+Naam,Datastore,IP,SubnetMask,Gateway,DNS,Cluster,ESXHost,ResourcePool,Folder,Template,RemoveVM
+vm1,LUN1,192.168.0.50,255.255.255.0,192.168.0.254,192.168.0.1,,esx1.lab.local,,Test,w2k3r2-x64-2vcpu,Yes
+vm2,LUN2,192.168.0.50,255.255.255.0,192.168.0.254,192.168.0.1,Cluster-A,,,SiteA,w2k3r2-x64-21vcpu,Yes
