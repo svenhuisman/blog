@@ -4,7 +4,7 @@ title: VMware vSphere VCP 4 beta exam
 date: 2009-07-15T21:20:03+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1286
+guid: https://svenhuisman.com/?p=1286
 permalink: /2009/07/vmware-vsphere-vcp-4-beta-exam/
 categories:
   - Virtual Infrastructure

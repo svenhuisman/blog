@@ -4,7 +4,7 @@ title: vSphere 5 for Desktops license
 date: 2011-07-14T16:29:59+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2087
+guid: https://svenhuisman.com/?p=2087
 permalink: /2011/07/vsphere-5-for-desktops-license/
 image: /wp-content/uploads/2011/07/happy.jpg
 categories:

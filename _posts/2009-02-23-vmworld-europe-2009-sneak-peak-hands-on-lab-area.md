@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: Sneak-peak @ hands-on labs area'
 date: 2009-02-23T19:48:29+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=864
+guid: https://svenhuisman.com/?p=864
 permalink: /2009/02/vmworld-europe-2009-sneak-peak-hands-on-lab-area/
 categories:
   - Events

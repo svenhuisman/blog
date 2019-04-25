@@ -4,7 +4,7 @@ title: Free Load balancing for VMware View with Citrix Netscaler VPX Express
 date: 2012-02-21T17:54:51+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2287
+guid: https://svenhuisman.com/?p=2287
 permalink: /2012/02/free-load-balancing-for-vmware-view-with-citrix-netscaler-vpx-express/
 categories:
   - Virtual Desktop

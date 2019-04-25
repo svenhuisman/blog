@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: Virtual desktop Infrastructure sessions'
 date: 2009-02-25T20:34:35+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=939
+guid: https://svenhuisman.com/?p=939
 permalink: /2009/02/vdi-sessions/
 categories:
   - Virtual Desktop

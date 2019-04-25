@@ -4,7 +4,7 @@ title: Register for VMworld 2009!
 date: 2009-04-27T22:10:45+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1114
+guid: https://svenhuisman.com/?p=1114
 permalink: /2009/04/register-for-vmworld-2009/
 categories:
   - VMworld 2009 SF

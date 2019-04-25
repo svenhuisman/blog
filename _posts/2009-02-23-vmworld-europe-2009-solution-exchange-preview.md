@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: Solution Exchange Preview!'
 date: 2009-02-23T19:36:47+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=854
+guid: https://svenhuisman.com/?p=854
 permalink: /2009/02/vmworld-europe-2009-solution-exchange-preview/
 categories:
   - VMworld 2009 Cannes

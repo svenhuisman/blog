@@ -4,7 +4,7 @@ title: '1 week of G/A of vSphere 4.0 : getting started'
 date: 2009-05-27T12:00:36+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1171
+guid: https://svenhuisman.com/?p=1171
 permalink: /2009/05/1-week-of-ga-of-vsphere-40-getting-started/
 categories:
   - Virtual Infrastructure

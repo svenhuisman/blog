@@ -4,7 +4,7 @@ title: Virtualize SQL Servers? VMware says you should!
 date: 2008-11-26T23:58:11+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=583
+guid: https://svenhuisman.com/?p=583
 permalink: /2008/11/virtualize-sql-servers-vmware-says-you-should/
 categories:
   - Virtualization news

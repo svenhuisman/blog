@@ -4,7 +4,7 @@ title: Liquidware Labs FlexApp demo
 date: 2011-09-06T20:24:36+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2197
+guid: https://svenhuisman.com/?p=2197
 permalink: /2011/09/liquidware-labs-flexapp-demo/
 image: /wp-content/uploads/2011/09/iphone-apps.jpg
 categories:

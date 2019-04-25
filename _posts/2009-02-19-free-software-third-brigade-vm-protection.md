@@ -4,7 +4,7 @@ title: 'Free software: Third Brigade VM Protection'
 date: 2009-02-19T20:53:37+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=829
+guid: https://svenhuisman.com/?p=829
 permalink: /2009/02/free-software-third-brigade-vm-protection/
 categories:
   - Virtual Infrastructure

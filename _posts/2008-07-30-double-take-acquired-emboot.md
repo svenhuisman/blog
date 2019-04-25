@@ -4,7 +4,7 @@ title: Double Take acquired emBoot
 date: 2008-07-30T21:51:22+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=180
+guid: https://svenhuisman.com/?p=180
 permalink: /2008/07/double-take-acquired-emboot/
 categories:
   - Virtualization news

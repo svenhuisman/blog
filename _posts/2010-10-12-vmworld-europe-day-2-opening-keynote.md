@@ -4,7 +4,7 @@ title: 'VMworld Europe Day 2: Opening keynote'
 date: 2010-10-12T17:32:02+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1808
+guid: https://svenhuisman.com/?p=1808
 permalink: /2010/10/vmworld-europe-day-2-opening-keynote/
 categories:
   - VMworld 2010 Copenhagen

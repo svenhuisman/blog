@@ -4,7 +4,7 @@ title: 'Reduce MS licensing costs by 95% !!! in a virtualized environment.'
 date: 2009-05-30T00:01:15+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1217
+guid: https://svenhuisman.com/?p=1217
 permalink: /2009/05/reduce-ms-licensing-costs-by-95-in-a-virtualized-environment/
 categories:
   - Virtual Infrastructure

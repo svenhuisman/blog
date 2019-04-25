@@ -4,7 +4,7 @@ title: Attending VMWorld? Register for Double-Take party!
 date: 2008-08-08T09:07:40+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=239
+guid: https://svenhuisman.com/?p=239
 permalink: /2008/08/attending-vmworld-register-for-double-take-party/
 categories:
   - VMworld 2008 Vegas

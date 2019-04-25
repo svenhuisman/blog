@@ -4,7 +4,7 @@ title: 'VMworld 2009: Understanding “Host” and “Guest” Memory Usage'
 date: 2009-09-11T20:18:27+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1405
+guid: https://svenhuisman.com/?p=1405
 permalink: '/2009/09/vmworld-2009-understanding-%e2%80%9chost%e2%80%9d-and-%e2%80%9cguest%e2%80%9d-memory-usage/'
 categories:
   - Virtual Infrastructure

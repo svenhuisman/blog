@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: first impressions'
 date: 2009-02-23T02:15:22+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=839
+guid: https://svenhuisman.com/?p=839
 permalink: /2009/02/vmworld-europe-2009-first-impressions/
 categories:
   - VMworld 2009 Cannes

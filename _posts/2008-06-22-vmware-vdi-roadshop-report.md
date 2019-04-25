@@ -4,7 +4,7 @@ title: VMWare VDI RoadShow report
 date: 2008-06-22T23:25:05+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=65
+guid: https://svenhuisman.com/?p=65
 permalink: /2008/06/vmware-vdi-roadshop-report/
 comment_count:
   - "1"

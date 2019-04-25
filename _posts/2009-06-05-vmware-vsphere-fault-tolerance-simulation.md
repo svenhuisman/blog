@@ -4,7 +4,7 @@ title: VMware vSphere Fault Tolerance Simulation
 date: 2009-06-05T12:45:27+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=1227
+guid: https://svenhuisman.com/?p=1227
 permalink: /2009/06/vmware-vsphere-fault-tolerance-simulation/
 categories:
   - Virtual Infrastructure

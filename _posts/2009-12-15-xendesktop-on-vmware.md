@@ -4,7 +4,7 @@ title: XenDesktop on VMware VI/vSphere
 date: 2009-12-15T23:53:50+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1606
+guid: https://svenhuisman.com/?p=1606
 permalink: /2009/12/xendesktop-on-vmware/
 categories:
   - VDI Blog Battle

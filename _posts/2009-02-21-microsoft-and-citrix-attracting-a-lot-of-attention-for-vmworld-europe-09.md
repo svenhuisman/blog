@@ -4,7 +4,7 @@ title: Microsoft and Citrix attracting a lot of attention for VMworld Europe 09
 date: 2009-02-21T12:12:02+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=832
+guid: https://svenhuisman.com/?p=832
 permalink: /2009/02/microsoft-and-citrix-attracting-a-lot-of-attention-for-vmworld-europe-09/
 categories:
   - Virtual Infrastructure

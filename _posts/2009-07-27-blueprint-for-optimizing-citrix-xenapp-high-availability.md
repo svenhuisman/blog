@@ -4,7 +4,7 @@ title: Blueprint for Optimizing Citrix XenApp High Availability
 date: 2009-07-27T20:32:09+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1307
+guid: https://svenhuisman.com/?p=1307
 permalink: /2009/07/blueprint-for-optimizing-citrix-xenapp-high-availability/
 categories:
   - Virtual Applications

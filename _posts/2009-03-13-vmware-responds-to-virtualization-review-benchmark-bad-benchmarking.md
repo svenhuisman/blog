@@ -4,7 +4,7 @@ title: 'VMware responds to benchmark VirtualizationReview.com: &#8220;bad benchm
 date: 2009-03-13T10:27:13+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1040
+guid: https://svenhuisman.com/?p=1040
 permalink: /2009/03/vmware-responds-to-virtualization-review-benchmark-bad-benchmarking/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: Hands-on with Ericom AccessNow for VMware View
 date: 2011-07-04T13:00:48+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1986
+guid: https://svenhuisman.com/?p=1986
 permalink: /2011/07/hands-on-with-ericom-accessnow-for-vmware-view/
 image: /wp-content/uploads/2011/07/Kinect.jpg
 categories:

@@ -4,7 +4,7 @@ title: VMware vSphere unveiled
 date: 2009-04-21T11:54:17+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1106
+guid: https://svenhuisman.com/?p=1106
 permalink: /2009/04/vmware-vsphere-unveiled/
 categories:
   - Virtual Infrastructure

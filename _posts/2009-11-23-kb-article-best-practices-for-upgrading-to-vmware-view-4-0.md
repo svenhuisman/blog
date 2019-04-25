@@ -4,7 +4,7 @@ title: 'KB article: Best practices for upgrading to VMware View 4.0'
 date: 2009-11-23T22:23:18+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1556
+guid: https://svenhuisman.com/?p=1556
 permalink: /2009/11/kb-article-best-practices-for-upgrading-to-vmware-view-4-0/
 categories:
   - VDI Blog Battle

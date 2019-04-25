@@ -4,7 +4,7 @@ title: 'Getting Started with VMWare&#8217;s PowerShell Toolkit White Paper'
 date: 2008-06-15T23:20:47+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=60
+guid: https://svenhuisman.com/?p=60
 permalink: /2008/06/getting-started-with-vmwares-powershell-toolkit-white-paper/
 categories:
   - Virtualization news

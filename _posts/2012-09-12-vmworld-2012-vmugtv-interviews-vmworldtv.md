@@ -4,7 +4,7 @@ title: 'VMworld 2012 &#8211; VMUGTV interviews VMworldTV'
 date: 2012-09-12T13:45:58+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2427
+guid: https://svenhuisman.com/?p=2427
 permalink: /2012/09/vmworld-2012-vmugtv-interviews-vmworldtv/
 categories:
   - VMworld 2012 SF

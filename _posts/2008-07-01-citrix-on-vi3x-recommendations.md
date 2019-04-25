@@ -4,7 +4,7 @@ title: Citrix on VI3.x recommendations
 date: 2008-07-01T15:21:15+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=75
+guid: https://svenhuisman.com/?p=75
 permalink: /2008/07/citrix-on-vi3x-recommendations/
 categories:
   - Virtual Applications

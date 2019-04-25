@@ -4,7 +4,7 @@ title: 'VRC: Hyper-V 2008R2, vSphere 4, XenServer 5.5 on Intel ‘Nehalem’ Xeo
 date: 2010-02-16T07:40:09+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1666
+guid: https://svenhuisman.com/?p=1666
 permalink: '/2010/02/vrc-hyper-v-2008r2-vsphere-4-xenserver-5-5-on-intel-%e2%80%98nehalem%e2%80%99-xeon-5500/'
 categories:
   - Virtual Infrastructure

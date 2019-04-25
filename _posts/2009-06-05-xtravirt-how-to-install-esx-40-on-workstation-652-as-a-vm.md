@@ -4,7 +4,7 @@ title: 'Xtravirt : How to install ESX 4.0 on Workstation 6.5.2 as a VM'
 date: 2009-06-05T16:20:57+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1238
+guid: https://svenhuisman.com/?p=1238
 permalink: /2009/06/xtravirt-how-to-install-esx-40-on-workstation-652-as-a-vm/
 categories:
   - Virtual Infrastructure

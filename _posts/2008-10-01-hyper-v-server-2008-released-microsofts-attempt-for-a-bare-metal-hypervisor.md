@@ -4,7 +4,7 @@ title: 'Hyper-V Server 2008 Released: Microsoft&#8217;s attempt for a bare metal
 date: 2008-10-01T20:48:13+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=462
+guid: https://svenhuisman.com/?p=462
 permalink: /2008/10/hyper-v-server-2008-released-microsofts-attempt-for-a-bare-metal-hypervisor/
 categories:
   - Virtualization news

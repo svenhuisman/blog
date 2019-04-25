@@ -4,7 +4,7 @@ title: 'Quest vWorkspace &#8211; Version 7.0 released'
 date: 2009-12-22T08:39:39+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1613
+guid: https://svenhuisman.com/?p=1613
 permalink: /2009/12/quest-vworkspace-version-7-0-released/
 categories:
   - Virtual Desktop

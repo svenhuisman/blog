@@ -1,6 +1,6 @@
 ---
 id: 20169
-title: 'VMware Identity Manager &#8211; Analytics connection test failed'
+title: 'VMware Identity Manager Analytics connection test failed'
 date: 2016-12-14T19:00:08+02:00
 author: Sven Huisman
 layout: post

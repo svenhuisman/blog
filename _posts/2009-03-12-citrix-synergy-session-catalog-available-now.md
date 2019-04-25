@@ -4,7 +4,7 @@ title: Citrix Synergy Session Catalog available now!
 date: 2009-03-12T14:26:52+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1032
+guid: https://svenhuisman.com/?p=1032
 permalink: /2009/03/citrix-synergy-session-catalog-available-now/
 categories:
   - Citrix Synergy 2009

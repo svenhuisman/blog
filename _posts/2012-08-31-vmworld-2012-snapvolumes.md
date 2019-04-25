@@ -4,7 +4,7 @@ title: 'VMworld 2012 &#8211; SnapVolumes'
 date: 2012-08-31T03:02:13+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2420
+guid: https://svenhuisman.com/?p=2420
 permalink: /2012/08/vmworld-2012-snapvolumes/
 categories:
   - VMworld 2012 SF

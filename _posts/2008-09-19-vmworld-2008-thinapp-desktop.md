@@ -4,7 +4,7 @@ title: 'VMWorld 2008 &#8211; ThinApp desktop?'
 date: 2008-09-19T04:16:11+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=453
+guid: https://svenhuisman.com/?p=453
 permalink: /2008/09/vmworld-2008-thinapp-desktop/
 categories:
   - VMworld 2008 Vegas

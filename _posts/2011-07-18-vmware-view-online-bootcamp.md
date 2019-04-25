@@ -4,7 +4,7 @@ title: VMware View online bootcamp
 date: 2011-07-18T21:46:21+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2120
+guid: https://svenhuisman.com/?p=2120
 permalink: /2011/07/vmware-view-online-bootcamp/
 image: /wp-content/uploads/2011/07/drillinstructor.jpg
 categories:

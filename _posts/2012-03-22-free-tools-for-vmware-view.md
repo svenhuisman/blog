@@ -4,7 +4,7 @@ title: Free tools for VMware View
 date: 2012-03-22T10:30:04+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2294
+guid: https://svenhuisman.com/?p=2294
 permalink: /2012/03/free-tools-for-vmware-view/
 categories:
   - Virtual Desktop

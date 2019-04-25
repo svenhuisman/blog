@@ -4,7 +4,7 @@ title: App-V 4.5 Resource Kit Available
 date: 2008-11-03T15:17:05+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=529
+guid: https://svenhuisman.com/?p=529
 permalink: /2008/11/app-v-45-resource-kit-available/
 categories:
   - Virtualization news

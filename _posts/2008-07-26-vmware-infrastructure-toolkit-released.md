@@ -4,7 +4,7 @@ title: VMware Infrastructure Toolkit Released
 date: 2008-07-26T17:12:34+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=103
+guid: https://svenhuisman.com/?p=103
 permalink: /2008/07/vmware-infrastructure-toolkit-released/
 categories:
   - Scripts

@@ -4,7 +4,7 @@ title: Difference between free ESXi and licensed ESXi
 date: 2008-12-10T16:13:17+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=601
+guid: https://svenhuisman.com/?p=601
 permalink: /2008/12/difference-between-free-esxi-and-licensed-esxi/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: VMware releases ThinApp 4.0.1
 date: 2008-12-10T12:06:03+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=598
+guid: https://svenhuisman.com/?p=598
 permalink: /2008/12/vmware-releases-thinapp-401/
 categories:
   - Virtualization news

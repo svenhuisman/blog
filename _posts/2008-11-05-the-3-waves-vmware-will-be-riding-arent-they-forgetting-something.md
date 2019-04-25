@@ -4,7 +4,7 @@ title: 'The 3 waves VMware will be riding, aren&#8217;t they forgetting somethin
 date: 2008-11-05T22:22:29+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=531
+guid: https://svenhuisman.com/?p=531
 permalink: /2008/11/the-3-waves-vmware-will-be-riding-arent-they-forgetting-something/
 categories:
   - Virtualization news

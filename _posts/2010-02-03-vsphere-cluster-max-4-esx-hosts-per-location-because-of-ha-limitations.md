@@ -4,7 +4,7 @@ title: 'vSphere cluster: max 4 ESX hosts per “location” because of HA limita
 date: 2010-02-03T11:48:27+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1637
+guid: https://svenhuisman.com/?p=1637
 permalink: /2010/02/vsphere-cluster-max-4-esx-hosts-per-location-because-of-ha-limitations/
 categories:
   - Virtual Infrastructure

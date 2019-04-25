@@ -4,7 +4,7 @@ title: vSphere bug can bring down entire cluster (not fixed in Update1).
 date: 2010-01-22T15:44:13+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1579
+guid: https://svenhuisman.com/?p=1579
 permalink: /2010/01/vsphere-bug-can-bring-down-entire-cluster-not-fixed-in-update1/
 categories:
   - Virtual Infrastructure

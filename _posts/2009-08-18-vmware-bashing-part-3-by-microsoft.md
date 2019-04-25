@@ -4,7 +4,7 @@ title: '&#8220;VMware bashing part 3&#8221;, by Microsoft'
 date: 2009-08-18T11:27:42+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1325
+guid: https://svenhuisman.com/?p=1325
 permalink: /2009/08/vmware-bashing-part-3-by-microsoft/
 categories:
   - Virtual Infrastructure

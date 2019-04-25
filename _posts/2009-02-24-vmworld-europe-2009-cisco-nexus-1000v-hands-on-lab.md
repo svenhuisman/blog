@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: Cisco Nexus 1000V Hands-on lab'
 date: 2009-02-24T13:21:50+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=897
+guid: https://svenhuisman.com/?p=897
 permalink: /2009/02/vmworld-europe-2009-cisco-nexus-1000v-hands-on-lab/
 categories:
   - Virtual Infrastructure

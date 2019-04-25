@@ -4,7 +4,7 @@ title: 'Veeam Backup 3.0: faster backup than with VCB?'
 date: 2009-02-17T23:10:05+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=817
+guid: https://svenhuisman.com/?p=817
 permalink: /2009/02/veeam-backup-30-faster-backup-than-with-vcb/
 categories:
   - Virtual Infrastructure

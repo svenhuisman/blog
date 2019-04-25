@@ -4,7 +4,7 @@ title: 'VMware Powershell script &#8211; Storage VMmotion'
 date: 2008-07-29T16:06:26+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=139
+guid: https://svenhuisman.com/?p=139
 permalink: /2008/07/powershell-storage-vmotio/
 categories:
   - Scripts

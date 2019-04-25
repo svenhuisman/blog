@@ -4,7 +4,7 @@ title: 'vSphere client for iPad now available, and it&#8217;s free!'
 date: 2011-03-18T09:03:57+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1865
+guid: https://svenhuisman.com/?p=1865
 permalink: /2011/03/vsphere-client-for-ipad-now-available-and-its-free/
 image: /wp-content/uploads/2011/03/Ipad-vsphere.jpg
 categories:

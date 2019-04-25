@@ -4,7 +4,7 @@ title: Virtually anything is possible at VMworld Europe 2009
 date: 2009-01-09T16:51:56+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=644
+guid: https://svenhuisman.com/?p=644
 permalink: /2009/01/virtually-anything-is-possible-at-vmworld-europe-2009/
 categories:
   - Virtualization news

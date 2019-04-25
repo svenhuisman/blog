@@ -4,7 +4,7 @@ title: What is the impact of Application Virtualization on VDI?
 date: 2011-06-16T17:32:45+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1894
+guid: https://svenhuisman.com/?p=1894
 permalink: /2011/06/impact-appvirt-vd/
 image: /wp-content/uploads/2011/06/VRC.png
 categories:

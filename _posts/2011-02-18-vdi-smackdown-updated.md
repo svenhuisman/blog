@@ -4,7 +4,7 @@ title: VDI Smackdown updated!
 date: 2011-02-18T19:30:09+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1856
+guid: https://svenhuisman.com/?p=1856
 permalink: /2011/02/vdi-smackdown-updated/
 image: /wp-content/uploads/2011/02/WWE-Smackdown-Maria_1267292.jpg
 categories:

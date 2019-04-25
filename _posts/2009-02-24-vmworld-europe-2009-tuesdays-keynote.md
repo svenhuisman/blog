@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: Tuesday&#8217;s keynote pics'
 date: 2009-02-24T10:27:44+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=883
+guid: https://svenhuisman.com/?p=883
 permalink: /2009/02/vmworld-europe-2009-tuesdays-keynote/
 categories:
   - VMworld 2009 Cannes

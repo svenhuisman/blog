@@ -4,7 +4,7 @@ title: InstallFree releases new version
 date: 2008-10-15T12:08:47+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=486
+guid: https://svenhuisman.com/?p=486
 permalink: /2008/10/installfree-releases-new-version/
 categories:
   - Virtualization news

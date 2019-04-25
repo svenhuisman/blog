@@ -4,7 +4,7 @@ title: Get to know VDM 2.1 the new Guide
 date: 2008-06-09T17:40:47+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=25
+guid: https://svenhuisman.com/?p=25
 permalink: /2008/06/get-to-know-the-new-vdm-21-guide/
 categories:
   - Virtualization news

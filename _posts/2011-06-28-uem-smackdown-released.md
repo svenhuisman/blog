@@ -4,7 +4,7 @@ title: UEM Smackdown released
 date: 2011-06-28T23:02:20+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1914
+guid: https://svenhuisman.com/?p=1914
 permalink: /2011/06/uem-smackdown-released/
 image: /wp-content/uploads/2011/06/smackdown36.jpg
 categories:

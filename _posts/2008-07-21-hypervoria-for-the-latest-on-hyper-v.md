@@ -4,7 +4,7 @@ title: Hypervoria for the latest on Hyper-V
 date: 2008-07-21T21:42:33+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=96
+guid: https://svenhuisman.com/?p=96
 permalink: /2008/07/hypervoria-for-the-latest-on-hyper-v/
 categories:
   - Virtualization news

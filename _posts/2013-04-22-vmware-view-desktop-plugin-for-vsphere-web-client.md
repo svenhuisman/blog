@@ -4,7 +4,7 @@ title: VMware View Desktop plugin for vSphere Web Client
 date: 2013-04-22T17:26:14+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2533
+guid: https://svenhuisman.com/?p=2533
 permalink: /2013/04/vmware-view-desktop-plugin-for-vsphere-web-client/
 categories:
   - Virtual Desktop

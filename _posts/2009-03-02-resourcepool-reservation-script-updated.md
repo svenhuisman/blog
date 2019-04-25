@@ -4,7 +4,7 @@ title: ResourcePool Reservation Script updated
 date: 2009-03-02T22:18:36+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=943
+guid: https://svenhuisman.com/?p=943
 permalink: /2009/03/resourcepool-reservation-script-updated/
 categories:
   - Scripts

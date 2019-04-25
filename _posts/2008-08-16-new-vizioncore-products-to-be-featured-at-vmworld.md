@@ -4,7 +4,7 @@ title: New Vizioncore products to be featured at VMWORLD
 date: 2008-08-16T09:37:16+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=262
+guid: https://svenhuisman.com/?p=262
 permalink: /2008/08/new-vizioncore-products-to-be-featured-at-vmworld/
 categories:
   - Virtualization news

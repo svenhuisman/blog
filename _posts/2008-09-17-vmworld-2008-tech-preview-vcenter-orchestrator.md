@@ -4,7 +4,7 @@ title: 'VMWorld 2008 &#8211; Tech preview: vCenter Orchestrator'
 date: 2008-09-17T19:46:22+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/2008/09/vmworld-2008-tech-preview-vcenter-orchestrator/
+guid: https://svenhuisman.com/2008/09/vmworld-2008-tech-preview-vcenter-orchestrator/
 permalink: /2008/09/vmworld-2008-tech-preview-vcenter-orchestrator/
 categories:
   - VMworld 2008 Vegas

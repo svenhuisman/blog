@@ -4,7 +4,7 @@ title: VMworld Europe scheduled for October 2010
 date: 2009-08-07T10:32:37+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1323
+guid: https://svenhuisman.com/?p=1323
 permalink: /2009/08/vmworld-europe-scheduled-for-october-2010/
 categories:
   - VMworld 2009 SF

@@ -4,7 +4,7 @@ title: Run esxtop on ESXi from VIMA
 date: 2009-01-12T20:34:49+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=650
+guid: https://svenhuisman.com/?p=650
 permalink: /2009/01/run-esxtop-on-esxi-from-vima/
 categories:
   - Virtualization news

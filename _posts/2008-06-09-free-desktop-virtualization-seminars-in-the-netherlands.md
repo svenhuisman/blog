@@ -4,7 +4,7 @@ title: Free Desktop Virtualization seminars in The Netherlands
 date: 2008-06-09T17:55:05+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=26
+guid: https://svenhuisman.com/?p=26
 permalink: /2008/06/free-desktop-virtualization-seminars-in-the-netherlands/
 categories:
   - Virtualization news

@@ -4,7 +4,7 @@ title: VDI comparison
 date: 2008-06-03T09:46:28+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=9
+guid: https://svenhuisman.com/?p=9
 permalink: /2008/06/vdi-comparison/
 categories:
   - Virtual Desktop

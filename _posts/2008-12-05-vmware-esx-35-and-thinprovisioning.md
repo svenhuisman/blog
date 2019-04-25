@@ -4,7 +4,7 @@ title: VMware ESX 3.5 and thinprovisioning
 date: 2008-12-05T12:40:41+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=591
+guid: https://svenhuisman.com/?p=591
 permalink: /2008/12/vmware-esx-35-and-thinprovisioning/
 categories:
   - Virtual Infrastructure

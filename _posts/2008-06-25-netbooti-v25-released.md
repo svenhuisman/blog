@@ -4,7 +4,7 @@ title: netBoot/i v2.5 Released
 date: 2008-06-25T07:39:48+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=70
+guid: https://svenhuisman.com/?p=70
 permalink: /2008/06/netbooti-v25-released/
 categories:
   - Virtualization news

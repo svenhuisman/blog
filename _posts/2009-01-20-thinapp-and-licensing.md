@@ -4,7 +4,7 @@ title: Thinapp and licensing
 date: 2009-01-20T15:00:12+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=683
+guid: https://svenhuisman.com/?p=683
 permalink: /2009/01/thinapp-and-licensing/
 categories:
   - Virtual Applications

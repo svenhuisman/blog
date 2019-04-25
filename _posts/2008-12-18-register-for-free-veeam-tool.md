@@ -4,7 +4,7 @@ title: Register for free Veeam tool!
 date: 2008-12-18T22:23:31+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=625
+guid: https://svenhuisman.com/?p=625
 permalink: /2008/12/register-for-free-veeam-tool/
 categories:
   - Virtualization news

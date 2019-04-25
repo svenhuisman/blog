@@ -4,7 +4,7 @@ title: VDI and licensing
 date: 2009-02-19T11:06:18+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=825
+guid: https://svenhuisman.com/?p=825
 permalink: /2009/02/vdi-and-licensing/
 categories:
   - Virtual Desktop

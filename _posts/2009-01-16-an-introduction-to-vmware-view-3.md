@@ -4,7 +4,7 @@ title: An Introduction to VMware View 3
 date: 2009-01-16T12:00:51+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=674
+guid: https://svenhuisman.com/?p=674
 permalink: /2009/01/an-introduction-to-vmware-view-3/
 categories:
   - Virtual Desktop

@@ -4,7 +4,7 @@ title: 'VMworld 2012 &#8211; Troubleshooting VMware View 5 Deep Dive session (14
 date: 2012-06-05T20:45:10+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2329
+guid: https://svenhuisman.com/?p=2329
 permalink: /2012/06/vmworld-2012-troubleshooting-vmware-view-5-deep-dive-session-1458/
 categories:
   - Events

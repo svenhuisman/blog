@@ -4,7 +4,7 @@ title: VMware VMDK Recovery Tool (ESX 3.5 Update 3)
 date: 2008-12-09T11:51:19+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=596
+guid: https://svenhuisman.com/?p=596
 permalink: /2008/12/vmware-vmdk-recovery-tool-esx-35-update-3/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: How-to configure Office 365 Pro in a non-persistent VDI environment
 date: 2015-02-25T16:00:32+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=3593
+guid: https://svenhuisman.com/?p=3593
 permalink: /2015/02/how-to-configure-office-365-pro-in-a-non-persistent-vdi-environment/
 categories:
   - Virtual Desktop

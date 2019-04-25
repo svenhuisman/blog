@@ -4,7 +4,7 @@ title: VMware released express update
 date: 2008-08-13T08:42:28+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=244
+guid: https://svenhuisman.com/?p=244
 permalink: /2008/08/vmware-released-express-update/
 categories:
   - Virtualization news

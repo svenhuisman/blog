@@ -4,7 +4,7 @@ title: VMware View 4.0.1 released
 date: 2010-02-19T12:32:28+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1676
+guid: https://svenhuisman.com/?p=1676
 permalink: /2010/02/vmware-view-4-0-1-released/
 categories:
   - Virtual Infrastructure

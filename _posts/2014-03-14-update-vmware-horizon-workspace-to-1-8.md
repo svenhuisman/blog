@@ -4,7 +4,7 @@ title: Update VMware Horizon Workspace to 1.8
 date: 2014-03-14T16:36:01+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2562
+guid: https://svenhuisman.com/?p=2562
 permalink: /2014/03/update-vmware-horizon-workspace-to-1-8/
 categories:
   - Workspace Management

@@ -4,7 +4,7 @@ title: Veeam Backup 3.01 released
 date: 2009-03-17T18:28:12+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1049
+guid: https://svenhuisman.com/?p=1049
 permalink: /2009/03/veeam-backup-301-released/
 categories:
   - Virtual Infrastructure

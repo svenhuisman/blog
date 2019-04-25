@@ -4,7 +4,7 @@ title: VMware View 4.5 released today!
 date: 2010-09-10T06:45:13+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1745
+guid: https://svenhuisman.com/?p=1745
 permalink: /2010/09/vmware-view-4-5-released-today/
 categories:
   - Virtual Desktop

@@ -4,7 +4,7 @@ title: Xenserver 4.2 will have HA for free!
 date: 2008-07-15T16:25:19+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=81
+guid: https://svenhuisman.com/?p=81
 permalink: /2008/07/marathon-xenserver-faulttoleranc/
 categories:
   - Virtualization news

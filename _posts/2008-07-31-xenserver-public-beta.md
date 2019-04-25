@@ -4,7 +4,7 @@ title: Next release of Xenserver public beta release available now
 date: 2008-07-31T09:22:59+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=191
+guid: https://svenhuisman.com/?p=191
 permalink: /2008/07/xenserver-public-beta/
 categories:
   - Virtualization news

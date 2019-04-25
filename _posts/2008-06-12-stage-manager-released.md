@@ -4,7 +4,7 @@ title: Stage Manager released
 date: 2008-06-12T22:13:56+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=57
+guid: https://svenhuisman.com/?p=57
 permalink: /2008/06/stage-manager-released/
 categories:
   - Virtualization news

@@ -4,7 +4,7 @@ title: VMware View and ThinApp Integration Guide
 date: 2010-01-25T21:17:05+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1632
+guid: https://svenhuisman.com/?p=1632
 permalink: /2010/01/vmware-view-and-thinapp-integration-guide/
 categories:
   - Virtual Applications

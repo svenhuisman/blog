@@ -4,7 +4,7 @@ title: 'Vizioncore releases new technology: shirt-vmotion'
 date: 2008-09-17T03:30:08+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=371
+guid: https://svenhuisman.com/?p=371
 permalink: /2008/09/vizioncore-releases-new-technology-shirt-vmotion/
 categories:
   - VMworld 2008 Vegas

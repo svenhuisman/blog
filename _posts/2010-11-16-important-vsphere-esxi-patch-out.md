@@ -4,7 +4,7 @@ title: Important vSphere ESX4.1i patch out!
 date: 2010-11-16T12:22:02+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1832
+guid: https://svenhuisman.com/?p=1832
 permalink: /2010/11/important-vsphere-esxi-patch-out/
 categories:
   - Virtual Infrastructure

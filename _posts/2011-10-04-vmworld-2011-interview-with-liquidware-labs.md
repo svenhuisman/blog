@@ -4,7 +4,7 @@ title: 'VMworld 2011 &ndash; Interview with Liquidware Labs'
 date: 2011-10-04T00:21:32+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2245
+guid: https://svenhuisman.com/?p=2245
 permalink: /2011/10/vmworld-2011-interview-with-liquidware-labs/
 categories:
   - VMworld 2011 Vegas

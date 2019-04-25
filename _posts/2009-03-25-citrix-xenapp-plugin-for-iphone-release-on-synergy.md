@@ -4,7 +4,7 @@ title: Citrix XenApp Plugin for Iphone release on Synergy?
 date: 2009-03-25T12:27:13+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/2009/03/citrix-xenapp-plugin-for-iphone-release-on-synergy/
+guid: https://svenhuisman.com/2009/03/citrix-xenapp-plugin-for-iphone-release-on-synergy/
 permalink: /2009/03/citrix-xenapp-plugin-for-iphone-release-on-synergy/
 categories:
   - Citrix Synergy 2009

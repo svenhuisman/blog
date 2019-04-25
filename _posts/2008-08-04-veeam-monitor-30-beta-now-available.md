@@ -4,7 +4,7 @@ title: Veeam Monitor 3.0 beta now available
 date: 2008-08-04T17:07:24+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=217
+guid: https://svenhuisman.com/?p=217
 permalink: /2008/08/veeam-monitor-30-beta-now-available/
 categories:
   - Virtualization news

@@ -4,7 +4,7 @@ title: 'VMworld 2009: Session presentations available and new logo'
 date: 2009-09-01T14:42:45+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1363
+guid: https://svenhuisman.com/?p=1363
 permalink: /2009/09/vmworld-2009-session-presentations-available-and-new-logo/
 categories:
   - VMworld 2009 SF

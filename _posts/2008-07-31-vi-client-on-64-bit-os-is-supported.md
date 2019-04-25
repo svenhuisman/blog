@@ -4,7 +4,7 @@ title: VI client on 64-bit OS is supported
 date: 2008-07-31T10:40:57+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=199
+guid: https://svenhuisman.com/?p=199
 permalink: /2008/07/vi-client-on-64-bit-os-is-supported/
 categories:
   - Virtualization news

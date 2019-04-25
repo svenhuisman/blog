@@ -4,7 +4,7 @@ title: 'Microsoft App-V 4.6 Beta Available : now package 64-bit apps !'
 date: 2009-08-04T08:23:18+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1316
+guid: https://svenhuisman.com/?p=1316
 permalink: /2009/08/microsoft-app-v-46-beta-available-now-package-64-bit-apps/
 categories:
   - Virtual Infrastructure

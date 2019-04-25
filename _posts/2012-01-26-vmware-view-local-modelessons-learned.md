@@ -4,7 +4,7 @@ title: 'VMware View Local Mode &#8211; Lessons learned'
 date: 2012-01-26T23:43:26+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2264
+guid: https://svenhuisman.com/?p=2264
 permalink: /2012/01/vmware-view-local-modelessons-learned/
 categories:
   - Virtual Desktop

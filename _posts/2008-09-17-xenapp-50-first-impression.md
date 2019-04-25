@@ -4,7 +4,7 @@ title: 'XenApp 5.0 &#8211; First Impression'
 date: 2008-09-17T11:09:31+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=386
+guid: https://svenhuisman.com/?p=386
 permalink: /2008/09/xenapp-50-first-impression/
 categories:
   - Virtual Applications

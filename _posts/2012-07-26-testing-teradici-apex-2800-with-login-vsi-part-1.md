@@ -4,7 +4,7 @@ title: 'Testing Teradici APEX 2800 with Login VSI &#8211; part 1'
 date: 2012-07-26T16:59:18+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2379
+guid: https://svenhuisman.com/?p=2379
 permalink: /2012/07/testing-teradici-apex-2800-with-login-vsi-part-1/
 categories:
   - Virtual Desktop

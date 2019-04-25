@@ -4,7 +4,7 @@ title: Convert partitions to separate disks with VMware Converter
 date: 2008-07-18T10:13:51+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=85
+guid: https://svenhuisman.com/?p=85
 permalink: /2008/07/convert-disks-vmware-converter/
 categories:
   - Virtual Infrastructure

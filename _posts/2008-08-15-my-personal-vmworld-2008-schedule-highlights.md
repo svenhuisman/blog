@@ -4,7 +4,7 @@ title: My personal VMworld 2008 schedule highlights
 date: 2008-08-15T12:17:27+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=259
+guid: https://svenhuisman.com/?p=259
 permalink: /2008/08/my-personal-vmworld-2008-schedule-highlights/
 categories:
   - VMworld 2008 Vegas

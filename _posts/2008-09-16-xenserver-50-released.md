@@ -4,7 +4,7 @@ title: XENServer 5.0 Released!
 date: 2008-09-16T12:00:04+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=345
+guid: https://svenhuisman.com/?p=345
 permalink: /2008/09/xenserver-50-released/
 categories:
   - Virtualization news

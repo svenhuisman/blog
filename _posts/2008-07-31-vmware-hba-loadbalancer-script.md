@@ -4,7 +4,7 @@ title: 'VMware Powershell script &#8211; HBA LoadBalancer script'
 date: 2008-07-31T10:39:54+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=189
+guid: https://svenhuisman.com/?p=189
 permalink: /2008/07/vmware-hba-loadbalancer-script/
 categories:
   - Scripts

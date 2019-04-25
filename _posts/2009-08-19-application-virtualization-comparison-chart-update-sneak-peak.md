@@ -4,7 +4,7 @@ title: 'Application Virtualization comparison chart update: Sneak peak'
 date: 2009-08-19T11:09:44+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1343
+guid: https://svenhuisman.com/?p=1343
 permalink: /2009/08/application-virtualization-comparison-chart-update-sneak-peak/
 categories:
   - Virtual Applications

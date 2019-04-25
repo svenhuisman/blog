@@ -4,7 +4,7 @@ title: 'Hyper-V Server 2008 R2 RTM: finally LiveMigration'
 date: 2009-07-23T09:20:48+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1290
+guid: https://svenhuisman.com/?p=1290
 permalink: /2009/07/hyper-v-server-2008-r2-rtm-finally-livemigration/
 categories:
   - Virtual Infrastructure

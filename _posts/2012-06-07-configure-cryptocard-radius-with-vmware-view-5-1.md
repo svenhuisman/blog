@@ -4,7 +4,7 @@ title: Configure Cryptocard radius with VMware View 5.1
 date: 2012-06-07T22:25:00+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2354
+guid: https://svenhuisman.com/?p=2354
 permalink: /2012/06/configure-cryptocard-radius-with-vmware-view-5-1/
 categories:
   - Virtual Desktop

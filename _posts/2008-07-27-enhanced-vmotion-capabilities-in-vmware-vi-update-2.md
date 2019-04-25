@@ -4,7 +4,7 @@ title: Enhanced VMotion capabilities in VMWare VI Update 2
 date: 2008-07-27T09:04:40+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=109
+guid: https://svenhuisman.com/?p=109
 permalink: /2008/07/enhanced-vmotion-capabilities-in-vmware-vi-update-2/
 categories:
   - Virtualization news

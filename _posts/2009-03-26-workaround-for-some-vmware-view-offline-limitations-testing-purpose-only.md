@@ -4,7 +4,7 @@ title: Workaround for some VMware View Offline limitations (testing purpose only
 date: 2009-03-26T16:40:23+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1076
+guid: https://svenhuisman.com/?p=1076
 permalink: /2009/03/workaround-for-some-vmware-view-offline-limitations-testing-purpose-only/
 categories:
   - Virtual Desktop

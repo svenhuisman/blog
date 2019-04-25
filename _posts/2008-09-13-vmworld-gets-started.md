@@ -4,7 +4,7 @@ title: 'VMWorld 2008 &#8211; Las Vegas &#8211; Let&#8217;s get started'
 date: 2008-09-13T16:53:31+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=306
+guid: https://svenhuisman.com/?p=306
 permalink: /2008/09/vmworld-gets-started/
 categories:
   - VMworld 2008 Vegas

@@ -4,7 +4,7 @@ title: 'VMware ESX 3.5 Update 3: update older ESX versions with tarball'
 date: 2008-11-07T10:33:36+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=552
+guid: https://svenhuisman.com/?p=552
 permalink: /2008/11/updating-older-esx-versions-with-tarball/
 categories:
   - Virtual Infrastructure

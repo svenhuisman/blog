@@ -4,7 +4,7 @@ title: Advanced Performance Tuning VI3
 date: 2008-10-15T13:09:10+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=491
+guid: https://svenhuisman.com/?p=491
 permalink: /2008/10/advanced-performance-tuning-vi3/
 categories:
   - VMworld 2008 Vegas

@@ -4,7 +4,7 @@ title: 'VI3: Advanced Technical Design guide'
 date: 2008-06-05T20:53:15+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=15
+guid: https://svenhuisman.com/?p=15
 permalink: /2008/06/vi3-advanced-technical-design-guide/
 categories:
   - Virtualization news

@@ -4,7 +4,7 @@ title: An Introduction to VMware View 3, part 3
 date: 2009-01-30T10:14:39+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=712
+guid: https://svenhuisman.com/?p=712
 permalink: /2009/01/an-introduction-to-vmware-view-3-part-3/
 categories:
   - Virtual Desktop

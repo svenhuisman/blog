@@ -4,7 +4,7 @@ title: Veeam first with multiple VMware Ready Optimized products
 date: 2009-02-23T18:51:15+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=856
+guid: https://svenhuisman.com/?p=856
 permalink: /2009/02/veeam-first-with-multiple-vmware-ready-optimized-products/
 categories:
   - Events

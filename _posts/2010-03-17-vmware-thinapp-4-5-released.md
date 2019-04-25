@@ -4,7 +4,7 @@ title: VMware ThinApp 4.5 released!
 date: 2010-03-17T11:45:09+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1686
+guid: https://svenhuisman.com/?p=1686
 permalink: /2010/03/vmware-thinapp-4-5-released/
 categories:
   - Virtual Applications

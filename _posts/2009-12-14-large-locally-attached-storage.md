@@ -4,7 +4,7 @@ title: Large locally attached storage
 date: 2009-12-14T10:27:15+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=1593
+guid: https://svenhuisman.com/?p=1593
 permalink: /2009/12/large-locally-attached-storage/
 categories:
   - Virtual Infrastructure

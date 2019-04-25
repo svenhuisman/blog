@@ -4,7 +4,7 @@ title: Installfree will announce new features @ VMWorld!
 date: 2008-09-16T07:53:31+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=328
+guid: https://svenhuisman.com/?p=328
 permalink: /2008/09/installfree-new-feature/
 categories:
   - Virtualization news

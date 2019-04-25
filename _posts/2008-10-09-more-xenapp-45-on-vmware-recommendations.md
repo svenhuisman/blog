@@ -4,7 +4,7 @@ title: More XenApp 4.5 on VMware recommendations
 date: 2008-10-09T12:38:29+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=482
+guid: https://svenhuisman.com/?p=482
 permalink: /2008/10/more-xenapp-45-on-vmware-recommendations/
 categories:
   - Virtual Applications

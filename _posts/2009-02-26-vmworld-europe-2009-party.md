@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: PARTY!'
 date: 2009-02-26T02:18:29+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=945
+guid: https://svenhuisman.com/?p=945
 permalink: /2009/02/vmworld-europe-2009-party/
 categories:
   - VMworld 2009 Cannes

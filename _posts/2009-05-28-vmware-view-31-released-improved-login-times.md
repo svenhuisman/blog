@@ -4,7 +4,7 @@ title: 'VMware View 3.1 released : improved login times'
 date: 2009-05-28T08:57:05+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1198
+guid: https://svenhuisman.com/?p=1198
 permalink: /2009/05/vmware-view-31-released-improved-login-times/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: 'SMB NAS Review: Feature Comparison'
 date: 2011-08-22T16:40:36+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=2187
+guid: https://svenhuisman.com/?p=2187
 permalink: /2011/08/smb-nas-review-feature-comparison/
 image: /wp-content/uploads/2011/08/featurecomparison.png
 categories:

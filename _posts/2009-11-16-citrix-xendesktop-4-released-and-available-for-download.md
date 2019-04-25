@@ -4,7 +4,7 @@ title: Citrix XenDesktop 4 released and available for download
 date: 2009-11-16T23:06:49+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1515
+guid: https://svenhuisman.com/?p=1515
 permalink: /2009/11/citrix-xendesktop-4-released-and-available-for-download/
 categories:
   - VDI Blog Battle

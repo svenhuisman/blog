@@ -4,7 +4,7 @@ title: Hyper-V is here !
 date: 2008-06-26T23:10:14+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=73
+guid: https://svenhuisman.com/?p=73
 permalink: /2008/06/hyper-v-is-here/
 categories:
   - Virtualization news

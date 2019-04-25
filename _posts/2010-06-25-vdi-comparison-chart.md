@@ -4,7 +4,7 @@ title: VDI comparison chart
 date: 2010-06-25T09:23:31+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1733
+guid: https://svenhuisman.com/?p=1733
 permalink: /2010/06/vdi-comparison-chart/
 categories:
   - Virtual Desktop

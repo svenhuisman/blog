@@ -4,7 +4,7 @@ title: VMware View 5.1 new features highlighted
 date: 2012-05-02T21:43:52+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2319
+guid: https://svenhuisman.com/?p=2319
 permalink: /2012/05/vmwareview51-features/
 categories:
   - Virtual Desktop

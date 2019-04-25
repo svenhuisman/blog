@@ -4,7 +4,7 @@ title: Change properties in VMware Horizon Workspace
 date: 2013-04-23T15:36:29+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2538
+guid: https://svenhuisman.com/?p=2538
 permalink: /2013/04/change-properties-in-vmware-horizon-workspace/
 categories:
   - Enterprise Mobility

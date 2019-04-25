@@ -4,7 +4,7 @@ title: Microsoft updates License Agreements for Virtualized Environments
 date: 2008-08-21T17:38:43+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=267
+guid: https://svenhuisman.com/?p=267
 permalink: /2008/08/microsoft-updates-license-agreements-for-virtualized-environments/
 categories:
   - Virtual Infrastructure

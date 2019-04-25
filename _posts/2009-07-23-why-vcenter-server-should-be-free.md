@@ -4,7 +4,7 @@ title: Why vCenter server should be free
 date: 2009-07-23T20:43:52+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1278
+guid: https://svenhuisman.com/?p=1278
 permalink: /2009/07/why-vcenter-server-should-be-free/
 categories:
   - Virtual Infrastructure

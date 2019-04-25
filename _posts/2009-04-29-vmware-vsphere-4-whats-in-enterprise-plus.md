@@ -4,7 +4,7 @@ title: 'VMware vSphere 4: What&#8217;s in Enterprise Plus?'
 date: 2009-04-29T09:57:29+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1117
+guid: https://svenhuisman.com/?p=1117
 permalink: /2009/04/vmware-vsphere-4-whats-in-enterprise-plus/
 categories:
   - Virtual Infrastructure

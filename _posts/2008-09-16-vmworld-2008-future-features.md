@@ -4,7 +4,7 @@ title: 'VMWorld 2008 &#8211; future features'
 date: 2008-09-16T08:36:14+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=331
+guid: https://svenhuisman.com/?p=331
 permalink: /2008/09/vmworld-2008-future-features/
 categories:
   - VMworld 2008 Vegas

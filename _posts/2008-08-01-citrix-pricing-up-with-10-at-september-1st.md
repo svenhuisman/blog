@@ -4,7 +4,7 @@ title: 'Citrix pricing up with 10% at September 1st !'
 date: 2008-08-01T10:43:02+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=204
+guid: https://svenhuisman.com/?p=204
 permalink: /2008/08/citrix-pricing-up-with-10-at-september-1st/
 categories:
   - Virtualization news

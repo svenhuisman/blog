@@ -4,7 +4,7 @@ title: XenDesktop says goodbye to vSphere? (update 2)
 date: 2011-07-12T21:44:53+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2077
+guid: https://svenhuisman.com/?p=2077
 permalink: /2011/07/xendesktop-says-goodbye-to-vsphere/
 image: /wp-content/uploads/2011/07/goodbye1.jpg
 categories:

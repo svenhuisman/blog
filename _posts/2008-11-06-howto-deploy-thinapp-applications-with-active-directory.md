@@ -4,7 +4,7 @@ title: HOWTO deploy ThinApp applications with Active Directory
 date: 2008-11-06T22:31:33+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=543
+guid: https://svenhuisman.com/?p=543
 permalink: /2008/11/howto-deploy-thinapp-applications-with-active-directory/
 categories:
   - Virtual Applications

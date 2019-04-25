@@ -4,7 +4,7 @@ title: InstallFree release date revealed
 date: 2008-06-10T06:31:10+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=27
+guid: https://svenhuisman.com/?p=27
 permalink: /2008/06/installfree-release-dates-are-public/
 categories:
   - Virtualization news

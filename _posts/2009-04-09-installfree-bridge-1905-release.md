@@ -4,7 +4,7 @@ title: InstallFree Bridge Suite 1.9.0.5 Released
 date: 2009-04-09T08:27:19+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1097
+guid: https://svenhuisman.com/?p=1097
 permalink: /2009/04/installfree-bridge-1905-release/
 categories:
   - Virtual Applications

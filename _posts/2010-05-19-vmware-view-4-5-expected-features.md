@@ -4,7 +4,7 @@ title: VMware View 4.5 Expected Features
 date: 2010-05-19T08:30:54+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1696
+guid: https://svenhuisman.com/?p=1696
 permalink: /2010/05/vmware-view-4-5-expected-features/
 categories:
   - Virtual Desktop

@@ -4,7 +4,7 @@ title: 'VMware Online Virtualization Forum: November 10th and 11th'
 date: 2009-11-02T22:02:03+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1484
+guid: https://svenhuisman.com/?p=1484
 permalink: /2009/11/vmware-online-virtualization-forum-november-10th-and-11th/
 categories:
   - Virtual Desktop

@@ -4,7 +4,7 @@ title: 'VMware View Manager &#8220;The service is not working properly.&#8221;'
 date: 2012-11-20T22:30:09+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2467
+guid: https://svenhuisman.com/?p=2467
 permalink: /2012/11/vmware-view-manager-the-service-is-not-working-properly/
 categories:
   - Virtual Desktop

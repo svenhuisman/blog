@@ -4,7 +4,7 @@ title: ThinApp deployment methods whitepaper
 date: 2010-12-31T19:00:05+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1842
+guid: https://svenhuisman.com/?p=1842
 permalink: /2010/12/thinapp-deployment-methods-whitepaper/
 categories:
   - Virtual Applications

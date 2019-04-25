@@ -4,7 +4,7 @@ title: 'ESX 3.5 Update 2: Installable from SATA CDROM drive'
 date: 2008-08-04T11:57:01+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=208
+guid: https://svenhuisman.com/?p=208
 permalink: /2008/08/esx-35-update-2-installable-from-sata-cdrom-drive/
 categories:
   - Virtualization news

@@ -4,7 +4,7 @@ title: 'VMware vSphere 4: first impressions (in Dutch)'
 date: 2009-04-29T11:23:51+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1127
+guid: https://svenhuisman.com/?p=1127
 permalink: /2009/04/vmware-vsphere-4-first-impressions-in-dutch/
 categories:
   - Virtual Infrastructure

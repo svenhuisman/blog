@@ -4,7 +4,7 @@ title: 4sysops and the disadvantages of application virtualization
 date: 2008-08-04T16:18:59+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=213
+guid: https://svenhuisman.com/?p=213
 permalink: /2008/08/4sysops-and-the-disadvantages-of-application-virtualization/
 categories:
   - Virtualization news

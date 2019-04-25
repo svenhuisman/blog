@@ -4,7 +4,7 @@ title: VMware View 4 announced!
 date: 2009-11-09T12:00:29+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1513
+guid: https://svenhuisman.com/?p=1513
 permalink: /2009/11/vmware-view-4-announced/
 categories:
   - VDI Blog Battle

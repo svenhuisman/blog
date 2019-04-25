@@ -4,7 +4,7 @@ title: Application virtualization community at Appvirtguru.com
 date: 2010-01-11T22:39:12+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1622
+guid: https://svenhuisman.com/?p=1622
 permalink: /2010/01/application-virtualization-community-at-appvirtguru-com/
 categories:
   - Virtual Applications

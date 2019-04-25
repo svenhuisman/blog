@@ -4,7 +4,7 @@ title: 'VMware launch event: July 12, 2011'
 date: 2011-07-10T20:34:49+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2018
+guid: https://svenhuisman.com/?p=2018
 permalink: /2011/07/vmware-launch-event-july-12-2011/
 image: /wp-content/uploads/2011/07/VMware_event_july12.png
 categories:

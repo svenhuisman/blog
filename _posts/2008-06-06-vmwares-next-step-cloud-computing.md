@@ -4,7 +4,7 @@ title: 'VMware&#8217;s next step: cloud computing'
 date: 2008-06-06T10:50:51+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=21
+guid: https://svenhuisman.com/?p=21
 permalink: /2008/06/vmwares-next-step-cloud-computing/
 categories:
   - Virtualization news

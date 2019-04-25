@@ -4,7 +4,7 @@ title: Bezoek hét VMware evenement van het jaar!(Dutch)
 date: 2010-11-11T16:06:24+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1829
+guid: https://svenhuisman.com/?p=1829
 permalink: /2010/11/bezoek-het-vmware-evenement-van-het-jaardutch/
 categories:
   - Events

@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: Client Virtualization Platform (CVP)'
 date: 2009-02-24T14:17:22+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=899
+guid: https://svenhuisman.com/?p=899
 permalink: /2009/02/vmworld-europe-2009-client-virtualization-platform-cvp/
 categories:
   - Virtual Desktop

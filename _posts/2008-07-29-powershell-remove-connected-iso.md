@@ -4,7 +4,7 @@ title: 'VMware Powershell script &#8211; remove connected iso'
 date: 2008-07-29T12:09:49+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=127
+guid: https://svenhuisman.com/?p=127
 permalink: /2008/07/powershell-remove-connected-iso/
 categories:
   - Scripts

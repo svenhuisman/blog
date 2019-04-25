@@ -4,7 +4,7 @@ title: VMware top 10 security issues
 date: 2008-05-29T21:07:19+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=23
+guid: https://svenhuisman.com/?p=23
 permalink: /2008/05/vmware-top-10-security-issues/
 categories:
   - Virtual Infrastructure

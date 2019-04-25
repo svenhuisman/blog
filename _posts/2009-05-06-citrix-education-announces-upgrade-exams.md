@@ -4,7 +4,7 @@ title: Citrix Education announces upgrade Exams!
 date: 2009-05-06T17:21:42+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1145
+guid: https://svenhuisman.com/?p=1145
 permalink: /2009/05/citrix-education-announces-upgrade-exams/
 categories:
   - Citrix Synergy 2009

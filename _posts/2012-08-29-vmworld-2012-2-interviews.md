@@ -4,7 +4,7 @@ title: 'VMworld 2012 &#8211; 2 interviews'
 date: 2012-08-29T21:57:02+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2417
+guid: https://svenhuisman.com/?p=2417
 permalink: /2012/08/vmworld-2012-2-interviews/
 categories:
   - VMworld 2012 SF

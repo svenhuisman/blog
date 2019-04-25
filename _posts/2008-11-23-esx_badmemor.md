@@ -4,7 +4,7 @@ title: What bad memory can do to your virtual machines
 date: 2008-11-23T23:16:15+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=579
+guid: https://svenhuisman.com/?p=579
 permalink: /2008/11/esx_badmemor/
 categories:
   - Virtual Infrastructure

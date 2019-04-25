@@ -4,7 +4,7 @@ title: Secure your VMware View security server!
 date: 2013-02-05T11:16:19+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2494
+guid: https://svenhuisman.com/?p=2494
 permalink: /2013/02/secure-your-vmware-view-security-server/
 categories:
   - Virtual Desktop

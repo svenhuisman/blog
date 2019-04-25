@@ -4,7 +4,7 @@ title: 'VMware Horizon Application Manager &#8211; Using wildcard SSL certificat
 date: 2012-07-04T20:55:46+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2368
+guid: https://svenhuisman.com/?p=2368
 permalink: /2012/07/vmware-horizon-application-manager-using-wildcard-ssl-certificate/
 categories:
   - Workspace Management

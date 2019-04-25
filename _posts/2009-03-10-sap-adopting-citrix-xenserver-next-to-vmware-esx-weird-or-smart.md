@@ -4,7 +4,7 @@ title: 'SAP adopting Citrix XenServer next to VMware ESX: weird or smart ?'
 date: 2009-03-10T18:00:16+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=993
+guid: https://svenhuisman.com/?p=993
 permalink: /2009/03/sap-adopting-citrix-xenserver-next-to-vmware-esx-weird-or-smart/
 categories:
   - Virtual Infrastructure

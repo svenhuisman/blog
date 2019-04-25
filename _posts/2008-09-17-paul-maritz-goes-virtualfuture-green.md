@@ -4,7 +4,7 @@ title: 'Paul Maritz goes &#8220;virtualfuture&#8221; green'
 date: 2008-09-17T01:28:10+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=365
+guid: https://svenhuisman.com/?p=365
 permalink: /2008/09/paul-maritz-goes-virtualfuture-green/
 categories:
   - VMworld 2008 Vegas

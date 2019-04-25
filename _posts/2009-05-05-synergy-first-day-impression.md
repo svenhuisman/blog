@@ -4,7 +4,7 @@ title: Synergy First Day impression
 date: 2009-05-05T17:50:08+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1138
+guid: https://svenhuisman.com/?p=1138
 permalink: /2009/05/synergy-first-day-impression/
 categories:
   - Citrix Synergy 2009

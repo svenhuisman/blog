@@ -4,7 +4,7 @@ title: The Virtualization Administrator is dead !
 date: 2008-06-27T11:46:14+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=72
+guid: https://svenhuisman.com/?p=72
 permalink: /2008/06/the-virtualization-administrator-is-dead/
 comment_count:
   - "2"

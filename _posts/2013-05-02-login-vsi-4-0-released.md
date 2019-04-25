@@ -4,7 +4,7 @@ title: Login VSI 4.0 released!
 date: 2013-05-02T13:38:13+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2548
+guid: https://svenhuisman.com/?p=2548
 permalink: /2013/05/login-vsi-4-0-released/
 categories:
   - Virtual Desktop

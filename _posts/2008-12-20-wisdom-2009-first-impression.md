@@ -4,7 +4,7 @@ title: Wisdom 2009 first impression
 date: 2008-12-20T21:45:27+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=634
+guid: https://svenhuisman.com/?p=634
 permalink: /2008/12/wisdom-2009-first-impression/
 categories:
   - Workspace Management

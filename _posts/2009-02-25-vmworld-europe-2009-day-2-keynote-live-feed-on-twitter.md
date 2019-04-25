@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: Day 2: Keynote live feed on twitter'
 date: 2009-02-25T14:05:34+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=921
+guid: https://svenhuisman.com/?p=921
 permalink: /2009/02/vmworld-europe-2009-day-2-keynote-live-feed-on-twitter/
 categories:
   - VMworld 2009 Cannes

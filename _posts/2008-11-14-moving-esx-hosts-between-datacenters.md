@@ -4,7 +4,7 @@ title: Moving ESX hosts between Datacenters
 date: 2008-11-14T10:29:14+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=567
+guid: https://svenhuisman.com/?p=567
 permalink: /2008/11/moving-esx-hosts-between-datacenters/
 categories:
   - Virtual Infrastructure

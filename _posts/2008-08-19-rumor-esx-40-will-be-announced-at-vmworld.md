@@ -4,7 +4,7 @@ title: 'Rumor: ESX 4.0 will be announced at VMWorld!'
 date: 2008-08-19T10:49:13+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=265
+guid: https://svenhuisman.com/?p=265
 permalink: /2008/08/rumor-esx-40-will-be-announced-at-vmworld/
 categories:
   - Virtualization news

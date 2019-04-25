@@ -4,7 +4,7 @@ title: 'VMware adopts BlueLane and it&#8217;s &#8220;VirtSec&#8221; solution'
 date: 2008-11-12T11:28:03+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=560
+guid: https://svenhuisman.com/?p=560
 permalink: /2008/11/vmware-adopts-bluelane-and-its-virtsec-solution/
 categories:
   - Virtualization news

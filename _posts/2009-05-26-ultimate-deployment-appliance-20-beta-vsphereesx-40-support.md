@@ -4,7 +4,7 @@ title: 'Ultimate Deployment Appliance 2.0 beta &#8211; vSphere/ESX 4.0 support'
 date: 2009-05-26T22:50:07+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1179
+guid: https://svenhuisman.com/?p=1179
 permalink: /2009/05/ultimate-deployment-appliance-20-beta-vsphereesx-40-support/
 categories:
   - Virtual Infrastructure

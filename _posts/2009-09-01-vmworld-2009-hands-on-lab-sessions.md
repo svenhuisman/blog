@@ -4,7 +4,7 @@ title: 'VMworld 2009: Hands-on Lab sessions'
 date: 2009-09-01T15:10:19+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1360
+guid: https://svenhuisman.com/?p=1360
 permalink: /2009/09/vmworld-2009-hands-on-lab-sessions/
 categories:
   - VMworld 2009 SF

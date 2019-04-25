@@ -4,7 +4,7 @@ title: 'Tripwire &amp; VMWare release ConfigCheck for VMware ESX Hosts'
 date: 2008-06-05T09:34:13+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=12
+guid: https://svenhuisman.com/?p=12
 permalink: /2008/06/tripwire-vmware-release-configcheck-for-vmware-esx-hosts/
 categories:
   - Virtualization news

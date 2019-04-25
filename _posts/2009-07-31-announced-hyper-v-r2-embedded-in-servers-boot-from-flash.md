@@ -4,7 +4,7 @@ title: 'Announced: Hyper-V R2 embedded in servers (boot-from-flash)'
 date: 2009-07-31T10:32:44+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1309
+guid: https://svenhuisman.com/?p=1309
 permalink: /2009/07/announced-hyper-v-r2-embedded-in-servers-boot-from-flash/
 categories:
   - Virtual Infrastructure

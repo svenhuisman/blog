@@ -4,7 +4,7 @@ title: Win a VirtualFuture.info polo-shirt!
 date: 2008-08-29T11:11:49+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=277
+guid: https://svenhuisman.com/?p=277
 permalink: /2008/08/win-a-virtualfutureinfo-polo-shirt/
 categories:
   - Virtualization news

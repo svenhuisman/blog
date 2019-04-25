@@ -4,7 +4,7 @@ title: 'Released : Scense 6 !'
 date: 2009-02-10T12:55:48+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=737
+guid: https://svenhuisman.com/?p=737
 permalink: /2009/02/released-scense-6/
 categories:
   - Workspace Management

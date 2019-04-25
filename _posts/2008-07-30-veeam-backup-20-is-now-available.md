@@ -4,7 +4,7 @@ title: Veeam Backup 2.0 is now available!
 date: 2008-07-30T15:37:15+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=156
+guid: https://svenhuisman.com/?p=156
 permalink: /2008/07/veeam-backup-20-is-now-available/
 categories:
   - Virtualization news

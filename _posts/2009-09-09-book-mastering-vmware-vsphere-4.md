@@ -4,7 +4,7 @@ title: 'Book: Mastering VMware vSphere 4'
 date: 2009-09-09T13:26:35+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1416
+guid: https://svenhuisman.com/?p=1416
 permalink: /2009/09/book-mastering-vmware-vsphere-4/
 categories:
   - Virtual Infrastructure

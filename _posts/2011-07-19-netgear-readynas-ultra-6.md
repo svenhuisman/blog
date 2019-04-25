@@ -4,7 +4,7 @@ title: Netgear ReadyNAS Ultra 6 review
 date: 2011-07-19T14:00:58+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=2091
+guid: https://svenhuisman.com/?p=2091
 permalink: /2011/07/netgear-readynas-ultra-6/
 image: /wp-content/uploads/2011/07/NetgearReadyNasUltra6.jpg
 categories:

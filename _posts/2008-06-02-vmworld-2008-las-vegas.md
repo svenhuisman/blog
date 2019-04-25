@@ -4,7 +4,7 @@ title: VMWorld 2008, Las Vegas
 date: 2008-06-02T08:36:30+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=6
+guid: https://svenhuisman.com/?p=6
 permalink: /2008/06/vmworld-2008-las-vegas/
 categories:
   - VMworld 2008 Vegas

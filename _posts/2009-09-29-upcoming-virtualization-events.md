@@ -4,7 +4,7 @@ title: Upcoming virtualization events
 date: 2009-09-29T08:18:27+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1436
+guid: https://svenhuisman.com/?p=1436
 permalink: /2009/09/upcoming-virtualization-events/
 categories:
   - Events

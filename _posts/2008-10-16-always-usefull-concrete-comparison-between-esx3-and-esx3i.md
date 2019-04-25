@@ -4,7 +4,7 @@ title: 'Always usefull : concrete comparison between ESX3 and ESX3i'
 date: 2008-10-16T10:10:56+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=494
+guid: https://svenhuisman.com/?p=494
 permalink: /2008/10/always-usefull-concrete-comparison-between-esx3-and-esx3i/
 categories:
   - Virtualization news

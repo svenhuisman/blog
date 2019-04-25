@@ -4,7 +4,7 @@ title: CDG Technical Update Event 5
 date: 2008-06-03T22:35:01+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=10
+guid: https://svenhuisman.com/?p=10
 permalink: /2008/06/cdg-technical-update-event-5/
 comment_count:
   - "1"

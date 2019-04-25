@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: Name vSphere and 2 new products officially announce
 date: 2009-02-23T10:46:18+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=848
+guid: https://svenhuisman.com/?p=848
 permalink: /2009/02/vmworld-europe-2009-name-vsphere-and-2-new-products-officially-announced/
 categories:
   - Events

@@ -4,7 +4,7 @@ title: VMware Thinapp 4 available
 date: 2008-06-28T09:21:34+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=74
+guid: https://svenhuisman.com/?p=74
 permalink: /2008/06/vmware-thinapp-4-available/
 categories:
   - Virtualization news

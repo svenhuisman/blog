@@ -4,7 +4,7 @@ title: Richard Garsthagen reveals details VMWorld Europe 2009
 date: 2008-12-15T12:41:39+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=612
+guid: https://svenhuisman.com/?p=612
 permalink: /2008/12/richard-garsthagen-reveals-details-vmworld-europe-2009/
 categories:
   - VMworld 2009 Cannes

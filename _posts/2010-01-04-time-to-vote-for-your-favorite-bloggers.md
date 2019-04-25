@@ -4,7 +4,7 @@ title: Time to vote for your favorite bloggers
 date: 2010-01-04T21:24:45+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1620
+guid: https://svenhuisman.com/?p=1620
 permalink: /2010/01/time-to-vote-for-your-favorite-bloggers/
 categories:
   - Other posts

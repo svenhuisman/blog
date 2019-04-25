@@ -4,7 +4,7 @@ title: Belgium VMUG and VMware View Troubleshooting
 date: 2012-06-02T19:47:09+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2323
+guid: https://svenhuisman.com/?p=2323
 permalink: /2012/06/belgium-vmug-and-vmware-view-troubleshooting/
 categories:
   - Events

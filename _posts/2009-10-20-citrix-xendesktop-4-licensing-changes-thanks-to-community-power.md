@@ -4,7 +4,7 @@ title: Citrix XenDesktop 4 Licensing changes thanks to community power
 date: 2009-10-20T08:55:32+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1449
+guid: https://svenhuisman.com/?p=1449
 permalink: /2009/10/citrix-xendesktop-4-licensing-changes-thanks-to-community-power/
 categories:
   - VDI Blog Battle

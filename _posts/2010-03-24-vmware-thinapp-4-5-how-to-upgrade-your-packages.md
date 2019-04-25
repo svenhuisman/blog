@@ -4,7 +4,7 @@ title: 'VMware ThinApp 4.5: How to upgrade your packages?'
 date: 2010-03-24T22:26:34+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1688
+guid: https://svenhuisman.com/?p=1688
 permalink: /2010/03/vmware-thinapp-4-5-how-to-upgrade-your-packages/
 categories:
   - Virtual Applications

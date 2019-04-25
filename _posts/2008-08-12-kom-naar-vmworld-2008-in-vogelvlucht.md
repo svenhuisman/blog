@@ -4,7 +4,7 @@ title: Kom naar VMWorld 2008 in vogelvlucht!
 date: 2008-08-12T15:10:58+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=234
+guid: https://svenhuisman.com/?p=234
 permalink: /2008/08/kom-naar-vmworld-2008-in-vogelvlucht/
 categories:
   - Virtualization news

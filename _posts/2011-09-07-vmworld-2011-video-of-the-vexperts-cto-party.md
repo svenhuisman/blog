@@ -4,7 +4,7 @@ title: 'VMworld 2011 &#8211; Video of the vExperts CTO party'
 date: 2011-09-07T22:41:03+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2201
+guid: https://svenhuisman.com/?p=2201
 permalink: /2011/09/vmworld-2011-video-of-the-vexperts-cto-party/
 image: /wp-content/uploads/2011/09/cocktails16.gif
 categories:

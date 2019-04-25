@@ -1,6 +1,6 @@
 ---
 id: 22448
-title: 'Windows 10 in non-persistent VDI &#8211; Login speed &#8211; part 2'
+title: 'Windows 10 in non-persistent VDI - Login speed part 2'
 date: 2017-03-12T22:37:47+02:00
 author: Sven Huisman
 layout: post

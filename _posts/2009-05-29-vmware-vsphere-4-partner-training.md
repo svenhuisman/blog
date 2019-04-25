@@ -4,7 +4,7 @@ title: VMware vSphere 4 partner training
 date: 2009-05-29T00:01:57+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=1202
+guid: https://svenhuisman.com/?p=1202
 permalink: /2009/05/vmware-vsphere-4-partner-training/
 categories:
   - Virtual Infrastructure

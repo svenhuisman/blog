@@ -4,7 +4,7 @@ title: XenDesktop 3 Top 10 Architecture Tips
 date: 2009-05-07T04:32:40+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1152
+guid: https://svenhuisman.com/?p=1152
 permalink: /2009/05/xendesktop-3-top-10-architecture-tips/
 categories:
   - Citrix Synergy 2009

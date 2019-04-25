@@ -4,7 +4,7 @@ title: XP Template differences between ESX3.02 and ESX 3.5 Update1
 date: 2008-07-09T08:24:19+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=79
+guid: https://svenhuisman.com/?p=79
 permalink: /2008/07/xp-template-differences-between-esx302-and-esx-35update1/
 categories:
   - Virtualization news

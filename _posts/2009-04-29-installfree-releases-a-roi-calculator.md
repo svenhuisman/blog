@@ -4,7 +4,7 @@ title: InstallFree releases a ROI-calculator
 date: 2009-04-29T12:22:30+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1130
+guid: https://svenhuisman.com/?p=1130
 permalink: /2009/04/installfree-releases-a-roi-calculator/
 categories:
   - Virtual Applications

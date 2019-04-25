@@ -4,7 +4,7 @@ title: 'Horizon View 6 &#8211; Cloud Pod Architecture'
 date: 2014-06-19T21:15:04+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=3273
+guid: https://svenhuisman.com/?p=3273
 permalink: /2014/06/horizon-view-6-cloud-pod-architecture/
 categories:
   - Virtual Desktop

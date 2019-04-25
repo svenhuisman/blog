@@ -4,7 +4,7 @@ title: SMB/LAB NAS Review
 date: 2011-07-07T16:04:00+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=2001
+guid: https://svenhuisman.com/?p=2001
 permalink: /2011/07/smblab-nas-review/
 image: /wp-content/uploads/2011/07/naspile1_800.jpg
 categories:

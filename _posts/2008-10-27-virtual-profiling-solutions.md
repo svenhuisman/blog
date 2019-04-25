@@ -4,7 +4,7 @@ title: Virtual Profiling Solutions
 date: 2008-10-27T15:53:26+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=507
+guid: https://svenhuisman.com/?p=507
 permalink: /2008/10/virtual-profiling-solutions/
 categories:
   - Workspace Management

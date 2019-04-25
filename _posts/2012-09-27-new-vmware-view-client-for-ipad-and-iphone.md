@@ -4,7 +4,7 @@ title: 'New VMware View client for iPad&#8230; and iPhone!'
 date: 2012-09-27T15:04:28+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2453
+guid: https://svenhuisman.com/?p=2453
 permalink: /2012/09/new-vmware-view-client-for-ipad-and-iphone/
 categories:
   - Virtual Desktop

@@ -4,7 +4,7 @@ title: Marathon everRun VM v4.0.2 is now shipping
 date: 2008-10-16T18:14:41+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=497
+guid: https://svenhuisman.com/?p=497
 permalink: /2008/10/marathon-everrun-vm-v402-is-now-shipping/
 categories:
   - Virtualization news

@@ -4,7 +4,7 @@ title: Migrate to Windows 7 with InstallFree
 date: 2009-09-20T21:55:35+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1430
+guid: https://svenhuisman.com/?p=1430
 permalink: /2009/09/migrate-to-win7-installfree/
 categories:
   - Virtual Applications

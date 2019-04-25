@@ -4,7 +4,7 @@ title: 'VMware&#8217;s Diane Greene about virtual future'
 date: 2008-06-05T09:36:01+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=11
+guid: https://svenhuisman.com/?p=11
 permalink: /2008/06/vmwares-diane-greene-about-virtual-future/
 comment_count:
   - "1"

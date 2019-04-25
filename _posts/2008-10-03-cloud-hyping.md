@@ -4,7 +4,7 @@ title: Cloud Hyping?
 date: 2008-10-03T11:57:00+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=477
+guid: https://svenhuisman.com/?p=477
 permalink: /2008/10/cloud-hyping/
 categories:
   - Virtual Infrastructure

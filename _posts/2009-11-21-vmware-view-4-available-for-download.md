@@ -4,7 +4,7 @@ title: VMware View 4 available for download!
 date: 2009-11-21T09:01:02+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1533
+guid: https://svenhuisman.com/?p=1533
 permalink: /2009/11/vmware-view-4-available-for-download/
 categories:
   - VDI Blog Battle

@@ -4,7 +4,7 @@ title: '7 &#8220;challenges&#8221; migrating from XP to Windows 7 using VDI'
 date: 2010-05-20T12:00:10+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1713
+guid: https://svenhuisman.com/?p=1713
 permalink: /2010/05/win7-vdi-challenges/
 categories:
   - Virtual Desktop

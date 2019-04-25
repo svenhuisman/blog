@@ -4,7 +4,7 @@ title: 'Brian Madden : &#8220;VDI is weird !&#8221;'
 date: 2008-06-24T23:30:19+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=69
+guid: https://svenhuisman.com/?p=69
 permalink: /2008/06/brian-madden-vdi-is-weird/
 categories:
   - Virtual Desktop

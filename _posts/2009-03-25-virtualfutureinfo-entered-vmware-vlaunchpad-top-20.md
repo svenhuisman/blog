@@ -4,7 +4,7 @@ title: VirtualFuture.info entered VMware vLaunchpad top 20!
 date: 2009-03-25T11:04:35+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1072
+guid: https://svenhuisman.com/?p=1072
 permalink: /2009/03/virtualfutureinfo-entered-vmware-vlaunchpad-top-20/
 categories:
   - Other posts

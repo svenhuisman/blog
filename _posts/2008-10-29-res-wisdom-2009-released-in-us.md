@@ -4,7 +4,7 @@ title: RES Wisdom 2009 Released in US
 date: 2008-10-29T11:13:44+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=522
+guid: https://svenhuisman.com/?p=522
 permalink: /2008/10/res-wisdom-2009-released-in-us/
 categories:
   - Virtualization news

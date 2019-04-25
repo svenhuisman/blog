@@ -4,7 +4,7 @@ title: The Power of XEN
 date: 2008-11-28T09:57:09+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=586
+guid: https://svenhuisman.com/?p=586
 permalink: /2008/11/the-power-of-xen/
 categories:
   - Virtual Infrastructure

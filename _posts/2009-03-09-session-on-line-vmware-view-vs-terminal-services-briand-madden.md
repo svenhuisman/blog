@@ -4,7 +4,7 @@ title: 'Session on-line: VMware View vs Terminal Services (Brian Madden)'
 date: 2009-03-09T12:41:52+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=965
+guid: https://svenhuisman.com/?p=965
 permalink: /2009/03/session-on-line-vmware-view-vs-terminal-services-briand-madden/
 categories:
   - VMworld 2009 Cannes

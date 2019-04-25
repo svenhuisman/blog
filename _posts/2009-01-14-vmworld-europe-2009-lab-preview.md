@@ -4,7 +4,7 @@ title: VMWorld Europe 2009 Lab preview
 date: 2009-01-14T12:52:00+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=665
+guid: https://svenhuisman.com/?p=665
 permalink: /2009/01/vmworld-europe-2009-lab-preview/
 categories:
   - VMworld 2009 Cannes

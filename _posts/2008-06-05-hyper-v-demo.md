@@ -4,7 +4,7 @@ title: Hyper-V demo
 date: 2008-06-05T16:25:59+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=14
+guid: https://svenhuisman.com/?p=14
 permalink: /2008/06/hyper-v-demo/
 categories:
   - Virtualization news

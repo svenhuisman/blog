@@ -4,7 +4,7 @@ title: VARs Choose VMware for Server Virtualization
 date: 2008-06-06T08:58:07+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=20
+guid: https://svenhuisman.com/?p=20
 permalink: /2008/06/vars-choose-vmware-for-server-virtualization/
 categories:
   - Virtual Infrastructure

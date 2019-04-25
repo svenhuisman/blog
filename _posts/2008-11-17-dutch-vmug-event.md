@@ -4,7 +4,7 @@ title: Dutch VMUG event
 date: 2008-11-17T17:10:38+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=573
+guid: https://svenhuisman.com/?p=573
 permalink: /2008/11/dutch-vmug-event/
 categories:
   - Virtualization news

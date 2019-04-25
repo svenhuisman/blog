@@ -4,7 +4,7 @@ title: 'Sure, VMWare made a (critical) mistake, but what&#8217;s all the fuzz ab
 date: 2008-08-13T12:50:36+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=248
+guid: https://svenhuisman.com/?p=248
 permalink: /2008/08/sure-vmware-made-a-critical-mistake-but-whats-all-the-fuzz-about/
 categories:
   - Virtual Infrastructure

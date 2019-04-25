@@ -4,7 +4,7 @@ title: VMware View upcoming features
 date: 2010-03-11T00:10:28+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1681
+guid: https://svenhuisman.com/?p=1681
 permalink: /2010/03/vmware-view-upcoming-features/
 categories:
   - Virtual Desktop

@@ -4,7 +4,7 @@ title: 'VMworld 2009: General session'
 date: 2009-09-01T17:16:55+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1369
+guid: https://svenhuisman.com/?p=1369
 permalink: /2009/09/vmworld-2009-general-session/
 categories:
   - VMworld 2009 SF

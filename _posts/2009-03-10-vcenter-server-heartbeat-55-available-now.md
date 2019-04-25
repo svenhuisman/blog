@@ -4,7 +4,7 @@ title: vCenter server heartbeat 5.5 available NOW!
 date: 2009-03-10T11:31:31+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=987
+guid: https://svenhuisman.com/?p=987
 permalink: /2009/03/vcenter-server-heartbeat-55-available-now/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: 'VMware Powershell script &#8211; Remove snapshots'
 date: 2008-07-30T12:17:07+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=147
+guid: https://svenhuisman.com/?p=147
 permalink: /2008/07/remove-snapshots-script/
 categories:
   - Scripts

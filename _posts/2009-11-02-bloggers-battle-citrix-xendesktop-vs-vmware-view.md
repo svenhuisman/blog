@@ -4,7 +4,7 @@ title: 'Bloggers-battle: Citrix Xendesktop vs VMware View'
 date: 2009-11-02T15:56:20+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1465
+guid: https://svenhuisman.com/?p=1465
 permalink: /2009/11/bloggers-battle-citrix-xendesktop-vs-vmware-view/
 categories:
   - Virtual Desktop

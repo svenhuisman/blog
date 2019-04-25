@@ -4,7 +4,7 @@ title: 'VMware VDM 2.1 reviewer&#8217;s guide'
 date: 2008-06-06T08:08:34+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=17
+guid: https://svenhuisman.com/?p=17
 permalink: /2008/06/vmware-vdm-21-reviewers-guide/
 categories:
   - Virtual Desktop

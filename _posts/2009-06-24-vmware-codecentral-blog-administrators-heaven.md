@@ -4,7 +4,7 @@ title: 'VMware CodeCentral Blog : Administrators heaven ?'
 date: 2009-06-24T10:52:06+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1261
+guid: https://svenhuisman.com/?p=1261
 permalink: /2009/06/vmware-codecentral-blog-administrators-heaven/
 categories:
   - Virtual Infrastructure

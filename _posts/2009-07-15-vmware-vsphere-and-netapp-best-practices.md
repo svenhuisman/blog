@@ -4,7 +4,7 @@ title: VMware vSphere and NetApp best practices
 date: 2009-07-15T10:10:21+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1283
+guid: https://svenhuisman.com/?p=1283
 permalink: /2009/07/vmware-vsphere-and-netapp-best-practices/
 categories:
   - Virtual Infrastructure

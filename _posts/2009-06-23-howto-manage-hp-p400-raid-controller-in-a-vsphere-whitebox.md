@@ -4,7 +4,7 @@ title: HOWTO manage HP P400 RAID controller in a vSphere whitebox
 date: 2009-06-23T21:22:24+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1253
+guid: https://svenhuisman.com/?p=1253
 permalink: /2009/06/howto-manage-hp-p400-raid-controller-in-a-vsphere-whitebox/
 categories:
   - Virtual Infrastructure

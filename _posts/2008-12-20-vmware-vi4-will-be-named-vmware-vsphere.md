@@ -4,7 +4,7 @@ title: VMware VI4 will be named VMware vSphere
 date: 2008-12-20T09:24:17+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=629
+guid: https://svenhuisman.com/?p=629
 permalink: /2008/12/vmware-vi4-will-be-named-vmware-vsphere/
 categories:
   - Virtualization news

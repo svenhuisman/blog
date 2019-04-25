@@ -4,7 +4,7 @@ title: VMWare Workstation 6.5 Beta 2 released
 date: 2008-06-25T09:01:04+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=71
+guid: https://svenhuisman.com/?p=71
 permalink: /2008/06/vmware-workstation-65-beta-2-released/
 categories:
   - Virtualization news

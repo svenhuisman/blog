@@ -4,7 +4,7 @@ title: Microsoft releases SQL 2008
 date: 2008-08-07T08:46:27+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=236
+guid: https://svenhuisman.com/?p=236
 permalink: /2008/08/microsoft-releases-sql-2008/
 categories:
   - Virtualization news

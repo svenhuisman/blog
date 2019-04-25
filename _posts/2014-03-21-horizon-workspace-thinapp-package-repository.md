@@ -4,7 +4,7 @@ title: Horizon Workspace ThinApp non-domain joined access
 date: 2014-03-21T15:26:06+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2591
+guid: https://svenhuisman.com/?p=2591
 permalink: /2014/03/horizon-workspace-thinapp-package-repository/
 categories:
   - Workspace Management

@@ -4,7 +4,7 @@ title: VM-Template best practice
 date: 2008-11-11T11:52:50+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=558
+guid: https://svenhuisman.com/?p=558
 permalink: /2008/11/vm-template-best-practice/
 categories:
   - Virtual Infrastructure

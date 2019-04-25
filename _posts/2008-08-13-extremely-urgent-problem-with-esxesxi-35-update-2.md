@@ -4,7 +4,7 @@ title: EXTREMELY URGENT PROBLEM WITH ESX/ESXi 3.5 Update 2
 date: 2008-08-13T06:17:29+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=242
+guid: https://svenhuisman.com/?p=242
 permalink: /2008/08/extremely-urgent-problem-with-esxesxi-35-update-2/
 categories:
   - Virtualization news

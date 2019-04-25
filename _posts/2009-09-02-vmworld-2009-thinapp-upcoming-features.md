@@ -4,7 +4,7 @@ title: 'VMworld 2009: ThinApp upcoming features'
 date: 2009-09-02T01:56:08+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1402
+guid: https://svenhuisman.com/?p=1402
 permalink: /2009/09/vmworld-2009-thinapp-upcoming-features/
 categories:
   - Virtual Applications

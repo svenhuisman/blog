@@ -4,7 +4,7 @@ title: 'Project VRC: phase 3 &#8211; a must read!'
 date: 2010-09-29T10:20:54+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1755
+guid: https://svenhuisman.com/?p=1755
 permalink: /2010/09/project-vrc-phase-3-a-must-read/
 categories:
   - Virtual Desktop

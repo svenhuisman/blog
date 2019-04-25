@@ -4,7 +4,7 @@ title: 'Bookreview: VMware VI and vSphere SDK'
 date: 2009-10-29T23:10:52+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1458
+guid: https://svenhuisman.com/?p=1458
 permalink: /2009/10/bookreview-vmware-vi-and-vsphere-sdk/
 categories:
   - Virtual Infrastructure

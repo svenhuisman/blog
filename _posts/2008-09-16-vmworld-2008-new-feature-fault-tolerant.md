@@ -4,7 +4,7 @@ title: 'VMworld 2008 &#8211; New Feature: Fault Tolerant'
 date: 2008-09-16T22:23:34+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=353
+guid: https://svenhuisman.com/?p=353
 permalink: /2008/09/vmworld-2008-new-feature-fault-tolerant/
 categories:
   - Virtualization news

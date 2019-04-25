@@ -4,7 +4,7 @@ title: vSphere 4.1 released, vMotion part of Standard edition.
 date: 2010-07-13T09:10:15+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1740
+guid: https://svenhuisman.com/?p=1740
 permalink: /2010/07/vsphere-4-1-released-vmotion-part-of-standard-edition/
 categories:
   - Virtual Infrastructure

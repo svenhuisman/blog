@@ -4,7 +4,7 @@ title: VMware View 4 linkage
 date: 2009-12-03T21:59:00+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1587
+guid: https://svenhuisman.com/?p=1587
 permalink: /2009/12/vmware-view-4-linkage/
 categories:
   - VDI Blog Battle

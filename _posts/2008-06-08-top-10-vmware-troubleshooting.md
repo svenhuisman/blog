@@ -4,7 +4,7 @@ title: Top 10 VMware troubleshooting
 date: 2008-06-08T21:04:11+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=22
+guid: https://svenhuisman.com/?p=22
 permalink: /2008/06/top-10-vmware-troubleshooting/
 categories:
   - Virtual Infrastructure

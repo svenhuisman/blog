@@ -4,7 +4,7 @@ title: 'VMworld 2008 in vogelvlucht &#8211; Zeist'
 date: 2008-09-11T10:39:23+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=300
+guid: https://svenhuisman.com/?p=300
 permalink: /2008/09/vmworld-2008-in-vogelvlucht-zeist/
 categories:
   - Virtualization news

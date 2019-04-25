@@ -4,7 +4,7 @@ title: 'Xenserver: fast-clone a VM 120 times in 90 seconds'
 date: 2010-10-06T21:55:53+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1772
+guid: https://svenhuisman.com/?p=1772
 permalink: /2010/10/xenserver-fast-clone-a-vm-120-times-in-90-seconds/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: VMware ThinApp online bootcamp
 date: 2011-10-31T14:52:15+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2249
+guid: https://svenhuisman.com/?p=2249
 permalink: /2011/10/vmware-thinapp-online-bootcamp/
 categories:
   - Virtual Applications

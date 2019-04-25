@@ -4,7 +4,7 @@ title: 'Disappearing Virtual NIC &#038; VMX has left the building'
 date: 2011-04-12T23:07:54+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1876
+guid: https://svenhuisman.com/?p=1876
 permalink: /2011/04/disappearing-virtual-nic-vmx-has-left-the-building/
 image: /wp-content/uploads/2011/04/Leftthebuilding.jpg
 categories:

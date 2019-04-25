@@ -4,7 +4,7 @@ title: VMware Thinapp 4.0 announced
 date: 2008-06-10T14:34:06+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=52
+guid: https://svenhuisman.com/?p=52
 permalink: /2008/06/vmware-thinapp-40-released/
 categories:
   - Virtualization news

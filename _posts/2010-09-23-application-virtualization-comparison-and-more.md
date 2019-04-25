@@ -4,7 +4,7 @@ title: 'Application virtualization comparison&#8230; and more!'
 date: 2010-09-23T13:18:16+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1752
+guid: https://svenhuisman.com/?p=1752
 permalink: /2010/09/application-virtualization-comparison-and-more/
 categories:
   - Virtual Applications

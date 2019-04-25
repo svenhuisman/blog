@@ -4,7 +4,7 @@ title: VMware 3.5 review
 date: 2008-06-02T08:04:52+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=5
+guid: https://svenhuisman.com/?p=5
 permalink: /2008/06/vmware-35-review/
 categories:
   - Virtualization news

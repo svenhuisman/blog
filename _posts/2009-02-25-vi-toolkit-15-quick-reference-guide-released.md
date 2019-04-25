@@ -4,7 +4,7 @@ title: VI Toolkit 1.5 Quick Reference Guide released
 date: 2009-02-25T18:17:55+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=934
+guid: https://svenhuisman.com/?p=934
 permalink: /2009/02/vi-toolkit-15-quick-reference-guide-released/
 categories:
   - Scripts

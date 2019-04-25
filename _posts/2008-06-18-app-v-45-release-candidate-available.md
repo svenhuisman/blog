@@ -4,7 +4,7 @@ title: App-V 4.5 Release Candidate available
 date: 2008-06-18T10:06:50+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=62
+guid: https://svenhuisman.com/?p=62
 permalink: /2008/06/app-v-45-release-candidate-available/
 categories:
   - Virtualization news

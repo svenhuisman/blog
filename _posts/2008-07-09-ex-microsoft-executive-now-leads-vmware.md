@@ -4,7 +4,7 @@ title: Ex-Microsoft executive now leads VMWare!
 date: 2008-07-09T10:42:30+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=80
+guid: https://svenhuisman.com/?p=80
 permalink: /2008/07/ex-microsoft-executive-now-leads-vmware/
 categories:
   - Virtualization news

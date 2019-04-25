@@ -4,7 +4,7 @@ title: 'John Troyer says: think you are a vExpert? nominate yourself !'
 date: 2009-01-15T06:00:48+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=668
+guid: https://svenhuisman.com/?p=668
 permalink: /2009/01/john-troyer-says-wannabee-vexperts-nominate-yourself/
 categories:
   - Virtualization news

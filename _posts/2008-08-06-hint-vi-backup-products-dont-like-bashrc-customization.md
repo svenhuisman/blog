@@ -4,7 +4,7 @@ title: 'Hint : VI Backup products don&#8217;t like bashrc customization !'
 date: 2008-08-06T16:26:14+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=222
+guid: https://svenhuisman.com/?p=222
 permalink: /2008/08/hint-vi-backup-products-dont-like-bashrc-customization/
 categories:
   - Scripts

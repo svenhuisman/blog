@@ -4,7 +4,7 @@ title: 'Don&#8217;t forget the BIOS power management setting of your VDI-hosts!'
 date: 2014-04-09T16:22:23+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2609
+guid: https://svenhuisman.com/?p=2609
 permalink: /2014/04/bios-power-setting/
 categories:
   - Virtual Desktop

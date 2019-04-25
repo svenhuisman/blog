@@ -4,7 +4,7 @@ title: 'VMware&#8217;s Capacity Planner for free?'
 date: 2008-06-11T13:09:34+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=55
+guid: https://svenhuisman.com/?p=55
 permalink: /2008/06/vmwares-capacity-planner-for-free/
 categories:
   - Virtualization news

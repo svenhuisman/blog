@@ -4,7 +4,7 @@ title: 'Introduction to Citrix XenDesktop 4 [BlogBattle]'
 date: 2009-11-23T22:28:31+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1535
+guid: https://svenhuisman.com/?p=1535
 permalink: /2009/11/introduction-to-citrix-xendesktop-4-blogbattle/
 categories:
   - VDI Blog Battle

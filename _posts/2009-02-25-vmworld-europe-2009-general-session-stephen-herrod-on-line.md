@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: General Session Stephen Herrod on-line'
 date: 2009-02-25T18:03:58+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=927
+guid: https://svenhuisman.com/?p=927
 permalink: /2009/02/vmworld-europe-2009-general-session-stephen-herrod-on-line/
 categories:
   - VMworld 2009 Cannes

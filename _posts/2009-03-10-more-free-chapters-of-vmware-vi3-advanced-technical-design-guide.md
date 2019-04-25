@@ -4,7 +4,7 @@ title: 'More free chapters of VMware VI3: Advanced Technical Design Guide'
 date: 2009-03-10T23:05:47+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1001
+guid: https://svenhuisman.com/?p=1001
 permalink: /2009/03/more-free-chapters-of-vmware-vi3-advanced-technical-design-guide/
 categories:
   - Virtual Infrastructure

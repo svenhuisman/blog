@@ -4,7 +4,7 @@ title: Why attend VMworld during financial crisis?
 date: 2009-07-14T21:52:23+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1281
+guid: https://svenhuisman.com/?p=1281
 permalink: /2009/07/why-attend-vmworld-during-financial-crisis/
 categories:
   - VMworld 2009 SF

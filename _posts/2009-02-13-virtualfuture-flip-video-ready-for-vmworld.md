@@ -4,7 +4,7 @@ title: VirtualFuture Flip Video-ready for VMworld
 date: 2009-02-13T23:03:32+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=803
+guid: https://svenhuisman.com/?p=803
 permalink: /2009/02/virtualfuture-flip-video-ready-for-vmworld/
 categories:
   - VMworld 2009 Cannes

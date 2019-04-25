@@ -4,7 +4,7 @@ title: VMware ThinApp 4.0.2 released
 date: 2009-03-25T10:32:38+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1066
+guid: https://svenhuisman.com/?p=1066
 permalink: /2009/03/vmware-thinapp-402-released/
 categories:
   - Virtual Applications

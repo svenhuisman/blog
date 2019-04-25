@@ -4,7 +4,7 @@ title: Virtualfuture.info polo-shirt winners announcement
 date: 2008-09-02T10:54:42+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=284
+guid: https://svenhuisman.com/?p=284
 permalink: /2008/09/virtualfutureinfo-polo-shirt-winners-announcement/
 categories:
   - Virtualization news

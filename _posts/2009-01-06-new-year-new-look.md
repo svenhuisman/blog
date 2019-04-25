@@ -4,7 +4,7 @@ title: New year, new look!
 date: 2009-01-06T23:22:59+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=642
+guid: https://svenhuisman.com/?p=642
 permalink: /2009/01/new-year-new-look/
 categories:
   - Other posts

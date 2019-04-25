@@ -1,10 +1,10 @@
 ---
 id: 3112
-title: 'VMware Horizon View &#8211; default printer not remembered'
+title: 'VMware Horizon View default printer not remembered'
 date: 2014-05-16T16:08:18+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=3112
+guid: https://svenhuisman.com/?p=3112
 permalink: /2014/05/vmware-horizon-view-default-printer-not-remembered/
 categories:
   - Virtual Desktop

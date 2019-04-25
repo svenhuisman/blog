@@ -4,7 +4,7 @@ title: Citrix announces Dazzle!
 date: 2009-05-12T10:55:42+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1156
+guid: https://svenhuisman.com/?p=1156
 permalink: /2009/05/citrix-announces-dazzle/
 categories:
   - Citrix Synergy 2009

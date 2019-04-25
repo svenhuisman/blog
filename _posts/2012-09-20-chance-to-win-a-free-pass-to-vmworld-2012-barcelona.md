@@ -4,7 +4,7 @@ title: Chance to win a free pass to VMworld 2012 Barcelona
 date: 2012-09-20T01:32:50+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2442
+guid: https://svenhuisman.com/?p=2442
 permalink: /2012/09/chance-to-win-a-free-pass-to-vmworld-2012-barcelona/
 image: /wp-content/uploads/2012/09/vmworld2012.png
 categories:

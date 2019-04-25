@@ -4,7 +4,7 @@ title: NetApp Rapid Cloning Utility 3.0 now available!
 date: 2010-02-18T16:14:11+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1674
+guid: https://svenhuisman.com/?p=1674
 permalink: /2010/02/netapp-rapid-cloning-utility-3-0-now-available/
 categories:
   - Virtual Infrastructure

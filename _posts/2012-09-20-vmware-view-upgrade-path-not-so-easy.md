@@ -4,7 +4,7 @@ title: 'VMware View upgrade path &#8211; not so easy&#8230;'
 date: 2012-09-20T12:35:38+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2436
+guid: https://svenhuisman.com/?p=2436
 permalink: /2012/09/vmware-view-upgrade-path-not-so-easy/
 categories:
   - Virtual Infrastructure

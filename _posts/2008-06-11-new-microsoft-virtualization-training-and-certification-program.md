@@ -4,7 +4,7 @@ title: New Microsoft virtualization training and certification program
 date: 2008-06-11T11:47:28+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=54
+guid: https://svenhuisman.com/?p=54
 permalink: /2008/06/new-microsoft-virtualization-training-and-certification-program/
 categories:
   - Virtualization news

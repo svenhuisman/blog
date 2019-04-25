@@ -4,7 +4,7 @@ title: Sign-up for Microsoft Microsoft® Enterprise Desktop Virtualization beta
 date: 2008-12-15T09:47:27+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=610
+guid: https://svenhuisman.com/?p=610
 permalink: '/2008/12/sign-up-for-microsoft-microsoft%c2%ae-enterprise-desktop-virtualization-beta/'
 categories:
   - Virtualization news

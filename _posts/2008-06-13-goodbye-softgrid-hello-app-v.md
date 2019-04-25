@@ -4,7 +4,7 @@ title: Goodbye Softgrid, hello App-V!
 date: 2008-06-13T15:27:39+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=59
+guid: https://svenhuisman.com/?p=59
 permalink: /2008/06/goodbye-softgrid-hello-app-v/
 categories:
   - Virtualization news

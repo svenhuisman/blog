@@ -4,7 +4,7 @@ title: 'vSphere 5: What&#8217;s in Enterprise Plus?'
 date: 2011-07-12T20:21:22+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2074
+guid: https://svenhuisman.com/?p=2074
 permalink: /2011/07/vsphere-5-whats-in-enterprise-plus-2/
 image: /wp-content/uploads/2011/07/cloud-computing.jpg
 categories:

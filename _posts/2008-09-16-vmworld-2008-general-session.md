@@ -4,7 +4,7 @@ title: VMWorld 2008 General session
 date: 2008-09-16T22:26:07+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=350
+guid: https://svenhuisman.com/?p=350
 permalink: /2008/09/vmworld-2008-general-session/
 categories:
   - VMworld 2008 Vegas

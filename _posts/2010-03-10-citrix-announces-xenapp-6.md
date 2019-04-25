@@ -4,7 +4,7 @@ title: Citrix announces XenApp 6!
 date: 2010-03-10T16:50:06+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1678
+guid: https://svenhuisman.com/?p=1678
 permalink: /2010/03/citrix-announces-xenapp-6/
 categories:
   - Virtual Applications

@@ -4,7 +4,7 @@ title: VirtualCenter on Linux
 date: 2009-03-11T13:23:30+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=1007
+guid: https://svenhuisman.com/?p=1007
 permalink: /2009/03/virtualcenter-on-linux/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: ESX (whitebox) local storage perfomance tip
 date: 2009-02-02T22:12:15+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=714
+guid: https://svenhuisman.com/?p=714
 permalink: /2009/02/esx-whitebox-local-storage-perfomance-tip/
 categories:
   - Virtual Infrastructure

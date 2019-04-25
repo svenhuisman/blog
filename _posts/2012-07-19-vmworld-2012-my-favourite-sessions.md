@@ -4,7 +4,7 @@ title: 'VMworld 2012 &#8211; My favourite sessions'
 date: 2012-07-19T20:48:07+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2373
+guid: https://svenhuisman.com/?p=2373
 permalink: /2012/07/vmworld-2012-my-favourite-sessions/
 categories:
   - VMworld 2012 SF

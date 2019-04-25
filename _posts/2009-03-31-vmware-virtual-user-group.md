@@ -4,7 +4,7 @@ title: VMware Virtual User group
 date: 2009-03-31T10:16:17+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1092
+guid: https://svenhuisman.com/?p=1092
 permalink: /2009/03/vmware-virtual-user-group/
 categories:
   - Other posts

@@ -4,7 +4,7 @@ title: 'VMworld Europe 2010: (the) VirtualFuture is there!'
 date: 2010-09-30T15:58:10+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1762
+guid: https://svenhuisman.com/?p=1762
 permalink: /2010/09/vmworld-europe-2010-the-virtualfuture-is-there/
 categories:
   - VMworld 2010 Copenhagen

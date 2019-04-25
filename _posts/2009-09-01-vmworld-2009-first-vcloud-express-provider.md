@@ -4,7 +4,7 @@ title: 'VMworld 2009: First vCloud Express Provider'
 date: 2009-09-01T18:27:43+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1389
+guid: https://svenhuisman.com/?p=1389
 permalink: /2009/09/vmworld-2009-first-vcloud-express-provider/
 categories:
   - VMworld 2009 SF

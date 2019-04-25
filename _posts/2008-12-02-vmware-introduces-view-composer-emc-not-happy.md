@@ -4,7 +4,7 @@ title: 'VMware introduces View Composer: EMC not happy?'
 date: 2008-12-02T23:18:00+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=588
+guid: https://svenhuisman.com/?p=588
 permalink: /2008/12/vmware-introduces-view-composer-emc-not-happy/
 categories:
   - Virtual Desktop

@@ -4,7 +4,7 @@ title: VMworld Europe 2010 Day 1 (Partner Day)
 date: 2010-10-11T22:45:11+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1787
+guid: https://svenhuisman.com/?p=1787
 permalink: /2010/10/vmworld-europe-2010-day-1-partner-day/
 categories:
   - VMworld 2010 Copenhagen

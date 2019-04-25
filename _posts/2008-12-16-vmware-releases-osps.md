@@ -4,7 +4,7 @@ title: VMware releases OSPs
 date: 2008-12-16T11:46:29+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=619
+guid: https://svenhuisman.com/?p=619
 permalink: /2008/12/vmware-releases-osps/
 categories:
   - Virtualization news

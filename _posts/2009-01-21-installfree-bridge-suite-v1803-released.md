@@ -4,7 +4,7 @@ title: InstallFree Bridge Suite v1.8.0.3 released!
 date: 2009-01-21T23:52:16+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=685
+guid: https://svenhuisman.com/?p=685
 permalink: /2009/01/installfree-bridge-suite-v1803-released/
 categories:
   - Virtual Applications

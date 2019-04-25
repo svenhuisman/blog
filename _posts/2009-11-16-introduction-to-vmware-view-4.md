@@ -4,7 +4,7 @@ title: Introduction to Vmware View 4
 date: 2009-11-16T23:16:29+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1519
+guid: https://svenhuisman.com/?p=1519
 permalink: /2009/11/introduction-to-vmware-view-4/
 categories:
   - VDI Blog Battle

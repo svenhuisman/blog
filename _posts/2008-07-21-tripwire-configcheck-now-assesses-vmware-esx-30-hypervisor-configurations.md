@@ -4,7 +4,7 @@ title: Tripwire ConfigCheck Now Assesses VMware ESX 3.0 Hypervisor Configuration
 date: 2008-07-21T11:27:11+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=90
+guid: https://svenhuisman.com/?p=90
 permalink: /2008/07/tripwire-configcheck-now-assesses-vmware-esx-30-hypervisor-configurations/
 categories:
   - Virtualization news

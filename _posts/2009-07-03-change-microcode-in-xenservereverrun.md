@@ -4,7 +4,7 @@ title: Change Microcode in Xenserver/Everrun
 date: 2009-07-03T18:22:22+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1274
+guid: https://svenhuisman.com/?p=1274
 permalink: /2009/07/change-microcode-in-xenservereverrun/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: App-V 4.5 RTMs today!
 date: 2008-09-04T16:35:25+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=287
+guid: https://svenhuisman.com/?p=287
 permalink: /2008/09/app-v-45-rtms-today/
 categories:
   - Virtualization news

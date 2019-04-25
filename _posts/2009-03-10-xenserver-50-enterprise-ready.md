@@ -4,7 +4,7 @@ title: XenServer 5.0 Enterprise Ready?
 date: 2009-03-10T12:44:43+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=989
+guid: https://svenhuisman.com/?p=989
 permalink: /2009/03/xenserver-50-enterprise-ready/
 categories:
   - Virtual Infrastructure

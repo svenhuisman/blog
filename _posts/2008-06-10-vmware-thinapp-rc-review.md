@@ -4,7 +4,7 @@ title: VMware Thinapp RC review
 date: 2008-06-10T14:21:30+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=28
+guid: https://svenhuisman.com/?p=28
 permalink: /2008/06/vmware-thinapp-rc-review/
 comment_count:
   - "3"

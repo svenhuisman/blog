@@ -4,7 +4,7 @@ title: Site-failover a VMware View Stateful desktop, not supported?!
 date: 2013-03-04T14:00:08+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2502
+guid: https://svenhuisman.com/?p=2502
 permalink: /2013/03/site-failover-a-vmware-view-desktop/
 categories:
   - Virtual Desktop

@@ -4,7 +4,7 @@ title: 'New level cloud computing: icloud'
 date: 2009-01-13T10:41:05+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=657
+guid: https://svenhuisman.com/?p=657
 permalink: /2009/01/new-level-cloud-computing-icloud/
 categories:
   - Virtualization news

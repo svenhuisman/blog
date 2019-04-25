@@ -4,7 +4,7 @@ title: Application Virtualization comparison chart September 2009
 date: 2009-09-01T06:47:36+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1350
+guid: https://svenhuisman.com/?p=1350
 permalink: /2009/09/application-virtualization-comparison-chart-september-2009/
 categories:
   - Virtual Applications

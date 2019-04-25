@@ -4,7 +4,7 @@ title: 'VMware Tweak: Disable Screensaver'
 date: 2008-07-30T22:32:05+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=184
+guid: https://svenhuisman.com/?p=184
 permalink: /2008/07/vmware-tweak-disable-screensaver/
 categories:
   - Virtual Desktop

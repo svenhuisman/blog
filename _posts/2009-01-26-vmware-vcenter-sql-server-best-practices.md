@@ -4,7 +4,7 @@ title: 'VMware vCenter &#038; SQL server best practices [updated 15/4/09]'
 date: 2009-01-26T21:56:05+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=682
+guid: https://svenhuisman.com/?p=682
 permalink: /2009/01/vmware-vcenter-sql-server-best-practices/
 categories:
   - Virtual Infrastructure

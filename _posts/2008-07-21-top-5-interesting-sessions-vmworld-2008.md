@@ -4,7 +4,7 @@ title: Top 5 interesting sessions VMWorld 2008
 date: 2008-07-21T10:08:42+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=87
+guid: https://svenhuisman.com/?p=87
 permalink: /2008/07/top-5-interesting-sessions-vmworld-2008/
 categories:
   - Virtualization news

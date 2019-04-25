@@ -4,7 +4,7 @@ title: Fusion ioVDI hands-on experience
 date: 2014-05-14T23:26:06+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=3030
+guid: https://svenhuisman.com/?p=3030
 permalink: /2014/05/fusion-iovdi-hands-on-experience/
 categories:
   - Virtual Desktop

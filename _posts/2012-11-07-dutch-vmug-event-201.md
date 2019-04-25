@@ -4,7 +4,7 @@ title: Dutch VMUG Event 2012
 date: 2012-11-07T11:23:12+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2462
+guid: https://svenhuisman.com/?p=2462
 permalink: /2012/11/dutch-vmug-event-201/
 categories:
   - Events

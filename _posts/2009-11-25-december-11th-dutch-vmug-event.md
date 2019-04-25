@@ -4,7 +4,7 @@ title: 'December 11th: Dutch VMUG event!'
 date: 2009-11-25T21:46:19+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1576
+guid: https://svenhuisman.com/?p=1576
 permalink: /2009/11/december-11th-dutch-vmug-event/
 categories:
   - Events

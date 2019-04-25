@@ -4,7 +4,7 @@ title: Long distance VMotion??
 date: 2009-06-15T15:51:41+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1251
+guid: https://svenhuisman.com/?p=1251
 permalink: /2009/06/long-distance-vmotion/
 categories:
   - Virtual Infrastructure

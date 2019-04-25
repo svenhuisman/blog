@@ -4,7 +4,7 @@ title: 'Know what you&#8217;re talking about : get a free hyper-v training'
 date: 2009-07-01T10:52:21+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1267
+guid: https://svenhuisman.com/?p=1267
 permalink: /2009/07/know-what-youre-talking-about-get-a-free-hyper-v-training/
 categories:
   - Virtual Infrastructure

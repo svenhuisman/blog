@@ -4,7 +4,7 @@ title: 'New in ESX3 Update2: extending live disks'
 date: 2008-07-29T07:51:17+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=120
+guid: https://svenhuisman.com/?p=120
 permalink: /2008/07/new-in-esx3-update2-extending-live-disks/
 categories:
   - Virtualization news

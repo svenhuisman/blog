@@ -4,7 +4,7 @@ title: 'VMware Hardware Compatibility Guide: new style!'
 date: 2008-12-11T07:29:08+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=604
+guid: https://svenhuisman.com/?p=604
 permalink: /2008/12/vmware-hcl/
 categories:
   - Virtualization news

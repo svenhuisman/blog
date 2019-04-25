@@ -4,7 +4,7 @@ title: 'As expected: VMware ESXi is free!'
 date: 2008-07-23T13:12:56+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=98
+guid: https://svenhuisman.com/?p=98
 permalink: /2008/07/as-expected-vmware-esxi-is-free/
 categories:
   - Virtualization news

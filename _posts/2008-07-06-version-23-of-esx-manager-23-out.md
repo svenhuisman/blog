@@ -4,7 +4,7 @@ title: Version 2.3 of ESX Manager is out
 date: 2008-07-06T21:57:03+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=78
+guid: https://svenhuisman.com/?p=78
 permalink: /2008/07/version-23-of-esx-manager-23-out/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: Citrix launches portal for community verified products
 date: 2008-10-28T16:38:53+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=510
+guid: https://svenhuisman.com/?p=510
 permalink: /2008/10/citrix-launches-portal-for-community-verified-products/
 categories:
   - Virtualization news

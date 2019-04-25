@@ -4,7 +4,7 @@ title: VMworld Europe 2009 Sessions are available on-line !
 date: 2009-03-09T14:10:45+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=947
+guid: https://svenhuisman.com/?p=947
 permalink: /2009/03/vmworld-europe-2009-sessions-are-available-on-line/
 categories:
   - Virtual Infrastructure

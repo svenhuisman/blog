@@ -4,7 +4,7 @@ title: 'Dutch VMUG 2008 &#8211; Video: Managing VI3 with Powershell'
 date: 2008-12-13T13:10:03+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=606
+guid: https://svenhuisman.com/?p=606
 permalink: /2008/12/dutch-vmug-2008-video-managing-vi3-with-powershell/
 categories:
   - Virtualization news

@@ -4,7 +4,7 @@ title: 'Citrix XenApp on VMware ESX: 1 or 2 vCPU part 2'
 date: 2009-04-07T11:50:18+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1095
+guid: https://svenhuisman.com/?p=1095
 permalink: /2009/04/citrix-xenapp-on-vmware-esx-1-or-2-vcpu-part-2/
 categories:
   - Virtual Applications

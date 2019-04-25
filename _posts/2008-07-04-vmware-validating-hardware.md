@@ -4,7 +4,7 @@ title: VMware troubleshooting hardware papers
 date: 2008-07-04T10:35:45+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=77
+guid: https://svenhuisman.com/?p=77
 permalink: /2008/07/vmware-validating-hardware/
 categories:
   - Virtual Infrastructure

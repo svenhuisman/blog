@@ -4,7 +4,7 @@ title: 'VMworld 2008 &#8211; Great news on ESX 4.0'
 date: 2008-09-19T16:32:44+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=455
+guid: https://svenhuisman.com/?p=455
 permalink: /2008/09/vmworld-2008-great-news-on-esx-40/
 categories:
   - VMworld 2008 Vegas

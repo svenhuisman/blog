@@ -4,7 +4,7 @@ title: Citrix Synergy 2009 announcement Summary
 date: 2009-05-12T11:38:28+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1161
+guid: https://svenhuisman.com/?p=1161
 permalink: /2009/05/citrix-synergy-2009-announcement-summary/
 categories:
   - Citrix Synergy 2009

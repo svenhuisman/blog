@@ -4,7 +4,7 @@ title: 'Bloggers-Battle: Desktop Virtualization is THE way to go!'
 date: 2009-11-04T22:17:58+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1508
+guid: https://svenhuisman.com/?p=1508
 permalink: /2009/11/bloggers-battle-desktop-virtualization-is-the-way-to-go/
 categories:
   - VDI Blog Battle

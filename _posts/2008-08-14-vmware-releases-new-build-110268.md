@@ -4,7 +4,7 @@ title: VMWare releases new Builds
 date: 2008-08-14T13:48:06+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=255
+guid: https://svenhuisman.com/?p=255
 permalink: /2008/08/vmware-releases-new-build-110268/
 categories:
   - Virtual Infrastructure

@@ -4,7 +4,7 @@ title: Veeam released their Reporter Enterprise 3.0
 date: 2008-10-22T07:02:41+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=501
+guid: https://svenhuisman.com/?p=501
 permalink: /2008/10/veeam-released-their-reporter-enterprise-30/
 categories:
   - Virtualization news

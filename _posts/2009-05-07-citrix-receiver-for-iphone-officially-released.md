@@ -4,7 +4,7 @@ title: Citrix Receiver for Iphone officially released
 date: 2009-05-07T04:06:02+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=1149
+guid: https://svenhuisman.com/?p=1149
 permalink: /2009/05/citrix-receiver-for-iphone-officially-released/
 categories:
   - Citrix Synergy 2009

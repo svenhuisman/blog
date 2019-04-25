@@ -4,7 +4,7 @@ title: VMware ThinApp Factory, Technical Preview
 date: 2011-09-15T22:45:43+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=2237
+guid: https://svenhuisman.com/?p=2237
 permalink: /2011/09/vmware-thinapp-factory-technical-preview/
 image: /wp-content/uploads/2011/09/1927-factory-workers.jpg
 categories:

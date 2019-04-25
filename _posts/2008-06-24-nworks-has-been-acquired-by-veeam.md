@@ -4,7 +4,7 @@ title: nworks has been acquired by Veeam!
 date: 2008-06-24T15:32:07+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=68
+guid: https://svenhuisman.com/?p=68
 permalink: /2008/06/nworks-has-been-acquired-by-veeam/
 categories:
   - Virtualization news

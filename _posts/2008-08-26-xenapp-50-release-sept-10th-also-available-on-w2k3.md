@@ -4,7 +4,7 @@ title: XenApp 5.0 (release Sept. 10th) also available on W2K3
 date: 2008-08-26T11:53:01+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=270
+guid: https://svenhuisman.com/?p=270
 permalink: /2008/08/xenapp-50-release-sept-10th-also-available-on-w2k3/
 categories:
   - Virtualization news

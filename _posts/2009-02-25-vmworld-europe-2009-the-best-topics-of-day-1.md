@@ -4,7 +4,7 @@ title: 'VMworld Europe 2009: The best (to)pics of Day 1'
 date: 2009-02-25T02:28:15+02:00
 author: Matthijs Haverink
 layout: post
-guid: http://virtualfuture.info/?p=902
+guid: https://svenhuisman.com/?p=902
 permalink: /2009/02/vmworld-europe-2009-the-best-topics-of-day-1/
 categories:
   - Events

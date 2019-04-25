@@ -4,7 +4,7 @@ title: Group Policy Preferences in a non-persistent VDI environment
 date: 2011-02-10T12:05:52+02:00
 author: Sven Huisman
 layout: post
-guid: http://virtualfuture.info/?p=1849
+guid: https://svenhuisman.com/?p=1849
 permalink: /2011/02/group-policy-preferences-in-a-non-persistent-vdi-environment/
 categories:
   - Virtual Desktop

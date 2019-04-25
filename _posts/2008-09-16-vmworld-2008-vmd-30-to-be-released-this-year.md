@@ -4,7 +4,7 @@ title: 'VMworld 2008 &#8211; VDM 3.0 to be released this year !'
 date: 2008-09-16T15:31:41+02:00
 author: Johan
 layout: post
-guid: http://virtualfuture.info/?p=347
+guid: https://svenhuisman.com/?p=347
 permalink: /2008/09/vmworld-2008-vmd-30-to-be-released-this-year/
 categories:
   - VMworld 2008 Vegas
