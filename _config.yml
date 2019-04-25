@@ -25,6 +25,7 @@ name: SvenHuisman.com
 description: All EUC related
 twitter_username: Svenh
 github_username:  svenhuisman
+google_analytics: UA-100791422-1
 
 # Build settings
 markdown: kramdown
