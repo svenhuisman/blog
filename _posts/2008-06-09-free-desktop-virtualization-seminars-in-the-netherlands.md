@@ -101,4 +101,4 @@ tags:
       11 september Maastricht
     </div>
 
- <span style="Calibri;"><a href="http://www.vmwarebenelux.nl/vdi/nl-nl/reg_form.asp" target="_blank">Hier</a> kan u zich aanmelden.</span>
+ <span style="Calibri;"><a href="https://www.vmwarebenelux.nl/vdi/nl-nl/reg_form.asp" target="_blank">Hier</a> kan u zich aanmelden.</span>

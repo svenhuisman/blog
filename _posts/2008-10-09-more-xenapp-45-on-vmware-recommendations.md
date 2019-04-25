@@ -15,7 +15,7 @@ tags:
   - VMware
   - XenApp
 ---
-Now that the sessions from <a title="vmworld" href="http://www.vmworld.com" target="_blank">VMWorld</a> 2008 are available online (for registered attendees), I thought I could share some of the good stuff with you. Here are some recommendations for implementing XenApp 4.5 on VMware. I&#8217;ve posted <a title="citrixonvi3" href="https://svenhuisman.com/2008/07/citrix-on-vi3x-recommendations/" target="_blank">recommendations</a> before, so there could be some overlap. Of course, not all recommendations may apply to your situation, but I find some of them very useful. These come from session _VD2591: Lessons Learned While Deploying Citrix Presentation Server (XenApp) 4.5 in a Virtual Datacenter._  <!--more-->
+Now that the sessions from <a title="vmworld" href="https://www.vmworld.com" target="_blank">VMWorld</a> 2008 are available online (for registered attendees), I thought I could share some of the good stuff with you. Here are some recommendations for implementing XenApp 4.5 on VMware. I&#8217;ve posted <a title="citrixonvi3" href="https://svenhuisman.com/2008/07/citrix-on-vi3x-recommendations/" target="_blank">recommendations</a> before, so there could be some overlap. Of course, not all recommendations may apply to your situation, but I find some of them very useful. These come from session _VD2591: Lessons Learned While Deploying Citrix Presentation Server (XenApp) 4.5 in a Virtual Datacenter._  <!--more-->
 
 **Citrix Server Configuration  
 ** Host Population\VM Setup
@@ -164,7 +164,7 @@ Prepping Your Server
       * If Presentation Server is Enterprise Edition you need to remove the local host cache located at  “%ProgramFiles%\Citrix\Citrix Resource Manager\LocalDB”
       * Shut down your server
       * Clone server to template
-      * Complete instructions for cloning a Citrix server can be found at <http://support.citrix.com/article/CTX107406>
+      * Complete instructions for cloning a Citrix server can be found at <https://support.citrix.com/article/CTX107406>
   * Caution: Do not attempt to image a server with an SSL certificate installed because SSL certificates are unique to the hardware.
   * Caution: Do not attempt to use drive image software to restore an image of a Presentation Server with remapped drives.
   * Remapped drives will partially revert to the original configuration on the deployed server rendering the server unusable. Servers with remapped drives may be duplicated using a hardware solution such as Compaq Smart Array controllers with RAID1 drive mirroring.

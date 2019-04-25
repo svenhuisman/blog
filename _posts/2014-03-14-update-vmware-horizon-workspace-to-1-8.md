@@ -38,13 +38,13 @@ categories:
     </div>
 
 <p lang="nl">
-  Read more about these new features <a title="Horizon Workspace 1.8 new features" href="http://blogs.vmware.com/horizontech/2014/03/vmware-horizon-workspace-1-8-whats-new.html" target="_blank">here</a> and in the <a title="Horizon Workspace release notes" href="Horizon Workspace 1.8 release notes: https://www.vmware.com/support/horizon_workspace/doc/hw_release_notes_18.html" target="_blank">Horizon Workspace 1.8 release notes</a>.
+  Read more about these new features <a title="Horizon Workspace 1.8 new features" href="https://blogs.vmware.com/horizontech/2014/03/vmware-horizon-workspace-1-8-whats-new.html" target="_blank">here</a> and in the <a title="Horizon Workspace release notes" href="Horizon Workspace 1.8 release notes: https://www.vmware.com/support/horizon_workspace/doc/hw_release_notes_18.html" target="_blank">Horizon Workspace 1.8 release notes</a>.
 </p>
 
 <p lang="nl">
   In this post, I describe the steps I took to upgrade my environment.<!--more-->The environment I updated was version Horizon Workspace 1.5. You need to know that upgrading from Horizon Workspace 1.0 to Horizon Workspace 1.8 is not supported. You must upgrade from Horizon Workspace 1.0 to Horizon Workspace 1.5 to Horizon Workspace 1.8. Read the 
   
-  <a title="Horizon Workspace upgrade guide" href="http://pubs.vmware.com/horizon-workspace-18/topic/com.vmware.hw-upgrade.doc_18/GUID-5C897277-D16B-48D3-BAEB-6483BCDB7240.html" target="_blank">upgrade guide</a> for more information on the upgrade process.
+  <a title="Horizon Workspace upgrade guide" href="https://pubs.vmware.com/horizon-workspace-18/topic/com.vmware.hw-upgrade.doc_18/GUID-5C897277-D16B-48D3-BAEB-6483BCDB7240.html" target="_blank">upgrade guide</a> for more information on the upgrade process.
 </p>
 
 <p lang="nl">

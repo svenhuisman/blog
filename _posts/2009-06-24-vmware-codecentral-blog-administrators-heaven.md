@@ -24,6 +24,6 @@ tags:
   
 I** say it&#8217;s a great initiative, so keep up the great work Nava, but mainly all you CodeFreaks out there !
 
-Check out the blog here : <a href="http://blogs.vmware.com/codecentral/" target="_blank">http://blogs.vmware.com/codecentral/</a>  
-Add the Blogs RSS feed by using this link : <a href="http://blogs.vmware.com/codecentral/rss.xml" target="_blank">http://blogs.vmware.com/codecentral/rss.xml</a>  
-Check out the CodeCentral itself here : <a href="http://communities.vmware.com/community/developer/codecentral" target="_blank">http://communities.vmware.com/community/developer/codecentral</a>
+Check out the blog here : <a href="https://blogs.vmware.com/codecentral/" target="_blank">https://blogs.vmware.com/codecentral/</a>  
+Add the Blogs RSS feed by using this link : <a href="https://blogs.vmware.com/codecentral/rss.xml" target="_blank">https://blogs.vmware.com/codecentral/rss.xml</a>  
+Check out the CodeCentral itself here : <a href="https://communities.vmware.com/community/developer/codecentral" target="_blank">https://communities.vmware.com/community/developer/codecentral</a>

@@ -16,11 +16,11 @@ tags:
   - VMware
   - VMware View 4
 ---
-VMware announces VMware View 4 on the new <a title="VMware.com" href="http://www.vmware.com" target="_blank">VMware website</a>:
+VMware announces VMware View 4 on the new <a title="VMware.com" href="https://www.vmware.com" target="_blank">VMware website</a>:
 
 &#8220;_VMware View 4 is the industry’s first purpose built solution for delivering desktops as a managed service. Transform desktop management into a simplified and automated process, reduce the total cost of desktop ownership by 50%, provide end users a consistent high performance desktop experience and bring the power of the datacenter and vSphere to your desktops.&#8221;_
 
-I&#8217;m very excited about this new release of VMware View. Especially the new display protocol, the software implementation of Teradici&#8217;s PCoIP. Other <a title="VMware View 4" href="http://www.vmware.com/products/view/features.html" target="_blank">key features and capabilities</a> are:<!--more-->
+I&#8217;m very excited about this new release of VMware View. Especially the new display protocol, the software implementation of Teradici&#8217;s PCoIP. Other <a title="VMware View 4" href="https://www.vmware.com/products/view/features.html" target="_blank">key features and capabilities</a> are:<!--more-->
 
   * Simplified Desktop Management
   * Automated Desktop Provisioning

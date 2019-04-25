@@ -20,4 +20,4 @@ Yesterday VMware released the so called OSPs. OSP stands for Operating system Sp
 
 I consider myself lucky to work with Windows VM&#8217;s only at the moment, where VM Tools distribution is easy as hell, but for those who have Linux VM&#8217;s this might make things easier :).
 
-These packages only work for ESX 3.5 U2 and U3. You can find more info here : <a title="OPS" href="http://www.vmware.com/download/packages.html" target="_blank">http://www.vmware.com/download/packages.html</a>
+These packages only work for ESX 3.5 U2 and U3. You can find more info here : <a title="OPS" href="https://www.vmware.com/download/packages.html" target="_blank">https://www.vmware.com/download/packages.html</a>

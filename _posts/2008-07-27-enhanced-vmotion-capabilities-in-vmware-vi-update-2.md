@@ -16,7 +16,7 @@ tags:
   - VMotion
   - VMware
 ---
-**Last week** <a href="http://www.vmware.com" target="_blank">VMWare</a> released the long expected Update 2 for the VMWare 3 Infrastructure products. Besides cool new features like Hot-cloning VM&#8217;s, W2K8 Guest support, Storage VMotion and VSS quiescing support, one of the <a href="http://www.vmware.com/support/vi3/doc/vi3_esx35u2_vc25u2_rel_notes.html#whatsnew" target="_blank">new features</a> is the so called **_EVC_**.
+**Last week** <a href="https://www.vmware.com" target="_blank">VMWare</a> released the long expected Update 2 for the VMWare 3 Infrastructure products. Besides cool new features like Hot-cloning VM&#8217;s, W2K8 Guest support, Storage VMotion and VSS quiescing support, one of the <a href="https://www.vmware.com/support/vi3/doc/vi3_esx35u2_vc25u2_rel_notes.html#whatsnew" target="_blank">new features</a> is the so called **_EVC_**.
 
 **This is introduced** as just another feature in the VMWare Infrastructure product line but this should not be taken lightly. EVC stands for Enhanced VMotion Capability and it is a technology which <!--more-->can be used to add support to an existing VMotion cluster.
 
@@ -24,4 +24,4 @@ tags:
 
 Read all about the new features and bug fixes here:
 
-<a href="http://www.vmware.com/support/vi3/doc/vi3_esx35u2_vc25u2_rel_notes.html#whatsnew" target="_blank">http://www.vmware.com/support/vi3/doc/vi3_esx35u2_vc25u2_rel_notes.html#whatsnew</a>
+<a href="https://www.vmware.com/support/vi3/doc/vi3_esx35u2_vc25u2_rel_notes.html#whatsnew" target="_blank">https://www.vmware.com/support/vi3/doc/vi3_esx35u2_vc25u2_rel_notes.html#whatsnew</a>

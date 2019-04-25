@@ -25,13 +25,13 @@ tags:
 ---
 **T**his is the sixth post in the [_**SMB/LAB NAS review**_](https://svenhuisman.com/2011/07/smblab-nas-review/). The entire review compares the following products on features and performance:
 
-**&#8211; [Cisco NSS324](http://www.cisco.com/en/US/products/ps10854/index.html)  
+**&#8211; [Cisco NSS324](https://www.cisco.com/en/US/products/ps10854/index.html)  
 ** &#8211; **[Iomega IX4-200d](https://iomega-eu-en.custhelp.com/app/answers/detail/a_id/22024)  
-** &#8211; **[Netgear ReadyNAS Ultra 6](http://www.netgear.com/home/products/storage/work-and-play/RNDU6000.aspx)  
-** &#8211; **[QNAP TS-859U-RP+](http://www.qnap.com/pro_detail_feature.asp?p_id=185)  
-** &#8211; **[Synology DS1511+](http://www.synology.com/products/product.php?product_name=DS1511%2B&lang=enu)**
+** &#8211; **[Netgear ReadyNAS Ultra 6](https://www.netgear.com/home/products/storage/work-and-play/RNDU6000.aspx)  
+** &#8211; **[QNAP TS-859U-RP+](https://www.qnap.com/pro_detail_feature.asp?p_id=185)  
+** &#8211; **[Synology DS1511+](https://www.synology.com/products/product.php?product_name=DS1511%2B&lang=enu)**
 
-**T**oday I describe my experiences with the [Synology DS1511+](http://www.synology.com/products/product.php?product_name=DS1511%2B&lang=enu)**.** This unit is one of the heaviest prosumer models of Synology and is fitted with 5 drive bays. The unit looks nice, is quiet (of course depending on the disks you use) and is just like the QNAP, packed with features.
+**T**oday I describe my experiences with the [Synology DS1511+](https://www.synology.com/products/product.php?product_name=DS1511%2B&lang=enu)**.** This unit is one of the heaviest prosumer models of Synology and is fitted with 5 drive bays. The unit looks nice, is quiet (of course depending on the disks you use) and is just like the QNAP, packed with features.
 
 <!--more-->
 
@@ -50,9 +50,9 @@ _\# Protocols : NFS, CIFS, iSCSI, AFB/Bonjour_
 
 **T**he memory of the unit is 1 GB by default but can be expanded to 3 gigs. Maybe the memory expansion option is related to managing the optional DX510 units but my feeling says that these bays ask for more CPU power. And although the unit is equipped with a dual core 1.8 Ghz Atom CPU I’m still a bit sceptic about this thing really performing with 45TB in it. Maybe a nice test for in the future…
 
-**A**nother thing that really needs to be mentioned is the next generation management <del>software</del> Operating System on the Synology. With DiskStation Manager 3.1 Synology really is a step ahead of competition when it comes down to the management of the device. DSM isn’t just a webpage where you do your settings; it’s an web-based OS; it’s got the look and feel of an OS, but a very lean and mean one. And one of the most powerful features: the search field; you don&#8217;t have to navigate through tons of menu structures to find anything; just type in what you want to configure and the search function gets you there instantly! I’ve included a screenshot in here but you should really take a look at this video to see DSM in action: <http://www.youtube.com/watch?v=0QcpGnW74Qc>.
+**A**nother thing that really needs to be mentioned is the next generation management <del>software</del> Operating System on the Synology. With DiskStation Manager 3.1 Synology really is a step ahead of competition when it comes down to the management of the device. DSM isn’t just a webpage where you do your settings; it’s an web-based OS; it’s got the look and feel of an OS, but a very lean and mean one. And one of the most powerful features: the search field; you don&#8217;t have to navigate through tons of menu structures to find anything; just type in what you want to configure and the search function gets you there instantly! I’ve included a screenshot in here but you should really take a look at this video to see DSM in action: <https://www.youtube.com/watch?v=0QcpGnW74Qc>.
 
-[<img class="alignleft size-medium wp-image-2169" style="margin-left: 1px; margin-right: 1px;" title="Synology DSM Screenshot" src="https://svenhuisman.com/wp-content/uploads/2011/07/synology_dsm_screenshot-350x230.png" alt="" width="267" height="157" />](https://svenhuisman.com/wp-content/uploads/2011/07/synology_dsm_screenshot.png)**S**ynology, just as QNAP, has a portal where they deliver out-of-the-box packages you can install onto your Synology NAS to really benefit from the CPU and memory resources inside. It needs to be said that Synology doesn’t have such a packed set of “apps” as QNAP does. For SabNZBd for example, you have to search a little further; this isn’t deliverd by Synology themselves (although <a href="http://www.mertymade.com/syno/" target="_blank">the alternative</a> works like a charm).
+[<img class="alignleft size-medium wp-image-2169" style="margin-left: 1px; margin-right: 1px;" title="Synology DSM Screenshot" src="https://svenhuisman.com/wp-content/uploads/2011/07/synology_dsm_screenshot-350x230.png" alt="" width="267" height="157" />](https://svenhuisman.com/wp-content/uploads/2011/07/synology_dsm_screenshot.png)**S**ynology, just as QNAP, has a portal where they deliver out-of-the-box packages you can install onto your Synology NAS to really benefit from the CPU and memory resources inside. It needs to be said that Synology doesn’t have such a packed set of “apps” as QNAP does. For SabNZBd for example, you have to search a little further; this isn’t deliverd by Synology themselves (although <a href="https://www.mertymade.com/syno/" target="_blank">the alternative</a> works like a charm).
 
 **S**ynology also has an intelligent and easy RAID configuration system, just like, for example Netgear, called Synology Hybrid RAID. This gives you the option to dynamically expand and manage your disks in almost any thinkable RAID configuration.
 

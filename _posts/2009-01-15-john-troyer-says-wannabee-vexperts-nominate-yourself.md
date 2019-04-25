@@ -23,4 +23,4 @@ So everybody who think he&#8217;s been active enough in the VMware community by 
 
 Check out more info about the vExpert nominations (including application form) here:
 
-<http://www.vmware.com/communities/vexpert/>
+<https://www.vmware.com/communities/vexpert/>

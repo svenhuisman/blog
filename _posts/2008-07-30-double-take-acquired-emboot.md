@@ -9,7 +9,7 @@ permalink: /2008/07/double-take-acquired-emboot/
 categories:
   - Virtualization news
 ---
-I received an e-mail from George Kostiuk, President and CEO from emBoot stating the his company has been aquired by Double Take. <a href="http://www.emboot.com" target="_blank">emBoot</a> is a company has some very interesting products like netBoot/i en Winboot/i which we will discuss in a later stadium. But Double Take is partner of VMware so there&#8217;s the link with Virtualization.
+I received an e-mail from George Kostiuk, President and CEO from emBoot stating the his company has been aquired by Double Take. <a href="https://www.emboot.com" target="_blank">emBoot</a> is a company has some very interesting products like netBoot/i en Winboot/i which we will discuss in a later stadium. But Double Take is partner of VMware so there&#8217;s the link with Virtualization.
 
 <!--more-->Here&#8217;s the email:
 
@@ -50,7 +50,7 @@ I received an e-mail from George Kostiuk, President and CEO from emBoot stating 
 </p>
 
 <p class="MsoPlainText" style="0cm 0cm 0pt;">
-  <span style="Consolas;">Should you need further information, please visit our website at </span><a href="http://www.emboot.com/"><span style="Consolas;">www.emBoot.com</span></a><span style="Consolas;"> or contact emBoot directly by calling: +1 905.629.0200. </span>
+  <span style="Consolas;">Should you need further information, please visit our website at </span><a href="https://www.emboot.com/"><span style="Consolas;">www.emBoot.com</span></a><span style="Consolas;"> or contact emBoot directly by calling: +1 905.629.0200. </span>
 </p>
 
 <p class="MsoPlainText" style="0cm 0cm 0pt;">
@@ -90,5 +90,5 @@ I received an e-mail from George Kostiuk, President and CEO from emBoot stating 
 </p>
 
 <p class="MsoPlainText" style="0cm 0cm 0pt;">
-  <a href="http://www.emboot.com/"><span style="Consolas;">http://www.emboot.com</span></a>
+  <a href="https://www.emboot.com/"><span style="Consolas;">https://www.emboot.com</span></a>
 </p>

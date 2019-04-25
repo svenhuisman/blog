@@ -12,8 +12,8 @@ tags:
   - VMware
   - VMworld
 ---
-Only 45 days to go and the biggest virtualization Conference in Europe will start! If you can&#8217;t wait that long, you can already <a title="VMWorld Europe 2009" href="http://www.vmworld.com/community/conferences/europe2009/networking/" target="_blank">join the community</a> to start networking with other attendees.
+Only 45 days to go and the biggest virtualization Conference in Europe will start! If you can&#8217;t wait that long, you can already <a title="VMWorld Europe 2009" href="https://www.vmworld.com/community/conferences/europe2009/networking/" target="_blank">join the community</a> to start networking with other attendees.
 
 VMWorld Europe 2009 is for all IT professionals looking for actionable ideas, innovative products and best practices for virtualization and is held from 24-26 February in Cannes. EMEA-wide partnerday will be held on monday February 23th.
 
-<a title="Register for VMWorld Europe 2009" href="http://www.vmworld.com/community/conferences/europe2009/registration/" target="_blank">Register here</a>
+<a title="Register for VMWorld Europe 2009" href="https://www.vmworld.com/community/conferences/europe2009/registration/" target="_blank">Register here</a>

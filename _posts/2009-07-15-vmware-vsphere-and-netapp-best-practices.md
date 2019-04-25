@@ -14,4 +14,4 @@ tags:
   - VMware
   - vSphere
 ---
-I found this <a title="NetApp-vSphere best practices" href="http://media.netapp.com/documents/tr-3749.pdf" target="_blank">technical report</a> from NetApp that reviews the best practices for implementing VMware® vSphere with NetApp unified storage arrays. Not all recommendations apply to every scenario, but this 96-page document is well written and easy readable. I&#8217;ve added it to our links-tab.
+I found this <a title="NetApp-vSphere best practices" href="https://media.netapp.com/documents/tr-3749.pdf" target="_blank">technical report</a> from NetApp that reviews the best practices for implementing VMware® vSphere with NetApp unified storage arrays. Not all recommendations apply to every scenario, but this 96-page document is well written and easy readable. I&#8217;ve added it to our links-tab.

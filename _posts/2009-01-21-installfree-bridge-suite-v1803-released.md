@@ -16,7 +16,7 @@ tags:
   - SELaunch
   - URL Redirect
 ---
-<img class="alignleft" style="margin-left: 10px; margin-right: 10px;" title="InstallFree" src="http://www.installfree.com/images/top_bar_logo.gif" alt="" width="242" height="76" />Today I found out that one of the most interesting player in the Application Virtualization space, InstallFree, released a new version (1.8.0.3) of the InstallFree Bridge Suite.
+<img class="alignleft" style="margin-left: 10px; margin-right: 10px;" title="InstallFree" src="https://www.installfree.com/images/top_bar_logo.gif" alt="" width="242" height="76" />Today I found out that one of the most interesting player in the Application Virtualization space, InstallFree, released a new version (1.8.0.3) of the InstallFree Bridge Suite.
 
 Some big changes are :<!--more-->
 
@@ -27,4 +27,4 @@ Some big changes are :<!--more-->
 
 [<img class="alignnone size-medium wp-image-687" title="InstallFree OneSphere" src="https://svenhuisman.com/wp-content/uploads/2009/01/installfreeonesphere-264x300.jpg" alt="" width="264" height="300" />](https://svenhuisman.com/wp-content/uploads/2009/01/installfreeonesphere.jpg)
 
-Unfortunately the Encapsulator (packaging tool) has not been refreshed yet. You can find more information about the InstallFree products here: <http://www.installfree.com>
+Unfortunately the Encapsulator (packaging tool) has not been refreshed yet. You can find more information about the InstallFree products here: <https://www.installfree.com>

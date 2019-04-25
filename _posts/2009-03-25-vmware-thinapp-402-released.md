@@ -28,7 +28,7 @@ tags:
 </ul>
 
 <p style="TEXT-ALIGN: left">
-  But there are a lot of bugs fixed in this release. You can read them all in the <a title="ThinApp 4.0.2" href="http://www.vmware.com/support/thinapp4/doc/releasenotes_thinapp402.html" target="_blank">release notes</a>.
+  But there are a lot of bugs fixed in this release. You can read them all in the <a title="ThinApp 4.0.2" href="https://www.vmware.com/support/thinapp4/doc/releasenotes_thinapp402.html" target="_blank">release notes</a>.
 </p>
 
 <p style="TEXT-ALIGN: left">

@@ -17,9 +17,9 @@ tags:
   - VMware
   - VMware View
 ---
-Before you continue to read this article, make sure you first read [part 1](https://svenhuisman.com/2012/07/testing-teradici-apex-2800-with-login-vsi-part-1/). In part 1 I explain what the Teradici APEX 2800 card is and what the use-case is for the card. I also explain about LoginVSI, a VDI-benchmarking tool which I also use with [Project VRC](http://www.projectvrc.com/). My goal was to see the impact of the Teradici APEX 2800 card using the LoginVSI tool. I used different types of workloads and different types of tests to compare number of users, CPU usage, response times and network using different display protocols (RDP, PCoIP software and PCoIP with APEX 2800 card). These tests are not to compare user experience but to compare the impact on the host. These tests do not say anything about presenting a better image to the end-users! These tests are about **user-density, impact on CPU and impact on network**.
+Before you continue to read this article, make sure you first read [part 1](https://svenhuisman.com/2012/07/testing-teradici-apex-2800-with-login-vsi-part-1/). In part 1 I explain what the Teradici APEX 2800 card is and what the use-case is for the card. I also explain about LoginVSI, a VDI-benchmarking tool which I also use with [Project VRC](https://www.projectvrc.com/). My goal was to see the impact of the Teradici APEX 2800 card using the LoginVSI tool. I used different types of workloads and different types of tests to compare number of users, CPU usage, response times and network using different display protocols (RDP, PCoIP software and PCoIP with APEX 2800 card). These tests are not to compare user experience but to compare the impact on the host. These tests do not say anything about presenting a better image to the end-users! These tests are about **user-density, impact on CPU and impact on network**.
 
-**Disclaimer**: As explained before, I performed the tests with LoginVSI. According to [Teradici&#8217;s whitepaper](http://www.arrowecs.co.uk/ArrowECS/media/Main-Library/Virtualisation/Teradici/APEX_EvaluationGuide_LoginVSI.pdf), this is nog a good way to show the capabilities of the APEX 2800 card. I explained the reasons in part 1. LoginVSI is THE VDI benchmarking tool used by large companies like Citrix, HP and Cisco, to validate their reference architectures. In my opinion, LoginVSI is a very good tool to show the impact of using the Teradici APEX 2800 card compared to a situation where you don&#8217;t use the APEX 2800 card, if you want to see the impact on user-density. Again, it does not say anything about user experience!
+**Disclaimer**: As explained before, I performed the tests with LoginVSI. According to [Teradici&#8217;s whitepaper](https://www.arrowecs.co.uk/ArrowECS/media/Main-Library/Virtualisation/Teradici/APEX_EvaluationGuide_LoginVSI.pdf), this is nog a good way to show the capabilities of the APEX 2800 card. I explained the reasons in part 1. LoginVSI is THE VDI benchmarking tool used by large companies like Citrix, HP and Cisco, to validate their reference architectures. In my opinion, LoginVSI is a very good tool to show the impact of using the Teradici APEX 2800 card compared to a situation where you don&#8217;t use the APEX 2800 card, if you want to see the impact on user-density. Again, it does not say anything about user experience!
 
 I&#8217;ve performed 2 types of tests:
 
@@ -52,7 +52,7 @@ The following graph shows the CPU utilisation during a VSIMax test:
 
 The CPU utilisation of the tests with APEX 2800 card are slightly below the tests without card. Conclusion: with the medium VSI workload, the APEX 2800 card does not show an improvement in offloading the CPU.
 
-In the following test, I wanted to see if disabling the &#8220;[Build-To-Losless](http://blogs.vmware.com/performance/2011/09/vmware-view-pcoip-build-to-lossless-.html)&#8221; feature (BTL) shows any difference in user-density or CPU utilisation. I used the VSI Medium workload.
+In the following test, I wanted to see if disabling the &#8220;[Build-To-Losless](https://blogs.vmware.com/performance/2011/09/vmware-view-pcoip-build-to-lossless-.html)&#8221; feature (BTL) shows any difference in user-density or CPU utilisation. I used the VSI Medium workload.
 
 <img style="display: block; margin-left: auto; margin-right: auto;" title="Sessions_Medium_BTL.png" src="https://svenhuisman.com/wp-content/uploads/2012/08/Sessions_Medium_BTL.png" alt="Sessions Medium BTL" width="600" height="321" border="0" /> 
 
@@ -128,6 +128,6 @@ However, when your users need to watch a lot of (HD) video in the VMware View se
 
 If you have any questions about the tests I performed, please leave a comment.
 
-If you want to know more about my test-setup, you should read [Phase III of the Project VRC whitepapers](http://www.projectvrc.com/white-papers/doc_details/12-project-vrc-phase-iii). In that whitepaper the infrastructure I used for these tests is described, including the optimisations I added to the Windows 7 VM. In addition to this whitepaper, I used ESX 5.0 U1, VMware View 5.1, View Composer 3.0, View Client 5.1 and View agent 5.1.
+If you want to know more about my test-setup, you should read [Phase III of the Project VRC whitepapers](https://www.projectvrc.com/white-papers/doc_details/12-project-vrc-phase-iii). In that whitepaper the infrastructure I used for these tests is described, including the optimisations I added to the Windows 7 VM. In addition to this whitepaper, I used ESX 5.0 U1, VMware View 5.1, View Composer 3.0, View Client 5.1 and View agent 5.1.
 
 The Teradici driver I used: Teradici APEX 2800 Server Offload Card software release 1.1.1 (build 15038) for ESXi 5.0.0 Update 1.

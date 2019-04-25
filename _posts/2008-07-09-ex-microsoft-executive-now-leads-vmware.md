@@ -23,4 +23,4 @@ The direct effect at this point is <!--more-->that VMWare stocks dropped almost 
 
 Brian Ducharme and David Marshall had an interesting discussion about this subject available in podcast format. You can find it here:
 
-<http://vmblog.com/archive/2008/07/08/vsm-podcast-vmware-gives-diane-greene-the-boot.aspx>
+<https://vmblog.com/archive/2008/07/08/vsm-podcast-vmware-gives-diane-greene-the-boot.aspx>

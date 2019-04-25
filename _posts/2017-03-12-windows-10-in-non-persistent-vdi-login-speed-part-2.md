@@ -4,7 +4,7 @@ title: 'Windows 10 in non-persistent VDI - Login speed part 2'
 date: 2017-03-12T22:37:47+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=22448
+guid: https://SvenHuisman.com/?p=22448
 permalink: /2017/03/windows-10-in-non-persistent-vdi-login-speed-part-2/
 categories:
   - Desktop OS
@@ -26,7 +26,7 @@ tags:
   - VMware
   - Windows 10
 ---
-I&#8217;m researching the impact of various Windows 10 optimizations on login duration, especially in a non-persistent VDI environment. In the <a href="http://wp.me/phahV-5Mm" target="_blank">first part of this blog-series</a>, I described the infrastructure and showed some preliminary results. One of the issues I had was the difference in login time of what was measured with the stopwatch versus what <a href="http://www.uberagent.com" target="_blank">UberAgent</a> logged as login time. Fortunately, that has been resolved now (thanks to <a href="https://helgeklein.com" target="_blank">Helge Klein</a> and his team) and I decided to redo the first tests. I also performed the test using <a href="http://www.loginvsi.com" target="_blank">LoginVSI</a>, just to automate multiple logins, not for simulating a workload (yet).
+I&#8217;m researching the impact of various Windows 10 optimizations on login duration, especially in a non-persistent VDI environment. In the <a href="https://wp.me/phahV-5Mm" target="_blank">first part of this blog-series</a>, I described the infrastructure and showed some preliminary results. One of the issues I had was the difference in login time of what was measured with the stopwatch versus what <a href="https://www.uberagent.com" target="_blank">UberAgent</a> logged as login time. Fortunately, that has been resolved now (thanks to <a href="https://helgeklein.com" target="_blank">Helge Klein</a> and his team) and I decided to redo the first tests. I also performed the test using <a href="https://www.loginvsi.com" target="_blank">LoginVSI</a>, just to automate multiple logins, not for simulating a workload (yet).
 
 ## Disable Windows updates and Windows Module Installer
 

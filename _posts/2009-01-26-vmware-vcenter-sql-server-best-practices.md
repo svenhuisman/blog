@@ -148,7 +148,7 @@ _**
                         </p>
                         
                         <p>
-                          <em>D. Disable DRS for VC [edit thx to Vikash/Duncan]<br /> </em><strong></strong><br /> <strong>Please take notice.</strong> These are best practices based on my own experience, experience of others and VMware whitepapers. Most relevant white papers with more details :<br /> Running VC in a VM : <a href="http://www.vmware.com/pdf/vi3_vc_in_vm.pdf">http://www.vmware.com/pdf/vi3_vc_in_vm.pdf</a> <br /> VC SQL Database Performance : <a href="http://www.vmware.com/files/pdf/vc_database_performance.pdf">http://www.vmware.com/files/pdf/vc_database_performance.pdf</a>.
+                          <em>D. Disable DRS for VC [edit thx to Vikash/Duncan]<br /> </em><strong></strong><br /> <strong>Please take notice.</strong> These are best practices based on my own experience, experience of others and VMware whitepapers. Most relevant white papers with more details :<br /> Running VC in a VM : <a href="https://www.vmware.com/pdf/vi3_vc_in_vm.pdf">https://www.vmware.com/pdf/vi3_vc_in_vm.pdf</a> <br /> VC SQL Database Performance : <a href="https://www.vmware.com/files/pdf/vc_database_performance.pdf">https://www.vmware.com/files/pdf/vc_database_performance.pdf</a>.
                         </p>
                         
                         <p>
@@ -156,27 +156,27 @@ _**
                         </p>
                         
                         <p>
-                          Making VC Highly Available @ Yellow-Bricks : <a href="http://www.yellow-bricks.com/2008/11/19/make-virtualcenter-highly-available-with-vmware-vi3/">http://www.yellow-bricks.com/2008/11/19/make-virtualcenter-highly-available-with-vmware-vi3/</a>
+                          Making VC Highly Available @ Yellow-Bricks : <a href="https://www.yellow-bricks.com/2008/11/19/make-virtualcenter-highly-available-with-vmware-vi3/">https://www.yellow-bricks.com/2008/11/19/make-virtualcenter-highly-available-with-vmware-vi3/</a>
                         </p>
                         
                         <p>
-                          VC Physical or Virtual @ VMGuy : <a href="http://vmguy.com/wordpress/?p=67">http://vmguy.com/wordpress/?p=67</a> (btw, that wordpress template is soooo 2008 :P)
+                          VC Physical or Virtual @ VMGuy : <a href="https://vmguy.com/wordpress/?p=67">https://vmguy.com/wordpress/?p=67</a> (btw, that wordpress template is soooo 2008 :P)
                         </p>
                         
                         <p>
-                          VC Database Best Practices @ Scott Low : <a href="http://blog.scottlowe.org/2008/09/18/po2061-vmware-virtualcenter-25-database-best-practices/">http://blog.scottlowe.org/2008/09/18/po2061-vmware-virtualcenter-25-database-best-practices/</a>
+                          VC Database Best Practices @ Scott Low : <a href="https://blog.scottlowe.org/2008/09/18/po2061-vmware-virtualcenter-25-database-best-practices/">https://blog.scottlowe.org/2008/09/18/po2061-vmware-virtualcenter-25-database-best-practices/</a>
                         </p>
                         
                         <p>
-                          VC Virtual ? @ Rich Brambly (VMETC) : <a href="http://vmetc.com/2007/12/28/should-virtual-center-run-as-a-virtual-machine/">http://vmetc.com/2007/12/28/should-virtual-center-run-as-a-virtual-machine/</a>
+                          VC Virtual ? @ Rich Brambly (VMETC) : <a href="https://vmetc.com/2007/12/28/should-virtual-center-run-as-a-virtual-machine/">https://vmetc.com/2007/12/28/should-virtual-center-run-as-a-virtual-machine/</a>
                         </p>
                         
                         <p>
-                          Physical/Virtual discussion @ VIOps : <a href="http://viops.vmware.com/home/message/1359">http://viops.vmware.com/home/message/1359</a>
+                          Physical/Virtual discussion @ VIOps : <a href="https://viops.vmware.com/home/message/1359">https://viops.vmware.com/home/message/1359</a>
                         </p>
                         
                         <p>
-                           Mgmt Cluster : <a title="http://www.dailyhypervisor.com/2009/04/14/vmware-virtual-center-physical-or-virtual" href="http://www.dailyhypervisor.com/2009/04/14/vmware-virtual-center-physical-or-virtual/" target="_blank">http://www.dailyhypervisor.com/2009/04/14/vmware-virtual-center-physical-or-virtual/</a>  [Edit 15/4/2009]
+                           Mgmt Cluster : <a title="https://www.dailyhypervisor.com/2009/04/14/vmware-virtual-center-physical-or-virtual" href="https://www.dailyhypervisor.com/2009/04/14/vmware-virtual-center-physical-or-virtual/" target="_blank">https://www.dailyhypervisor.com/2009/04/14/vmware-virtual-center-physical-or-virtual/</a>  [Edit 15/4/2009]
                         </p>
                         
                         <p>

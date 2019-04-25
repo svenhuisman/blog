@@ -13,7 +13,7 @@ tags:
   - VI Client
   - VMware
 ---
-Yesterday a friend asked me if the VI-client was still not supported on 64-bit OS. I didn&#8217;t notice anything in the release notes of <a title="VI3 Update 2" href="http://www.vmware.com/support/vi3/doc/vi3_esx35u2_vc25u2_rel_notes.html" target="_blank">Update 2</a>, but actually, it was already supported since Virtual Center 2.5 Update 1.
+Yesterday a friend asked me if the VI-client was still not supported on 64-bit OS. I didn&#8217;t notice anything in the release notes of <a title="VI3 Update 2" href="https://www.vmware.com/support/vi3/doc/vi3_esx35u2_vc25u2_rel_notes.html" target="_blank">Update 2</a>, but actually, it was already supported since Virtual Center 2.5 Update 1.
 
 > <div>
 >   <em>Starting with VirtualCenter 2.5 Update 1, installation of  the VI Client is supported on 64-bit operating systems of Windows that already have the .NET Framework 2.0.</em>
@@ -40,7 +40,7 @@ Yesterday a friend asked me if the VI-client was still not supported on 64-bit O
 > </div>
 > 
 > <div>
->   <em>You can download the .NET Framework 2.0 from </em><a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=B44A0000-ACF8-4FA1-AFFB-40E78D788B00&displaylang=en" target="_blank"><span style="color: #003399;"><em>http://www.microsoft.com/downloads/details.aspx?FamilyID=B44A0000-ACF8-4FA1-AFFB-40E78D788B00&displaylang=en</em></span></a>
+>   <em>You can download the .NET Framework 2.0 from </em><a href="https://www.microsoft.com/downloads/details.aspx?FamilyID=B44A0000-ACF8-4FA1-AFFB-40E78D788B00&displaylang=en" target="_blank"><span style="color: #003399;"><em>https://www.microsoft.com/downloads/details.aspx?FamilyID=B44A0000-ACF8-4FA1-AFFB-40E78D788B00&displaylang=en</em></span></a>
 > </div>
 
- So yes <a title="Coen Verbree's blog" href="http://www.digitalfreakz.nl" target="_blank">Coen</a>, it is supported!
+ So yes <a title="Coen Verbree's blog" href="https://www.digitalfreakz.nl" target="_blank">Coen</a>, it is supported!

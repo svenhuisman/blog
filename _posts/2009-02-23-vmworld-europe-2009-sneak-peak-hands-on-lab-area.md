@@ -18,7 +18,7 @@ tags:
   - VMware
   - VMworld
 ---
-VirtualFuture is sneaking around the <a href="http://www.vmworld.com" target="_blank">VMworld</a> complex in Cannes and somehow we ended up in the Hands-on lab area and off-course we&#8217;d like to give you guy&#8217;s a heads-up (including a flip-video):
+VirtualFuture is sneaking around the <a href="https://www.vmworld.com" target="_blank">VMworld</a> complex in Cannes and somehow we ended up in the Hands-on lab area and off-course we&#8217;d like to give you guy&#8217;s a heads-up (including a flip-video):
 
 [<img class="alignnone size-full wp-image-867" title="VMWorld Europe 2009 Hands-on Labs (1 day before opening)" src="https://svenhuisman.com/wp-content/uploads/2009/02/handsonlabs.jpg" alt="" width="364" height="247" />](https://svenhuisman.com/wp-content/uploads/2009/02/handsonlabs.jpg)  
 <!--more-->

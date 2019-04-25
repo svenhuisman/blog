@@ -17,7 +17,7 @@ tags:
 ---
 <span style="line-height: 15px;">NetApp just announced the release of the Rapid Cloning utility (RCU):</span>
 
-> <span style="line-height: 15px;"><em>NetApp is proud to announce the release of the </em><span style="line-height: 16px;"><a href="http://now.netapp.com/NOW/download/software/rapid_cloning/3.0/" target="_blank"><em>Rapid Cloning Utility</em></a><span style="line-height: 15px;"><em> 3.0.  This release brings </em><span style="line-height: 16px;"><em>many new features to assist virtual data center administrators with managing their server and desktop environments to further reduce management overhead associated with traditional storage deployments.</em> </span></span></span></span>
+> <span style="line-height: 15px;"><em>NetApp is proud to announce the release of the </em><span style="line-height: 16px;"><a href="https://now.netapp.com/NOW/download/software/rapid_cloning/3.0/" target="_blank"><em>Rapid Cloning Utility</em></a><span style="line-height: 15px;"><em> 3.0.  This release brings </em><span style="line-height: 16px;"><em>many new features to assist virtual data center administrators with managing their server and desktop environments to further reduce management overhead associated with traditional storage deployments.</em> </span></span></span></span>
 
 <span style="line-height: 15px;"><span style="line-height: 16px;"><span style="line-height: 15px;"></span></span></span><span style="line-height: 15px;"><span style="line-height: 16px;"><span style="line-height: 15px;"><span style="line-height: 16px;">Here is a list of some of the new or expanded features and support for RCU 3.0:</span></span></span></span>
 
@@ -25,7 +25,7 @@ tags:
 
 <ul>
   <li>
-    VMware vSphere 4.0 support<a style="float: right;" onclick="window.open( this.href, '_blank', 'width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0' ); return false" href="http://blogs.netapp.com/.a/6a00d8341ca27e53ef0120a8b125bc970b-popup"><img style="margin: 0px 0px 5px 5px; width: 200px;" src="http://blogs.netapp.com/.a/6a00d8341ca27e53ef0120a8b125bc970b-200wi" alt="Rcu_splash" /></a>  
+    VMware vSphere 4.0 support<a style="float: right;" onclick="window.open( this.href, '_blank', 'width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0' ); return false" href="https://blogs.netapp.com/.a/6a00d8341ca27e53ef0120a8b125bc970b-popup"><img style="margin: 0px 0px 5px 5px; width: 200px;" src="https://blogs.netapp.com/.a/6a00d8341ca27e53ef0120a8b125bc970b-200wi" alt="Rcu_splash" /></a>  
   </li>
   <li>
     VMware vApp support
@@ -78,7 +78,7 @@ tags:
 </ul>
 
 <p>
-  Read the rest of the announcement of the release of <a title="RCU 3.0" href="http://blogs.netapp.com/virtualization/2010/02/rcu-30-now-available.html" target="_blank">NetApp Rapid Cloning Utility</a>.
+  Read the rest of the announcement of the release of <a title="RCU 3.0" href="https://blogs.netapp.com/virtualization/2010/02/rcu-30-now-available.html" target="_blank">NetApp Rapid Cloning Utility</a>.
 </p>
 
 <p>

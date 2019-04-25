@@ -30,6 +30,6 @@ My colleague [Rob Mokkink](mailto:rob@mokkinksystems.com "Drop Rob an e-mail !")
 
 **_We always need to state that usage of scripts like these should be done with extreme caution because every environment is different so results can differ !_**
 
-You can <a href="http://communities.vmware.com/servlet/JiveServlet/download/999336-11423/set-allvmhost-storagepaths-fixed-v6.ps1?tstart=0&start=0" target="_blank">download the HBA Load Balancer script</a> now.
+You can <a href="https://communities.vmware.com/servlet/JiveServlet/download/999336-11423/set-allvmhost-storagepaths-fixed-v6.ps1?tstart=0&start=0" target="_blank">download the HBA Load Balancer script</a> now.
 
-If you have any questions or comments you can drop them on the <a href="http://communities.vmware.com/thread/156302?tstart=0&start=0" target="_blank">tread at the vmware communities site</a>.
+If you have any questions or comments you can drop them on the <a href="https://communities.vmware.com/thread/156302?tstart=0&start=0" target="_blank">tread at the vmware communities site</a>.

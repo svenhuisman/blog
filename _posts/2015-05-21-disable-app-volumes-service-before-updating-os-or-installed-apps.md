@@ -4,7 +4,7 @@ title: Disable App Volumes service before updating OS or installed apps
 date: 2015-05-21T16:53:06+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=3965
+guid: https://SvenHuisman.com/?p=3965
 permalink: /2015/05/disable-app-volumes-service-before-updating-os-or-installed-apps/
 categories:
   - Virtual Desktop

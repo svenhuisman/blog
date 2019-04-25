@@ -21,18 +21,18 @@ tags:
 ---
 Just like last time Microsoft and Citrix will be present this year with a booth at VMworld in Cannes. Lately Microsoft as well as Citrix have been spreading some pretty interesting news to attract visitors to their booth and to their products in general:
 
-&#8211; <a href="http://vmblog.com/archive/2009/02/19/citrix-to-conduct-live-demonstration-of-bare-metal-client-hypervisor-developed-in-collaboration-with-intel.aspx" target="_blank">Citrix presents first-ever demo of bare-metal client hypervisor.</a>
+&#8211; <a href="https://vmblog.com/archive/2009/02/19/citrix-to-conduct-live-demonstration-of-bare-metal-client-hypervisor-developed-in-collaboration-with-intel.aspx" target="_blank">Citrix presents first-ever demo of bare-metal client hypervisor.</a>
 
-&#8211; <a href="http://practical-tech.com/infrastructure/citrix-to-offer-free-xenserver-virtualization/" target="_blank">Citrix will officially announce free XenServer 5 Enterprise Edition.</a>
+&#8211; <a href="https://practical-tech.com/infrastructure/citrix-to-offer-free-xenserver-virtualization/" target="_blank">Citrix will officially announce free XenServer 5 Enterprise Edition.</a>
 
-&#8211; <a href="http://practical-tech.com/infrastructure/citrix-to-offer-free-xenserver-virtualization/" target="_blank">Citrix and Microsoft will support eachothers hypervisors with Citrix Essentials and Microsoft System Center.</a>
+&#8211; <a href="https://practical-tech.com/infrastructure/citrix-to-offer-free-xenserver-virtualization/" target="_blank">Citrix and Microsoft will support eachothers hypervisors with Citrix Essentials and Microsoft System Center.</a>
 
 <!--more-->
 
   
-&#8211; <a href="http://blogs.computerworld.com/red_hat_microsoft_partner_up" target="_blank">Red Hat & Microsoft Partner up (official support for Red Hat on Hyper-V).</a>
+&#8211; <a href="https://blogs.computerworld.com/red_hat_microsoft_partner_up" target="_blank">Red Hat & Microsoft Partner up (official support for Red Hat on Hyper-V).</a>
 
-&#8211; <a href="http://blogs.technet.com/virtualization/archive/2009/02/21/Microsoft-at-VMworld-Europe-2009.aspx" target="_blank">Microsoft demos App-V 4.5, Med-V 1.0 (kidaro), Hyper-V Live Migration and more.</a>
+&#8211; <a href="https://blogs.technet.com/virtualization/archive/2009/02/21/Microsoft-at-VMworld-Europe-2009.aspx" target="_blank">Microsoft demos App-V 4.5, Med-V 1.0 (kidaro), Hyper-V Live Migration and more.</a>
 
 So I&#8217;ll definitly check the booths out. Curious too ? You can find them here:  
 Citrix @ booth #107  

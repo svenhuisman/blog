@@ -53,15 +53,15 @@ tags:
 
 **T**he units we eventually were able to review are:
 
-&#8211; **<a href="http://www.cisco.com/en/US/products/ps10854/index.html" target="_blank"><span style="text-decoration: underline;">Cisco NSS324</span></a>**
+&#8211; **<a href="https://www.cisco.com/en/US/products/ps10854/index.html" target="_blank"><span style="text-decoration: underline;">Cisco NSS324</span></a>**
 
 &#8211; **<a href="https://iomega-eu-en.custhelp.com/app/answers/detail/a_id/22024" target="_blank"><span style="text-decoration: underline;">Iomega IX4-200d</span></a>**
 
-&#8211; **<a href="http://www.netgear.com/home/products/storage/work-and-play/RNDU6000.aspx" target="_blank"><span style="text-decoration: underline;">Netgear ReadyNAS Ultra 6</span></a>**
+&#8211; **<a href="https://www.netgear.com/home/products/storage/work-and-play/RNDU6000.aspx" target="_blank"><span style="text-decoration: underline;">Netgear ReadyNAS Ultra 6</span></a>**
 
-&#8211; **<a href="http://www.qnap.com/pro_detail_feature.asp?p_id=185" target="_blank"><span style="text-decoration: underline;">QNAP TS-859U-RP+</span></a>**
+&#8211; **<a href="https://www.qnap.com/pro_detail_feature.asp?p_id=185" target="_blank"><span style="text-decoration: underline;">QNAP TS-859U-RP+</span></a>**
 
-&#8211; **<a href="http://www.synology.com/products/product.php?product_name=DS1511%2B&lang=enu" target="_blank"><span style="text-decoration: underline;">Synology DS1511++</span></a>**
+&#8211; **<a href="https://www.synology.com/products/product.php?product_name=DS1511%2B&lang=enu" target="_blank"><span style="text-decoration: underline;">Synology DS1511++</span></a>**
 
 ** **
 

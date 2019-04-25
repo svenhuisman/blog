@@ -15,7 +15,7 @@ tags:
   - VMware
   - Workspace ONE
 ---
-<a href="http://AirWatch Express is mobile device management made simple" target="_blank" rel="noopener noreferrer">AirWatch Express</a> is available for quite some time now, but I never had the chance to experience the features of this basic mobile device management (MDM) solution from VMware. I recently helped a customer to configure AirWatch Express and it really was &#8216;mobile device management made simple&#8217;. On the other hand, it offers really basic functionality, so if you need just a little bit more features you have to upgrade to the Green Suite (or <a href="https://www.vmware.com/products/workspace-one.html" target="_blank" rel="noopener noreferrer">Workspace ONE</a>).  
+<a href="https://AirWatch Express is mobile device management made simple" target="_blank" rel="noopener noreferrer">AirWatch Express</a> is available for quite some time now, but I never had the chance to experience the features of this basic mobile device management (MDM) solution from VMware. I recently helped a customer to configure AirWatch Express and it really was &#8216;mobile device management made simple&#8217;. On the other hand, it offers really basic functionality, so if you need just a little bit more features you have to upgrade to the Green Suite (or <a href="https://www.vmware.com/products/workspace-one.html" target="_blank" rel="noopener noreferrer">Workspace ONE</a>).  
 The features that AirWatch Express offers are:
 
   * **Devices**: Device management for Android, iOS, macOS and Windows devices.

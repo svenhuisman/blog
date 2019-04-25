@@ -14,7 +14,7 @@ tags:
   - Tasks
   - Wisdom
 ---
-yesterday I&#8217;ve installed the new release <a title="RES Wisdom 2009" href="http://www.ressoftware.com/page.aspx?id=183&l=EN" target="_blank">RES Wisdom 2009</a> on my test environment. As you can see in an earlier post my expections of the new release were very high! First thing that impressed me was even though it was a huge update (a lot of new features were added) the installation process was still as easy as when adding a patch. This how it should be with every type of software but my expeience is that most of the times when you want to upgrade to a new version it takes a whole lot more than adding an update package!
+yesterday I&#8217;ve installed the new release <a title="RES Wisdom 2009" href="https://www.ressoftware.com/page.aspx?id=183&l=EN" target="_blank">RES Wisdom 2009</a> on my test environment. As you can see in an earlier post my expections of the new release were very high! First thing that impressed me was even though it was a huge update (a lot of new features were added) the installation process was still as easy as when adding a patch. This how it should be with every type of software but my expeience is that most of the times when you want to upgrade to a new version it takes a whole lot more than adding an update package!
 
 What I am most greatful about&#8230; The interface didn&#8217;t change a lot. This way I can still easily navigate through the console.
 

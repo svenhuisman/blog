@@ -4,7 +4,7 @@ title: VMware Project Enzo unraveled
 date: 2015-05-11T23:21:22+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=3770
+guid: https://SvenHuisman.com/?p=3770
 permalink: /2015/05/vmware-project-enzo-unraveled/
 image: /wp-content/uploads/2015/05/Screen-Shot-2015-05-11-at-20.58.41-e1431372590932.png
 categories:
@@ -16,11 +16,11 @@ tags:
   - View
   - VMware
 ---
-Today VMware announce <a href="http://blogs.vmware.com/euc/2015/05/vmware-previews-project-enzo-next-generation-hybrid-cloud-architecture-designed-transform-virtual-workspaces.html&src=vmw_so_vex_shuis_302" target="_blank">Project Enzo</a>:
+Today VMware announce <a href="https://blogs.vmware.com/euc/2015/05/vmware-previews-project-enzo-next-generation-hybrid-cloud-architecture-designed-transform-virtual-workspaces.html&src=vmw_so_vex_shuis_302" target="_blank">Project Enzo</a>:
 
 > Project Enzo is a new hybrid cloud-scale architecture that is designed to combine the economic benefits of cloud-based VMware virtual desktops and application technology, with the simplicity of hyper-converged infrastructure to transform the IT experience.
 
-As I was watching the <a href="http://youtu.be/9TEZqHEN7eM" target="_blank">video demonstration Project Enzo</a> I had a couple of questions and I want to answer these in this blogpost as a note to myself. Disclaimer: I work for a VMware partner but I have no insight information about this project. All this information come from the video-demo, the VMware blogpost and my own experience.
+As I was watching the <a href="https://youtu.be/9TEZqHEN7eM" target="_blank">video demonstration Project Enzo</a> I had a couple of questions and I want to answer these in this blogpost as a note to myself. Disclaimer: I work for a VMware partner but I have no insight information about this project. All this information come from the video-demo, the VMware blogpost and my own experience.
 
 **What is Project Enzo?**
 
@@ -120,7 +120,7 @@ The desktops and applications can be hosted on-premises and can be cloud-based.
 > </div>
 
 <div>
-  So Smartnode technology are two existing products (<a href="http://www.vmware.com/nl/products/appvolumes&src=vmw_so_vex_shuis_302" target="_blank">App Volumes</a> and <a href="http://www.vmware.com/products/user-environment-manager&src=vmw_so_vex_shuis_302" target="_blank">VMware User Environment Manager</a>) combined with the new <a href="http://blogs.vmware.com/cloudnative/tag/instant-clone&src=vmw_so_vex_shuis_302" target="_blank">instant cloning technology</a> (available in vSphere 6). What really is interesting is that these technologies will be integrated in Smartnode enabled EVO solutions.
+  So Smartnode technology are two existing products (<a href="https://www.vmware.com/nl/products/appvolumes&src=vmw_so_vex_shuis_302" target="_blank">App Volumes</a> and <a href="https://www.vmware.com/products/user-environment-manager&src=vmw_so_vex_shuis_302" target="_blank">VMware User Environment Manager</a>) combined with the new <a href="https://blogs.vmware.com/cloudnative/tag/instant-clone&src=vmw_so_vex_shuis_302" target="_blank">instant cloning technology</a> (available in vSphere 6). What really is interesting is that these technologies will be integrated in Smartnode enabled EVO solutions.
 </div>
 
 <div>

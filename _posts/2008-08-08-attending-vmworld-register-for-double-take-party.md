@@ -20,4 +20,4 @@ If you&#8217;re attending VMWorld 2008 in Las Vegas, you can register for a part
 > 
 > _We can&#8217;t promise the next Aer Lingus flight to the Emerald Isle – but we can promise a rockin&#8217; good time at the finest Irish pub in Las Vegas! Join Double-Take Software for our first annual VMworld customer (and wannabe customer) appreciation party featuring Cluster-Funk, the Double-Take Software band._
 
-<a title="Double-Take party" href="http://www.doubletake.com/misc/vmworld08.aspx" target="_blank">Register</a> now.
+<a title="Double-Take party" href="https://www.doubletake.com/misc/vmworld08.aspx" target="_blank">Register</a> now.

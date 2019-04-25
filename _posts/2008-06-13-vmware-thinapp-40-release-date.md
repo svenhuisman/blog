@@ -15,7 +15,7 @@ tags:
   - VMware
   - VMware Thinapp
 ---
-While I was working on an Application virtualization comparison chart (which will be released next week), I noticed something interesting. In the <a title="ThinApp FAQ" href="http://www.vmware.com/files/pdf/ThinAppFAQ.pdf" target="_blank">ThinApp FAQ</a> it is stated that the general availability of <a title="Vmware Thinapp" href="http://www.vmware.com/whatsnew/thinstall.html" target="_blank">VMware ThinApp</a> will be on **June 27th 2008**. So now you know.
+While I was working on an Application virtualization comparison chart (which will be released next week), I noticed something interesting. In the <a title="ThinApp FAQ" href="https://www.vmware.com/files/pdf/ThinAppFAQ.pdf" target="_blank">ThinApp FAQ</a> it is stated that the general availability of <a title="Vmware Thinapp" href="https://www.vmware.com/whatsnew/thinstall.html" target="_blank">VMware ThinApp</a> will be on **June 27th 2008**. So now you know.
 
 Another thing I&#8217;ve read was this:
 

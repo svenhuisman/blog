@@ -20,7 +20,7 @@ tags:
   - virtual environment
   - VMware
 ---
-**T**his sounds impossible but when I read <a href="http://searchvmware.techtarget.com/tip/0,289483,sid179_gci1357346_mem1,00.html" target="_blank">Gabe&#8217;s article</a> correctly he brings back **Microsoft OS licensing costs** of about** $800.000** (for 200 physical hosts) **back to just $40.000** (for 200 virtual hosts). Of course this presents an ideal situation.
+**T**his sounds impossible but when I read <a href="https://searchvmware.techtarget.com/tip/0,289483,sid179_gci1357346_mem1,00.html" target="_blank">Gabe&#8217;s article</a> correctly he brings back **Microsoft OS licensing costs** of about** $800.000** (for 200 physical hosts) **back to just $40.000** (for 200 virtual hosts). Of course this presents an ideal situation.
 
 <span style="text-decoration: underline;"><strong>T</strong>he situation Gabe describes:</span>  
 &#8211; 200 physical hosts -> 200 virtual guests on 7 physical hosts  
@@ -38,6 +38,6 @@ tags:
 
 **A**gain, these are extreme situations but they do show that you can seriously cut back costs if you <span style="text-decoration: underline;">take a serious look at your MS licensing costs</span> and options, so check it out!
 
-**C**heck out the full article of <a href="http://www.gabesvirtualworld.com/" target="_blank">Gabrie van Zanten</a> here : <a href="http://searchvmware.techtarget.com/tip/0,289483,sid179_gci1357346_mem1,00.html" target="_blank">http://searchvmware.techtarget.com/tip/0,289483,sid179_gci1357346_mem1,00.html</a>
+**C**heck out the full article of <a href="https://www.gabesvirtualworld.com/" target="_blank">Gabrie van Zanten</a> here : <a href="https://searchvmware.techtarget.com/tip/0,289483,sid179_gci1357346_mem1,00.html" target="_blank">https://searchvmware.techtarget.com/tip/0,289483,sid179_gci1357346_mem1,00.html</a>
 
-**C**heck out the FAQ&#8217;s concerning W2K8 licensing here : <a href="http://www.microsoft.com/windowsserver2008/en/us/licensing-faq.aspx" target="_blank">http://www.microsoft.com/windowsserver2008/en/us/licensing-faq.aspx</a>
+**C**heck out the FAQ&#8217;s concerning W2K8 licensing here : <a href="https://www.microsoft.com/windowsserver2008/en/us/licensing-faq.aspx" target="_blank">https://www.microsoft.com/windowsserver2008/en/us/licensing-faq.aspx</a>

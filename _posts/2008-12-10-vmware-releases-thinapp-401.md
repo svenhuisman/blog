@@ -13,7 +13,7 @@ tags:
   - Thinapp
   - VMware
 ---
-ThinApp 4.0.1 is now available for <a title="Thinapp 4.0.1" href="http://www.vmware.com/support/thinapp4/doc/releasenotes_thinapp401.html" target="_blank">download</a>. This is a maintenance release that addresses a number of known issues. It also delivers some nice additions to utilities within the ThinApp Suit: Application link for example now supports multi-level links, such that application A links to application B, which links to application C, and so on. File type association also have been improved. Here is the complete list:<!--more-->
+ThinApp 4.0.1 is now available for <a title="Thinapp 4.0.1" href="https://www.vmware.com/support/thinapp4/doc/releasenotes_thinapp401.html" target="_blank">download</a>. This is a maintenance release that addresses a number of known issues. It also delivers some nice additions to utilities within the ThinApp Suit: Application link for example now supports multi-level links, such that application A links to application B, which links to application C, and so on. File type association also have been improved. Here is the complete list:<!--more-->
 
   * The thinreg.exe utility has been enhanced, facilitating file type association. It also includes support for DDE, extra verbs, and MIME type registration.
   * Enhanced support for double-byte applications and double-byte locales.

@@ -23,10 +23,10 @@ tags:
 
 You probably noticed because the blogoshpere is full of it but we can&#8217;t let this event unmentioned : VMware unveiled the successor to the VMware Virtual Infrastructure 3 suite : VMware vSphere 4. Just to be clear this is the name of the suite, not just &#8220;ESX 4&#8221;.
 
-Interesting to see is that the various editions of vSphere that will become available. Check them out here : <a href="http://www.vmware.com/products/vsphere/buy/editions_comparison.html" target="_blank">http://www.vmware.com/products/vsphere/buy/editions_comparison.html</a> . 
+Interesting to see is that the various editions of vSphere that will become available. Check them out here : <a href="https://www.vmware.com/products/vsphere/buy/editions_comparison.html" target="_blank">https://www.vmware.com/products/vsphere/buy/editions_comparison.html</a> . 
 
 VMware vSphere products will be available for sale on May the 21st 2009, until then you can still buy VMware Infrastructure 3 products (dunno why you would but anyway).
 
-Check out <a href="http://vmware.com/company/news/releases/vsphere-launch.html" target="_blank">the official press release</a> including product and pricing information here [<a href="http://vmware.com/company/news/releases/vsphere-launch.html" target="_blank">http://vmware.com/company/news/releases/vsphere-launch.html</a>].
+Check out <a href="https://vmware.com/company/news/releases/vsphere-launch.html" target="_blank">the official press release</a> including product and pricing information here [<a href="https://vmware.com/company/news/releases/vsphere-launch.html" target="_blank">https://vmware.com/company/news/releases/vsphere-launch.html</a>].
 
-We could put a lot of info in this post but lots of people have done that already so I thought I would provide you with a link to <a href="http://www.yellow-bricks.com/2009/04/21/vsphere-linkage/trackback/" target="_blank">an article on Yellow-Bricks</a> where Duncan is keeping a nice list of published articles.
+We could put a lot of info in this post but lots of people have done that already so I thought I would provide you with a link to <a href="https://www.yellow-bricks.com/2009/04/21/vsphere-linkage/trackback/" target="_blank">an article on Yellow-Bricks</a> where Duncan is keeping a nice list of published articles.

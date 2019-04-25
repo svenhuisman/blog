@@ -12,7 +12,7 @@ tags:
   - Application Virtualization
   - Installfree
 ---
-Last week InstallFree released a new version of their application virtualization product called: <a title="InstallFree Bridge" href="http://www.installfree.com/pageload.aspx?page=products_InstallFree_Bridge.html" target="_blank">Installfree Bridge</a>. This version (1.5) fixes some bugs and has also some new features. The bridge is now fully supported on Vista for example. Here is the complete list of new features:<!--more-->
+Last week InstallFree released a new version of their application virtualization product called: <a title="InstallFree Bridge" href="https://www.installfree.com/pageload.aspx?page=products_InstallFree_Bridge.html" target="_blank">Installfree Bridge</a>. This version (1.5) fixes some bugs and has also some new features. The bridge is now fully supported on Vista for example. Here is the complete list of new features:<!--more-->
 
   1. Server 2008 – IFMC supports server 2008.
   2. Vista support – InstallFree Bridge can be run on Vista OS.

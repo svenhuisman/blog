@@ -14,7 +14,7 @@ tags:
 ---
 This article is in Dutch…
 
-Het <a href="http://www.vmug.nl/" target="_blank">VMUG</a> Event 7 december 2012 heeft als titel ‘The Next Step’ gekregen. Tijdens VMworld 2012 heeft VMware de vCloud Suite geïntroduceerd wat een belangrijke stap is in ‘The journey to the cloud’. Daarnaast staan er een aantal veranderingen op stapel binnen VMUG Nederland, die VMUG als een belangrijke stap ziet in de toekomst. Over deze veranderingen wordt je tijdens het VMUG Event 2012 verder ingelicht.
+Het <a href="https://www.vmug.nl/" target="_blank">VMUG</a> Event 7 december 2012 heeft als titel ‘The Next Step’ gekregen. Tijdens VMworld 2012 heeft VMware de vCloud Suite geïntroduceerd wat een belangrijke stap is in ‘The journey to the cloud’. Daarnaast staan er een aantal veranderingen op stapel binnen VMUG Nederland, die VMUG als een belangrijke stap ziet in de toekomst. Over deze veranderingen wordt je tijdens het VMUG Event 2012 verder ingelicht.
 
 **Agenda**
 
@@ -39,8 +39,8 @@ Niet te vergeten ‘Dé workshops’ Tijdens de Dutch VMUG Event kun je aan vier
   3. Workshop: Cisco UCS Hands on – Cisco (Walk-in)
   4. Workshop: Hands on Labs – EMC (Walk-in)
 
-De volledige agenda is <a href="http://www.vmug.nl/cms/index.php?option=com_content&view=category&layout=blog&id=106&Itemid=112" target="_blank">online</a> beschikbaar!
+De volledige agenda is <a href="https://www.vmug.nl/cms/index.php?option=com_content&view=category&layout=blog&id=106&Itemid=112" target="_blank">online</a> beschikbaar!
 
-Genoeg redenen om het belangrijkste VMware User Group Event 2012 niet te missen! Ben je erbij? Klik <a href="http://vmug.nl/cms/index.php?option=com_content&view=category&layout=blog&id=107&Itemid=117" target="_blank">hier</a> voor de inschrijving zodat je er ook op 7 december bij kan zijn! Zorg wel dat je ingelogd met je VMUG account, anders kun je niet inschrijven! Geen VMUG account? Geen nood, vraag ‘m <a href="http://vmug.nl/phpbb/ucp.php?mode=register" target="_blank">hier</a> gratis aan.
+Genoeg redenen om het belangrijkste VMware User Group Event 2012 niet te missen! Ben je erbij? Klik <a href="https://vmug.nl/cms/index.php?option=com_content&view=category&layout=blog&id=107&Itemid=117" target="_blank">hier</a> voor de inschrijving zodat je er ook op 7 december bij kan zijn! Zorg wel dat je ingelogd met je VMUG account, anders kun je niet inschrijven! Geen VMUG account? Geen nood, vraag ‘m <a href="https://vmug.nl/phpbb/ucp.php?mode=register" target="_blank">hier</a> gratis aan.
 
 Tot 7 december op het VMUG Event 2012!

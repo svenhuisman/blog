@@ -13,7 +13,7 @@ tags:
   - VMworld
   - VMworld Europe 2009
 ---
-<a title="Run-virtual.com" href="http://www.run-virtual.com" target="_blank">Richard Garsthagen</a>, the organizer of VMworld Europe, has given a preview on <a title="VMworld.com" href="http://www.vmworld.com/blogs/vmworldeurope2009/2009/02/15/vmworld-preview-1-more-week-to-go" target="_blank">www.vmworld.com</a> of the biggest virtualization in Europe:
+<a title="Run-virtual.com" href="https://www.run-virtual.com" target="_blank">Richard Garsthagen</a>, the organizer of VMworld Europe, has given a preview on <a title="VMworld.com" href="https://www.vmworld.com/blogs/vmworldeurope2009/2009/02/15/vmworld-preview-1-more-week-to-go" target="_blank">www.vmworld.com</a> of the biggest virtualization in Europe:
 
 > _It will be a challenge to pick what sessions you want to go see as there will be around 140 sessions and 13 labs to choice from. A good start might be \*+“DC14 &#8211; Overview of 2009 VMware datacenter products”+\* and **“DC07 &#8211; Tech Preview: vCenter Server”**.  
 > We have reserved the Thursday afternoon for all the top scored sessions from  

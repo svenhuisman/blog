@@ -4,7 +4,7 @@ title: App Volumes and VMware UEM issue
 date: 2015-06-05T10:59:56+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=4228
+guid: https://SvenHuisman.com/?p=4228
 permalink: /2015/06/app-volumes-and-vmware-uem-issue/
 categories:
   - Virtual Desktop
@@ -18,7 +18,7 @@ If you want to use or test VMware App Volumes and VMware UEM you will run into a
 
 It seems that the applications that are installed in an Appstack are not yet available when the user logs in. You will also run into this issue when an Appstack is mounted when the user is already logged in.
 
-I discussed this issue with my colleague Rob Beekmans and he already <a title="Rob Beekmans - App Volumes" href="http://vthoughtsofit.blogspot.nl/2015/06/vmware-app-volumes-and-uem-battling.html" target="_blank">blogged about it</a>.
+I discussed this issue with my colleague Rob Beekmans and he already <a title="Rob Beekmans - App Volumes" href="https://vthoughtsofit.blogspot.nl/2015/06/vmware-app-volumes-and-uem-battling.html" target="_blank">blogged about it</a>.
 
 <div>
   I found a workaround for this. App Volumes has a feature to run scripts at various times during the mounting process of Appstacks:

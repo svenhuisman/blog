@@ -16,7 +16,7 @@ tags:
 
 <span style="10pt;"><span style="Arial;">Last week I was informed about icloud, a product of Xcerion.<br /> Xcerion delivers software and OS as a Service trough your web browser.</span></span>
 
-<span style="10pt;"><span style="Arial;">A quote from </span></span>[<span style="10pt;"><span style="Arial;">www.icloud.com</span></span>](http://www.icloud.com/)<span style="10pt;"><span style="Arial;">:</span></span>
+<span style="10pt;"><span style="Arial;">A quote from </span></span>[<span style="10pt;"><span style="Arial;">www.icloud.com</span></span>](https://www.icloud.com/)<span style="10pt;"><span style="Arial;">:</span></span>
 
 > <span style="10pt;"><span style="Arial;">&#8220;icloud consist of a desktop with applications and files that you run through your web browser.<br /> Because it&#8217;s running in the cloud (the internet) it can offer you impressive features such as easy sharing, rich collaboration, built-in marketplace with free applications, seamless integration with your mobile device, and innovative drag-and-drop blog publishing.&#8221; </span></span>
 
@@ -38,8 +38,8 @@ tags:
   * <span style="10pt;"><span style="Arial;">Add / remove Sidebar widgets</span></span>
   * <span style="10pt;"><span style="Arial;">Use the icloud CLI to manage your virtual desktop</span></span>
 
-Screenshots: <http://icloud.com/live/screenshots.html>
+Screenshots: <https://icloud.com/live/screenshots.html>
 
 <p style="10pt;">
-  <span style="Arial;">For more information and joining the icloud beta program, visit </span><a href="http://www.icloud.com/"><span style="Arial;">www.icloud.com</span></a>
+  <span style="Arial;">For more information and joining the icloud beta program, visit </span><a href="https://www.icloud.com/"><span style="Arial;">www.icloud.com</span></a>
 </p>

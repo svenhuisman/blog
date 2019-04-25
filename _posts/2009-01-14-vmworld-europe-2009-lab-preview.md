@@ -13,6 +13,6 @@ tags:
   - VMware
   - VMworld Europe 2009
 ---
-Here is a lab preview video posted on the <a title="VMworld.com" href="http://www.vmworld.com/message/4256#4256" target="_blank">vmworld.com</a> site:
+Here is a lab preview video posted on the <a title="VMworld.com" href="https://www.vmworld.com/message/4256#4256" target="_blank">vmworld.com</a> site:
 
 <!--more-->

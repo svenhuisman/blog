@@ -17,12 +17,12 @@ tags:
 ---
 Today VMware announced VMware View 5.1. A lot of great new features in this update. In this blogpost I was going to highlight the new features of this release but that has already been done a lot by other bloggers. Instead, I will highlight a couple of the new features and dive a little deeper. First of all, if you haven’t read about the new features, here are a couple of links where you can read all about them:
 
-  * <a href="http://blogs.vmware.com/euc/2012/05/whats-new-in-view-51.html" target="_blank">VMware EUC blog: What’s New in VMware View 5.1</a>
-  * <a href="http://www.vmware.com/files/pdf/press-kit/vmware-view-51-media-backgrounder.pdf" target="_blank">VMware View 5.1 press media backgrounder</a>
-  * <a href="http://blogs.vmware.com/euc/2012/05/optimizing-storage-with-view-storage-accelerator.html" target="_blank">VMware View, optimizing storage with View storage accelerator</a>
-  * <a href="http://blogs.vmware.com/euc/2012/05/demystifying-vmware-view-large-scale-designs.html" target="_blank">VMware View, demystifying VMware View Large Scale Designs</a>
-  * <a href="http://www.ntpro.nl/blog/archives/2038-VMware-has-announced-VMware-View-5.1.html" target="_blank">NTPRO.NL: VMware View 5.1 announcement</a>
-  * <a href="http://blogs.vmware.com/euc/2012/05/view-composer-array-integration-tech-preview.html" target="_blank">VMware EUC Portfolio: View Composer Array Integration Tech Preview</a>
+  * <a href="https://blogs.vmware.com/euc/2012/05/whats-new-in-view-51.html" target="_blank">VMware EUC blog: What’s New in VMware View 5.1</a>
+  * <a href="https://www.vmware.com/files/pdf/press-kit/vmware-view-51-media-backgrounder.pdf" target="_blank">VMware View 5.1 press media backgrounder</a>
+  * <a href="https://blogs.vmware.com/euc/2012/05/optimizing-storage-with-view-storage-accelerator.html" target="_blank">VMware View, optimizing storage with View storage accelerator</a>
+  * <a href="https://blogs.vmware.com/euc/2012/05/demystifying-vmware-view-large-scale-designs.html" target="_blank">VMware View, demystifying VMware View Large Scale Designs</a>
+  * <a href="https://www.ntpro.nl/blog/archives/2038-VMware-has-announced-VMware-View-5.1.html" target="_blank">NTPRO.NL: VMware View 5.1 announcement</a>
+  * <a href="https://blogs.vmware.com/euc/2012/05/view-composer-array-integration-tech-preview.html" target="_blank">VMware EUC Portfolio: View Composer Array Integration Tech Preview</a>
 
 Reading these posts will get you up to speed. General availability of VMware View 5.1 will be in Q2 of 2012.
 

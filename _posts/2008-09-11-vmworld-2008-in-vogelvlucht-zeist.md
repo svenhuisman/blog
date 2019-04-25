@@ -12,7 +12,7 @@ tags:
   - VMware
   - VMworld 2008
 ---
-Er zijn nog enkele plaatsen beschikbaar, dus <a title="VMWorld 2008 in vogelvlucht" href="http://www.vmwarepartners.com/pages/customers/qnh-infrastructure-bv/vmworld-2008-in-vogelvlucht/email.html?Campaign_Id=38781&Activity_Id=35981" target="_blank">schrijf je snel in</a>.
+Er zijn nog enkele plaatsen beschikbaar, dus <a title="VMWorld 2008 in vogelvlucht" href="https://www.vmwarepartners.com/pages/customers/qnh-infrastructure-bv/vmworld-2008-in-vogelvlucht/email.html?Campaign_Id=38781&Activity_Id=35981" target="_blank">schrijf je snel in</a>.
 
 Hierbij het programma:
 

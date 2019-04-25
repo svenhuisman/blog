@@ -18,12 +18,12 @@ tags:
 ---
 Today VMware introduced a name change and a new product suite. _VMware View_ and _VMware vCenter <**old product name**>_. A lot of bloggers already reported this news, so I won&#8217;t go into this a lot. Just pick on of the following to read all about it:
 
-  * <a title="VMTN" href="http://blogs.vmware.com/vmtn/2008/12/do-they-smell-a.html" target="_blank">John Troyer</a>
-  * <a title="NTpro.nl" href="http://www.ntpro.nl/blog/archives/785-VMware-Product-Name-Changes.html" target="_blank">Eric Sloof</a>
-  * <a title="Thinappblog" href="http://edwinfriesen.nl/content/?p=128" target="_blank">Edwin Friessen</a>
-  * <a title="VMETC" href="http://vmetc.com/2008/12/02/vmware-changes-product-names/" target="_blank">Rich Brambley</a>
-  * <a title="Yellowbricks" href="http://www.yellow-bricks.com/2008/12/02/whats-in-a-name/" target="_blank">Duncan Epping</a>
-  * <a title="itknowledgeexchange" href="http://itknowledgeexchange.techtarget.com/virtualization-pro/vmware-product-name-changes-vcenter-view/" target="_blank">Eric Siebert</a>
+  * <a title="VMTN" href="https://blogs.vmware.com/vmtn/2008/12/do-they-smell-a.html" target="_blank">John Troyer</a>
+  * <a title="NTpro.nl" href="https://www.ntpro.nl/blog/archives/785-VMware-Product-Name-Changes.html" target="_blank">Eric Sloof</a>
+  * <a title="Thinappblog" href="https://edwinfriesen.nl/content/?p=128" target="_blank">Edwin Friessen</a>
+  * <a title="VMETC" href="https://vmetc.com/2008/12/02/vmware-changes-product-names/" target="_blank">Rich Brambley</a>
+  * <a title="Yellowbricks" href="https://www.yellow-bricks.com/2008/12/02/whats-in-a-name/" target="_blank">Duncan Epping</a>
+  * <a title="itknowledgeexchange" href="https://itknowledgeexchange.techtarget.com/virtualization-pro/vmware-product-name-changes-vcenter-view/" target="_blank">Eric Siebert</a>
 
 What&#8217;s more interesting is that VMware View Manager 3 together with VMware View Composer is released.<!--more-->VMware View Composer is the technology also used in 
 

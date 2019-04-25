@@ -55,7 +55,7 @@ Here&#8217;s the content of this e-mail:
       
       <p>
         <div style="width: 220px" class="wp-caption alignnone">
-          <a href="http://download.veeam.com/downloads/Backup2.0ForWeb/Backup2.0ForWeb.htm" target="_blank"><span style="none"><img class=" " style="0px;" src="http://origin.ih.constantcontact.com/fs012/1101867302968/img/60.jpg?a=1102173710811" border="0" alt="" width="210" height="75" /></span></a>
+          <a href="https://download.veeam.com/downloads/Backup2.0ForWeb/Backup2.0ForWeb.htm" target="_blank"><span style="none"><img class=" " style="0px;" src="https://origin.ih.constantcontact.com/fs012/1101867302968/img/60.jpg?a=1102173710811" border="0" alt="" width="210" height="75" /></span></a>
           
           <p class="wp-caption-text">
             Veeam Backup 2.0 Product demo

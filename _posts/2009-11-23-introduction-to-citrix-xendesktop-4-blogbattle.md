@@ -17,7 +17,7 @@ tags:
   - Virtual Desktop
   - XenDesktop 4
 ---
-<a href="http://www.citrix.com" target="_blank"><img class="alignleft size-full wp-image-1565" title="citrix_logo" src="https://svenhuisman.com/wp-content/uploads/2009/11/citrix_logo.gif" alt="citrix_logo" width="93" height="35" />Citrix</a> last week released their Virtual Desktop product named <a href="http://www.citrix.com/xendesktop4" target="_blank">Citrix XenDesktop 4</a>. For Citrix it is the 3rd (have you ever seen 1.0 ?) generation of their VDI product. As part of the <a href="https://svenhuisman.com/2009/11/bloggers-battle-citrix-xendesktop-vs-vmware-view/" target="_self">VDI Blog Battle</a>. I&#8217;ll be using this post to update you on the architecture and basic info concerning Citrix XenDesktop 4.
+<a href="https://www.citrix.com" target="_blank"><img class="alignleft size-full wp-image-1565" title="citrix_logo" src="https://svenhuisman.com/wp-content/uploads/2009/11/citrix_logo.gif" alt="citrix_logo" width="93" height="35" />Citrix</a> last week released their Virtual Desktop product named <a href="https://www.citrix.com/xendesktop4" target="_blank">Citrix XenDesktop 4</a>. For Citrix it is the 3rd (have you ever seen 1.0 ?) generation of their VDI product. As part of the <a href="https://svenhuisman.com/2009/11/bloggers-battle-citrix-xendesktop-vs-vmware-view/" target="_self">VDI Blog Battle</a>. I&#8217;ll be using this post to update you on the architecture and basic info concerning Citrix XenDesktop 4.
 
 **What is Citrix XenDesktop ?**
 
@@ -59,7 +59,7 @@ They fit together like this:
 • **Smartcard features extend** – Vista and Win7 support : smooth roaming, multiple cards, multiple readers etc.  
 • **Enhanced USB support**– web-cams, headsets, scanners, dongles, tablets, 3d mice etc.
 
-As you can see, a big part of the enhancements is in the HDX area, which is a bundle of techniques that enrich the multimedia experience of the Citrix end-user tremendously. This is one of the many big advantages of Citrix XenDesktop 4 over <a href="http://www.vmware.com/view" target="_blank">VMware View 4</a>. In the next post I&#8217;ll tell you more about the unique features that XenDesktop has.
+As you can see, a big part of the enhancements is in the HDX area, which is a bundle of techniques that enrich the multimedia experience of the Citrix end-user tremendously. This is one of the many big advantages of Citrix XenDesktop 4 over <a href="https://www.vmware.com/view" target="_blank">VMware View 4</a>. In the next post I&#8217;ll tell you more about the unique features that XenDesktop has.
 
 I’d like to keep the outline of this post the same as Sven did with his intro of View 4. The only thing is that Sven had a chapter _What’s missing_, and I wouldn’t know what to put in there ;). Well, the only thing that is missing is the option to get your virtual desktop available off-line on a laptop for example, but hey, that&#8217;s experimental on View 4 too.
 

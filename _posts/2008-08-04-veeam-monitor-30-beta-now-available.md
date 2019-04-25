@@ -16,7 +16,7 @@ tags:
   - vi
   - VMware
 ---
-<a href="http://www.veeam.com" target="_blank">Veeam </a>just released the Veeam Monitor 3.0 beta which is used to monitor your VMWare Virtual Infrastructure environment.
+<a href="https://www.veeam.com" target="_blank">Veeam </a>just released the Veeam Monitor 3.0 beta which is used to monitor your VMWare Virtual Infrastructure environment.
 
 <span style="text-decoration: underline;">New features:</span>
 
@@ -33,4 +33,4 @@ tags:
 
 These features all seem promising ! The full release notes are also available by clicking the link below.
 
-<a href="http://www.veeam.com/mydownload.asp?id=33996" target="_blank">Download Veaam Monitor 3.0 beta here.</a>
+<a href="https://www.veeam.com/mydownload.asp?id=33996" target="_blank">Download Veaam Monitor 3.0 beta here.</a>

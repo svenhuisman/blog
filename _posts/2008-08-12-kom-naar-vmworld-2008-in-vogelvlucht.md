@@ -17,8 +17,8 @@ tags:
 This is for our dutch readers:
 
 Kun je helaas niet naar VMWorld in Las Vegas dit jaar? Kom dan naar Zeist op 2 oktober, daar doen we VMWorld dunnetjes over!  
-<a title="QNH" href="http://www.qnh.nl" target="_blank">QNH Business Integration</a> organiseert het &#8220;VMWorld 2008 in vogelvlucht&#8221; event. Daar worden de laatste nieuwtjes van VMware toegelicht, er zal een demo worden gegeven, een discussieronde worden gehouden en er zal Las Vegas-style eten klaar staan!
+<a title="QNH" href="https://www.qnh.nl" target="_blank">QNH Business Integration</a> organiseert het &#8220;VMWorld 2008 in vogelvlucht&#8221; event. Daar worden de laatste nieuwtjes van VMware toegelicht, er zal een demo worden gegeven, een discussieronde worden gehouden en er zal Las Vegas-style eten klaar staan!
 
 Donderdag 2 oktober ben je vanaf 16:00 welkom. Het event is gratis.
 
-Schrijf je <a title="VMWorld 2008 in vogelvlucht" href="http://www.vmwarepartners.com/pages/customers/qnh-infrastructure-bv/vmworld-2008-in-vogelvlucht/email.html?Campaign_Id=38781&Activity_Id=35981" target="_blank">hier</a> in.
+Schrijf je <a title="VMWorld 2008 in vogelvlucht" href="https://www.vmwarepartners.com/pages/customers/qnh-infrastructure-bv/vmworld-2008-in-vogelvlucht/email.html?Campaign_Id=38781&Activity_Id=35981" target="_blank">hier</a> in.

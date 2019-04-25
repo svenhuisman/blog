@@ -15,9 +15,9 @@ tags:
   - VMware
   - vSphere client
 ---
-After the release of the <a title="VMware View client for iPad" href="http://itunes.apple.com/us/app/vmware-view-for-ipad/id417993697?mt=8" target="_blank">VMware View client for iPad</a> last week, there is now a new VMware application for the iPad: <a title="vSphere for ipad" href="http://itunes.apple.com/us/app/vmware-vsphere-client-for/id417323354?mt=8&ls=1" target="_blank">the vSphere client</a>! This client is now available for download at the iTunes Appstore and it&#8217;s free of charge!
+After the release of the <a title="VMware View client for iPad" href="https://itunes.apple.com/us/app/vmware-view-for-ipad/id417993697?mt=8" target="_blank">VMware View client for iPad</a> last week, there is now a new VMware application for the iPad: <a title="vSphere for ipad" href="https://itunes.apple.com/us/app/vmware-vsphere-client-for/id417323354?mt=8&ls=1" target="_blank">the vSphere client</a>! This client is now available for download at the iTunes Appstore and it&#8217;s free of charge!
 
-The only thing you need to have installed is a virtual appliance from VMware:  The <a title="VMware vCMA" href="http://labs.vmware.com/flings/vcma" target="_blank">vCMA</a>.
+The only thing you need to have installed is a virtual appliance from VMware:  The <a title="VMware vCMA" href="https://labs.vmware.com/flings/vcma" target="_blank">vCMA</a>.
 
 Steps to take:
 

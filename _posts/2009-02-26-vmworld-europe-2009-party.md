@@ -14,4 +14,4 @@ tags:
   - VMworld Europe 2009
 ---
 Tonight was the VMworld party: Cloud 9! When we entered the room, it was like we were walking on a cloud and we were welcomed by a couple of angels. It was like we were in heaven&#8230; until we got to the food.  
-Well, just take a look at our short flip-video impression and keep an eye out to <a title="NTpro.nl" href="http://www.ntpro.nl" target="_blank">Eric Sloof&#8217;s blog</a>: he has got some nice (really nice) footage he&#8217;s going to post tonight. Here is our video:<!--more-->
+Well, just take a look at our short flip-video impression and keep an eye out to <a title="NTpro.nl" href="https://www.ntpro.nl" target="_blank">Eric Sloof&#8217;s blog</a>: he has got some nice (really nice) footage he&#8217;s going to post tonight. Here is our video:<!--more-->

@@ -30,4 +30,4 @@ The Desktop Delivery Controller only accepts a trusted certificate and by defaul
   * Use a trusted certificate.
   * Enable HTTP on the SDK website. 
 
-For test/demo environments you can use the last option, for production I would recommend the second option. Jarian Gibson wrote an <a title="xendesktop on vmware" href="http://jariangibson.com/2009/10/13/using-xendesktop-with-vmware/" target="_blank">article</a> that describes how to do this.
+For test/demo environments you can use the last option, for production I would recommend the second option. Jarian Gibson wrote an <a title="xendesktop on vmware" href="https://jariangibson.com/2009/10/13/using-xendesktop-with-vmware/" target="_blank">article</a> that describes how to do this.

@@ -21,4 +21,4 @@ _Add-VMHost -Name 10.23.113.24 -Location (Get-Datacenter Main) -User root -Passw
 
 Powershell in general uses easy to read and understand commands. I have used powershell on numerous ocassions and was impressed by the ease and clarity of the commands and am glad that the VI Toolkit is no exception.
 
-Download it <a href="http://www.vmware.com/sdk/vitk_win/index.html" target="_blank">the VI Toolkit</a> and start using it. I would really recommend it.
+Download it <a href="https://www.vmware.com/sdk/vitk_win/index.html" target="_blank">the VI Toolkit</a> and start using it. I would really recommend it.

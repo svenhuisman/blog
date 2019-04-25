@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p class="MsoNormal" style="0cm 0cm 4.5pt;">
-   <span>Customers have told us that they appreciate the innovation behind our enterprise management systems connectors to VMware.  We&#8217;ve also heard that you sometimes wish we had more developers to devote to continuing enhancement of these products.  With today&#8217;s announcement of <a href="http://www.nworks.com" target="_blank">nworks</a>&#8216; acquisition by <a href="http://www.veeam.com/" target="_blank">Veeam Software</a>, that wish has come true. </span>
+   <span>Customers have told us that they appreciate the innovation behind our enterprise management systems connectors to VMware.  We&#8217;ve also heard that you sometimes wish we had more developers to devote to continuing enhancement of these products.  With today&#8217;s announcement of <a href="https://www.nworks.com" target="_blank">nworks</a>&#8216; acquisition by <a href="https://www.veeam.com/" target="_blank">Veeam Software</a>, that wish has come true. </span>
 </p>
 
 <p class="MsoNormal" style="0cm 0cm 4.5pt;">

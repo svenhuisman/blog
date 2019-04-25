@@ -15,10 +15,10 @@ tags:
   - Workstation
   - Xtravirt
 ---
-**I** already wrote an articly last week concerning <a href="https://svenhuisman.com/2009/05/1-week-of-ga-of-vsphere-40-getting-started/" target="_blank">the 1st week of general availability of vSphere</a> and refered to Roy Mikes&#8217; article about installing ESX on VMware Workstation but now Xtravirt, known by their usefull PDF&#8217;s concerning these issues have released their howto &#8220;**_<a href="http://xtravirt.com/node/177" target="_blank">How to install ESX 4.0 on Workstation 6.5.2 as a VM</a>_**&#8220;. Their PDF, wich is behind closed doors (<a href="http://xtravirt.com/user/register" target="_blank">just register</a>, it&#8217;s free), also describes how to configure your ESX VM so that you can run nested VM&#8217;s.
+**I** already wrote an articly last week concerning <a href="https://svenhuisman.com/2009/05/1-week-of-ga-of-vsphere-40-getting-started/" target="_blank">the 1st week of general availability of vSphere</a> and refered to Roy Mikes&#8217; article about installing ESX on VMware Workstation but now Xtravirt, known by their usefull PDF&#8217;s concerning these issues have released their howto &#8220;**_<a href="https://xtravirt.com/node/177" target="_blank">How to install ESX 4.0 on Workstation 6.5.2 as a VM</a>_**&#8220;. Their PDF, wich is behind closed doors (<a href="https://xtravirt.com/user/register" target="_blank">just register</a>, it&#8217;s free), also describes how to configure your ESX VM so that you can run nested VM&#8217;s.
 
-<a href="http://xtravirt.com/node/177" target="_blank"><img class="size-full wp-image-1239 alignnone" title="Xtravirt - XD10089" src="https://svenhuisman.com/wp-content/uploads/2009/06/xtravirt-esx4onws.png" alt="Xtravirt - XD10089" width="200" height="282" /></a>
+<a href="https://xtravirt.com/node/177" target="_blank"><img class="size-full wp-image-1239 alignnone" title="Xtravirt - XD10089" src="https://svenhuisman.com/wp-content/uploads/2009/06/xtravirt-esx4onws.png" alt="Xtravirt - XD10089" width="200" height="282" /></a>
 
-I say it&#8217;s a must have : <a href="http://xtravirt.com/node/177" target="_blank">http://xtravirt.com/node/177</a>.
+I say it&#8217;s a must have : <a href="https://xtravirt.com/node/177" target="_blank">https://xtravirt.com/node/177</a>.
 
 Off course I directly update our <a href="https://svenhuisman.com/link/" target="_self">Usefull Links</a> section with it, if you don&#8217;t know it check it out !

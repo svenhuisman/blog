@@ -15,7 +15,7 @@ tags:
   - Powerconvert
   - VMware
 ---
-When I virtualize a physical server, and the server has a logical disk with multiple partitions on it, I always want to convert those partitions into separate virtual disks. In some cases I want those virtual disks on separate datastores (in case of different RAID types for example). When not using a tool like <a title="Platespin Powerconvert" href="http://www.platespin.com/products/powerconvert/" target="_blank">Platespin Powerconvert</a>, it could be a lot of work. I would convert just the system partition with <a title="VMware converter" href="http://www.vmware.com/products/converter/" target="_blank">VMware Converter</a> and I would clone the other partitions with a disk cloning tool like Symantec Ghost.
+When I virtualize a physical server, and the server has a logical disk with multiple partitions on it, I always want to convert those partitions into separate virtual disks. In some cases I want those virtual disks on separate datastores (in case of different RAID types for example). When not using a tool like <a title="Platespin Powerconvert" href="https://www.platespin.com/products/powerconvert/" target="_blank">Platespin Powerconvert</a>, it could be a lot of work. I would convert just the system partition with <a title="VMware converter" href="https://www.vmware.com/products/converter/" target="_blank">VMware Converter</a> and I would clone the other partitions with a disk cloning tool like Symantec Ghost.
 
 It was a while ago that I P2V’d a server, but when I converted a server yesterday, it took me way less time, and I only used VMware converter! This is why:
 

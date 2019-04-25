@@ -13,7 +13,7 @@ tags:
   - VMware
   - VMworld
 ---
-The rumor is spreading that ESX 4.0 will be announced at <a title="VMworld 2008" href="http://www.vmworld.com/conferences/2008/" target="_blank">VMWorld 2008</a> in Las Vegas. In the <a title="VMworld forum" href="http://www.vmworld.com/vmworld/message/2409#2409" target="_blank">VMworld forum</a> someone noticed that Lab A (Datacenter Tech Preview) is not available on Monday but starts right after the General session on Tuesday. You might conclude that ESX 4.0 will be announced during the general session on Tuesday. If you read the description of Lab A you can pretty much guess that this is about ESX 4.0:
+The rumor is spreading that ESX 4.0 will be announced at <a title="VMworld 2008" href="https://www.vmworld.com/conferences/2008/" target="_blank">VMWorld 2008</a> in Las Vegas. In the <a title="VMworld forum" href="https://www.vmworld.com/vmworld/message/2409#2409" target="_blank">VMworld forum</a> someone noticed that Lab A (Datacenter Tech Preview) is not available on Monday but starts right after the General session on Tuesday. You might conclude that ESX 4.0 will be announced during the general session on Tuesday. If you read the description of Lab A you can pretty much guess that this is about ESX 4.0:
 
 LAB A description:
 

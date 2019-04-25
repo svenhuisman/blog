@@ -14,11 +14,11 @@ tags:
   - InstallFree Bridge
   - installfreeguru.com
 ---
-<a title="InstallFree" href="http://www.installfree.com" target="_blank">InstallFree</a> released a new version of their application virtualization product: the InstallFree Bridge Suite 1.9.0.5. Some cool new features are in this release, self provision of applications for example, where end users can select and provision their own applications. The next step is to allow end users to package/encapsulate their own applications. This was <a title="Self encapsulate" href="https://svenhuisman.com/2008/09/installfree-new-feature/" target="_blank">demonstrated</a> at VMWorld 2008 in Las Vegas, but is still not a current feature.
+<a title="InstallFree" href="https://www.installfree.com" target="_blank">InstallFree</a> released a new version of their application virtualization product: the InstallFree Bridge Suite 1.9.0.5. Some cool new features are in this release, self provision of applications for example, where end users can select and provision their own applications. The next step is to allow end users to package/encapsulate their own applications. This was <a title="Self encapsulate" href="https://svenhuisman.com/2008/09/installfree-new-feature/" target="_blank">demonstrated</a> at VMWorld 2008 in Las Vegas, but is still not a current feature.
 
-If you don&#8217;t know what InstallFree is or can do, tak a look at this <a title="InstallFree introduction video" href="http://www.installfree.com/portals/42159/demos/INTRO/intro.html" target="_blank">introduction video</a>.
+If you don&#8217;t know what InstallFree is or can do, tak a look at this <a title="InstallFree introduction video" href="https://www.installfree.com/portals/42159/demos/INTRO/intro.html" target="_blank">introduction video</a>.
 
-If you do know what InstallFree is and you&#8217;ve worked with the product or want to work with it, you should definitely take a look at the independent user forum: <a title="Installfreeguru.com" href="http://www.installfreeguru.com/" target="_blank">InstallFreeguru.com</a>. There isn&#8217;t a lot of info to find there yet, but it&#8217;s a good initiative and I will keep a close eye on the questions posted in the forum.
+If you do know what InstallFree is and you&#8217;ve worked with the product or want to work with it, you should definitely take a look at the independent user forum: <a title="Installfreeguru.com" href="https://www.installfreeguru.com/" target="_blank">InstallFreeguru.com</a>. There isn&#8217;t a lot of info to find there yet, but it&#8217;s a good initiative and I will keep a close eye on the questions posted in the forum.
 
 Here is the complete list of new features (taken from the release notes):<!--more-->
 

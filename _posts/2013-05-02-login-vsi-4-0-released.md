@@ -15,7 +15,7 @@ tags:
 ---
 Login VSI B.V. announces 4.0, a major new release of its flagship product Login VSI, the industry standard performance and scalability testing tool for Virtual Desktop Infrastructures and Server Based Computing environments.
 
-The design of this new release has been driven by extensive customer feedback programs, and production testing projects executed at multiple customer and vendor sites, including the tests done for the acclaimed independent research <a title="Project VRC" href="http://www.ProjectVRC.com" target="_blank">project Virtual Reality Check</a>. Login VSI 4.0 makes testing of VDI and SBC environments easier and more realistic than ever before.
+The design of this new release has been driven by extensive customer feedback programs, and production testing projects executed at multiple customer and vendor sites, including the tests done for the acclaimed independent research <a title="Project VRC" href="https://www.ProjectVRC.com" target="_blank">project Virtual Reality Check</a>. Login VSI 4.0 makes testing of VDI and SBC environments easier and more realistic than ever before.
 
 **Improved ease of installation**  
 The test image footprint of Login VSI has been reduced by almost 90%. This makes the tool not only easier to install, but also easier to integrate and deploy. Centralization of management, updates and logging makes the use of Login VSI more efficient than ever. Direct Desktop Launch (DDL) mode enables large-scale testing with minimal infrastructure.
@@ -39,4 +39,4 @@ The industry standard index VSImax has been further refined, enriching scalabili
 
 _“Login VSI is the industry standard for SBC and VDI testing and benchmarking, as is well demonstrated by the large number of technical papers that are available based on results from our benchmarking tool”_ says Eric-Jan van Leeuwen, CEO of Login VSI B.V. _“The ease of use, and improved realism, of this new release of Login VSI will enable both vendor and end-user organizations to build and protect well performing virtual desktop environments”._
 
-Login VSI 4.0 Pro is now available for all customers on active support and maintenance. Version 4.0 of the free Login VSI Express can be downloaded at [www.loginvsi.com/download](http://www.loginvsi.com/download) More information about Login VSI and related services can be found at [www.loginvsi.com](http://www.loginvsi.com)
+Login VSI 4.0 Pro is now available for all customers on active support and maintenance. Version 4.0 of the free Login VSI Express can be downloaded at [www.loginvsi.com/download](https://www.loginvsi.com/download) More information about Login VSI and related services can be found at [www.loginvsi.com](https://www.loginvsi.com)

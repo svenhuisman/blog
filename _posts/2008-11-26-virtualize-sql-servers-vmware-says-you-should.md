@@ -25,4 +25,4 @@ I really advise you to read the full article, because every situation is differe
 > &#8211; While resources are available, the CPU load on the host has minimal impact on the performance of applications running in virtual machines on that host.  
 > &#8211; Virtual machines get the resources they need when resources are not overcommitted. Resources not used by idle virtual machines are dynamically allocated to other virtual machines that need resources without affecting performance._ 
 
-You can read the <a href="http://blogs.vmware.com/performance/2008/11/database-worklo.html" target="_blank">entire article</a> here on the <a href="http://blogs.vmware.com/performance" target="_blank">VMware Blog (VROOM section)</a>
+You can read the <a href="https://blogs.vmware.com/performance/2008/11/database-worklo.html" target="_blank">entire article</a> here on the <a href="https://blogs.vmware.com/performance" target="_blank">VMware Blog (VROOM section)</a>

@@ -4,7 +4,7 @@ title: Silent install Horizon 7 agents
 date: 2016-04-12T13:45:50+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=13324
+guid: https://SvenHuisman.com/?p=13324
 permalink: /2016/04/silent-install-horizon-7-agents/
 categories:
   - Virtual Desktop
@@ -18,7 +18,7 @@ Yesterday I noticed that the silent parameters I normally used for the Horizon V
 
 <img class="aligncenter size-medium wp-image-13326" src="https://svenhuisman.com/wp-content/uploads/2016/04/ViewAgent7-features-337x350.png" alt="ViewAgent7-features" width="337" height="350" srcset="https://svenhuisman.com/wp-content/uploads/2016/04/ViewAgent7-features-337x350.png 337w, https://svenhuisman.com/wp-content/uploads/2016/04/ViewAgent7-features-650x675.png 650w, https://svenhuisman.com/wp-content/uploads/2016/04/ViewAgent7-features.png 741w" sizes="(max-width: 337px) 100vw, 337px" /> 
 
-I assume it is replaced by the feature &#8220;BlastProtocol&#8221;, which includes the Blast Extreme feature. When you read the <a href="http://pubs.vmware.com/horizon-7-view/topic/com.vmware.horizon-view.desktops.doc/GUID-3096DA8B-034B-435B-877E-5D2B18672A95.html" target="_blank">documentation for Horizon 7</a>, you will notice that the feature table is not updated, it still mentions the &#8220;HtmlAccess&#8221; feature:
+I assume it is replaced by the feature &#8220;BlastProtocol&#8221;, which includes the Blast Extreme feature. When you read the <a href="https://pubs.vmware.com/horizon-7-view/topic/com.vmware.horizon-view.desktops.doc/GUID-3096DA8B-034B-435B-877E-5D2B18672A95.html" target="_blank">documentation for Horizon 7</a>, you will notice that the feature table is not updated, it still mentions the &#8220;HtmlAccess&#8221; feature:
 
 <img class="aligncenter size-medium wp-image-13327" src="https://svenhuisman.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-12-at-13.21.50-350x151.png" alt="Silent parameters" width="350" height="151" srcset="https://svenhuisman.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-12-at-13.21.50-350x151.png 350w, https://svenhuisman.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-12-at-13.21.50-768x332.png 768w, https://svenhuisman.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-12-at-13.21.50-1024x442.png 1024w, https://svenhuisman.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-12-at-13.21.50-650x281.png 650w, https://svenhuisman.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-12-at-13.21.50.png 1376w" sizes="(max-width: 350px) 100vw, 350px" /> 
 

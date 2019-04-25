@@ -27,4 +27,4 @@ After I retried to copy the files, it sometimes continued copying, but after a w
 
 From the error&#8217;s it is not directly clear that it is a memory problem, but the first thing I tried was to pull out some memory modules. The problems disappeared immediately.
 
-Now this is why VMware advises to test the memory for 72 hours ( you can use <a title="Memtest" href="http://www.memtest86.com/" target="_blank">Memtest86</a>) before you put an ESX server in production.
+Now this is why VMware advises to test the memory for 72 hours ( you can use <a title="Memtest" href="https://www.memtest86.com/" target="_blank">Memtest86</a>) before you put an ESX server in production.

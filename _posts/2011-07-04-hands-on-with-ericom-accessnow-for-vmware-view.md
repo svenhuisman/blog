@@ -15,9 +15,9 @@ tags:
   - View
   - VMware
 ---
-Do you remember when you first saw <a href="http://www.xbox.com/en-US/Kinect" target="_blank">Microsoft’s Xbox Kinect</a> in action? Playing games without a controller! It looked kind of dumb at first, people standing in front of a TV making exaggerated and weird moves, but when you tried Kinect yourself for the first time, it was fun to do and it worked pretty well. However, after a while it turns out that Kinect is a 1.0 version with it’s own limitations and you’ll have to wait for a year before new games will come out that use all the capabilities of the Kinect.
+Do you remember when you first saw <a href="https://www.xbox.com/en-US/Kinect" target="_blank">Microsoft’s Xbox Kinect</a> in action? Playing games without a controller! It looked kind of dumb at first, people standing in front of a TV making exaggerated and weird moves, but when you tried Kinect yourself for the first time, it was fun to do and it worked pretty well. However, after a while it turns out that Kinect is a 1.0 version with it’s own limitations and you’ll have to wait for a year before new games will come out that use all the capabilities of the Kinect.
 
-This is kind of the feeling I have now about <a href="http://www.ericom.com/html5_client_vmware_view.asp" target="_blank">Ericom AccessNow for VMware View</a>, the HTML5 client for VMware View. At first you think it’s probably not that good without a “real” VMware View client installed, but once you try it, you’re amazed how easy it is to setup and use it. After a short while, you&#8217;re starting to see the limitations the product still has and you’d rather wait for a next version which has more features and has a better user experience.
+This is kind of the feeling I have now about <a href="https://www.ericom.com/html5_client_vmware_view.asp" target="_blank">Ericom AccessNow for VMware View</a>, the HTML5 client for VMware View. At first you think it’s probably not that good without a “real” VMware View client installed, but once you try it, you’re amazed how easy it is to setup and use it. After a short while, you&#8217;re starting to see the limitations the product still has and you’d rather wait for a next version which has more features and has a better user experience.
 
 <!--more-->
 
@@ -72,10 +72,10 @@ It works pretty well as you can see. So what are the disadvantages of this produ
   * Two-factor authentication, such as RSA SecurID are not yet supported.
   * This version is intended for use with devices that have a physical keyboard and mouse. I tested with an iPad and although it works, I can connect to a virtual desktop, I can’t use the on-screen keyboard of the iPad.
 
-Now, what are the use cases of this product? If I think of situations where I can’t install a client, in a public internet-area or at a customer’s computer for example, most of the times there wouldn’t be a compatible browser available as well. One use case could be if you have a <a href="http://www.google.com/chromebook/" target="_blank">Google Chromebook</a>, on which you can’t install a VMware View client. Please comment on this blogpost if you can think of other use cases!
+Now, what are the use cases of this product? If I think of situations where I can’t install a client, in a public internet-area or at a customer’s computer for example, most of the times there wouldn’t be a compatible browser available as well. One use case could be if you have a <a href="https://www.google.com/chromebook/" target="_blank">Google Chromebook</a>, on which you can’t install a VMware View client. Please comment on this blogpost if you can think of other use cases!
 
 **Conclusion**
 
-Unless you have a Google Chromebook or another device for which there is no <a href="http://www.vmware.com/products/view" target="_blank">VMware View</a> client, I don’t see the use case for Ericom AccessNow for VMware View. It’s like the Kinect for Microsoft Xbox, it’s nice that you can play games without a controller, but the technology is just not mature enough. I don’t use the Xbox very often, but when I do, I use a controller!
+Unless you have a Google Chromebook or another device for which there is no <a href="https://www.vmware.com/products/view" target="_blank">VMware View</a> client, I don’t see the use case for Ericom AccessNow for VMware View. It’s like the Kinect for Microsoft Xbox, it’s nice that you can play games without a controller, but the technology is just not mature enough. I don’t use the Xbox very often, but when I do, I use a controller!
 
 [<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="xboxcontroller" src="https://svenhuisman.com/wp-content/uploads/2011/07/xboxcontroller_thumb.jpg" border="0" alt="xboxcontroller" width="154" height="109" />](https://svenhuisman.com/wp-content/uploads/2011/07/xboxcontroller.jpg)

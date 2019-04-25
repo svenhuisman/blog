@@ -4,7 +4,7 @@ title: 'VMware Identity Manager change expired password bug'
 date: 2017-03-28T11:45:27+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=23008
+guid: https://SvenHuisman.com/?p=23008
 permalink: /2017/03/vmware-identity-manager-change-expired-password-bug/
 categories:
   - Virtual Desktop

@@ -44,7 +44,7 @@ I then took a look at the vmware-**.log files on the datastore for that VM and d
 
 Okay so this was a hot removal but not by a VM admin; how is that ?
 
-Well some _very extensive_ research (<a href="http://www.google.nl/search?q=vmware+nic+disappeared" target="_blank">googling &#8220;VMware nic disappeared&#8221;</a>) lead me to <cite><a title="http://kb.vmware.com/kb/1023720" href="http://kb.vmware.com/kb/1023720" target="_blank">kb.<strong>vmware</strong>.com/kb/1023720</a></cite><cite>.</cite>
+Well some _very extensive_ research (<a href="https://www.google.nl/search?q=vmware+nic+disappeared" target="_blank">googling &#8220;VMware nic disappeared&#8221;</a>) lead me to <cite><a title="https://kb.vmware.com/kb/1023720" href="https://kb.vmware.com/kb/1023720" target="_blank">kb.<strong>vmware</strong>.com/kb/1023720</a></cite><cite>.</cite>
 
 And there you&#8217;ll find the explanation of the amazing HotPlug feature introduced in ESX(i) 4&#8230;
 
@@ -61,5 +61,5 @@ I really wonder why this feature is enabled by default anyways: you don&#8217;t 
 Nevertheless, I’m afraid this is going to cost me quite some effort to disable this feature for all current VM’s in the datacentre. If you have any suggestions on how to fix this in a scripted though controlled way I’m all ears!
 
 Sources:  
-<a title="http://blogs.vmware.com/kb/2010/06/nic-is-missing-in-my-virtual-machine.html" href="http://blogs.vmware.com/kb/2010/06/nic-is-missing-in-my-virtual-machine.html" target="_blank">http://blogs.vmware.com/kb/2010/06/nic-is-missing-in-my-virtual-machine.html</a>  
-<a title="http://kb.vmware.com/kb/1023720" href="http://kb.vmware.com/kb/1023720" target="_blank">http://kb.<strong>vmware</strong>.com/kb/1023720<br /> </a> <a title="http://kb.vmware.com/kb/1012225" href="http://kb.vmware.com/kb/1012225" target="_blank">http://kb.<strong>vmware</strong>.com/kb/1012225</a>
+<a title="https://blogs.vmware.com/kb/2010/06/nic-is-missing-in-my-virtual-machine.html" href="https://blogs.vmware.com/kb/2010/06/nic-is-missing-in-my-virtual-machine.html" target="_blank">https://blogs.vmware.com/kb/2010/06/nic-is-missing-in-my-virtual-machine.html</a>  
+<a title="https://kb.vmware.com/kb/1023720" href="https://kb.vmware.com/kb/1023720" target="_blank">https://kb.<strong>vmware</strong>.com/kb/1023720<br /> </a> <a title="https://kb.vmware.com/kb/1012225" href="https://kb.vmware.com/kb/1012225" target="_blank">https://kb.<strong>vmware</strong>.com/kb/1012225</a>

@@ -13,8 +13,8 @@ As we suspected Citrix officially released the first official version of the Iph
 
 A bunch of links regarding the Citrix receiver for Iphone are these:
 
-[www.citrix.com/iphone](http://www.citrix.com/iphone) (for additional info)
+[www.citrix.com/iphone](https://www.citrix.com/iphone) (for additional info)
 
-<span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; font-size: 10pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: NL; mso-bidi-language: AR-SA;" lang="EN-US"><a href="http://forums.citrix.com/forum.jspa?forumID=832"><span style="color: windowtext; mso-ansi-language: EN-GB;" lang="EN-GB">Citrix Support Forum</span></a> (For installation info)</span>
+<span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; font-size: 10pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: NL; mso-bidi-language: AR-SA;" lang="EN-US"><a href="https://forums.citrix.com/forum.jspa?forumID=832"><span style="color: windowtext; mso-ansi-language: EN-GB;" lang="EN-GB">Citrix Support Forum</span></a> (For installation info)</span>
 
 I hope everyone is as enthusiastic as I am about this receiver because it makes my life a lot easier.

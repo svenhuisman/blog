@@ -14,14 +14,14 @@ tags:
   - VMware
   - VMworld
 ---
-Now that the <a title="VMworld Schedule Builder" href="http://www.vmworld.com/schedulebuilder-login.jspa" target="_blank">VMworld 2012 schedule builder</a> is live, I want to share my list of favourite sessions I would like to attend during VMworld 2012. The list is in random order.
+Now that the <a title="VMworld Schedule Builder" href="https://www.vmworld.com/schedulebuilder-login.jspa" target="_blank">VMworld 2012 schedule builder</a> is live, I want to share my list of favourite sessions I would like to attend during VMworld 2012. The list is in random order.
 
 **EUC1357 &#8211; Dispelling the Myths of Desktops as a Service (DaaS) with VMware View**  
 VMware View 5.1 provides an ideal platform for delivering desktops as a managed service for enterprise customers of all sizes. What many customers and service providers don’t realize is that View can also provide the foundation for building a service offering for delivering desktops from the cloud. Service providers have been daunted by technology and licensing challenges towards building a viable service for many years, but no longer.  
 David Stafford &#8211; Director, New Markets & Technology, VMware, Inc.  
 Andre Leibovici &#8211; Architect, VMware, Inc.
 
-**Comment**: Finally I have the chance to see the author of one of my favourite VMware View related blogs live on stage. Andre Leibovici is the well-known blogger at <a title="My Virtual Cloud" href="http://myvirtualcloud.net/" target="_blank">myvirtualcloud</a>, A must-see session!
+**Comment**: Finally I have the chance to see the author of one of my favourite VMware View related blogs live on stage. Andre Leibovici is the well-known blogger at <a title="My Virtual Cloud" href="https://myvirtualcloud.net/" target="_blank">myvirtualcloud</a>, A must-see session!
 
 **EUC1460 &#8211; An Insider&#8217;s Guide to Desktop Virtualization: A Virtual Reality Check**  
 More and more customers see the benefits of Desktop virtualization. In this energetic session, CTO&#8217;s Jeroen van de Kamp and Ruben Spruijt will present all the important results and best practices for Virtual Desktop (VDI) workloads found in Project: Virtual Reality Check (VRC).  
@@ -44,7 +44,7 @@ Managing and protecting endpoints in the enterprise is costly, complex and ineff
 Issy Ben-Shaul &#8211; CTO, Mirage, VMware, Inc.  
 Jay Tomlin &#8211; Sr. Product Manager, VMware, Inc.
 
-**Comment**: Recently [VMware bought Wanova](http://cto.vmware.com/vmware-welcomes-wanova-to-the-euc-family/) and as a matter of fact, Vittorio Viarengo (VMware&#8217;s Vice President Marketing, End User Computing) post a blog today about how Wanavo fits in VMware&#8217;s end user computing vision. This session should explain more about how Wanova Mirage will integrate.
+**Comment**: Recently [VMware bought Wanova](https://cto.vmware.com/vmware-welcomes-wanova-to-the-euc-family/) and as a matter of fact, Vittorio Viarengo (VMware&#8217;s Vice President Marketing, End User Computing) post a blog today about how Wanavo fits in VMware&#8217;s end user computing vision. This session should explain more about how Wanova Mirage will integrate.
 
 **EUC1916 &#8211; Best Practices for Implementing Unified Communications with VMware View**  
 Today, a modern desktop is also a collaboration device similar to a phone. Integration of virtual desktop and unified communications like softphone is on the rise to address the need to modernize the desktops. Enterprises in verticals like financial services are implementing unified communication with virtual desktop to address the requirements in their contact centers, remote offices. etc.  
@@ -76,7 +76,7 @@ Chuck Hirstius &#8211; Sr. Consultant, VMware, Inc.
 Banit Agrawal &#8211; Sr. MTS, VMware, Inc.  
 Lawrence Spracklen &#8211; employee, VMware, Inc.
 
-**Comment**: Probably the [PCoiP logviewer](http://mindfluxinc.net/?p=195) will be discussed in this session, a very powerful PCoIP troubleshooting tool.
+**Comment**: Probably the [PCoiP logviewer](https://mindfluxinc.net/?p=195) will be discussed in this session, a very powerful PCoIP troubleshooting tool.
 
 EUC2792 &#8211; View 5.1: Security Deep Dive  
 This talk provides an overview of security in VMware View. We&#8217;ll cover product features, look at some of the processes required to set up a secure View environment, provide some best practice advice on security and take a peek into the implementation of some of the mechanisms.  
@@ -89,7 +89,7 @@ EUC2909 &#8211; Using Socialcast to Build a Successful Internal Social Collabora
 While a majority of employees participate in at least one social network outside of work, not all companies use the power of social networks internally to their own advantage. In this presentation, learn how the Fortune 100 company Humana Inc. went from zero to a dynamic internal community with 20,000 users and 1,000 groups in a two-year period using the Socialcast platform. Learn from the things they did well and from their mistakes. Companies won’t succeed with a “build it and they will come” attitude when it comes to internal social platforms. It takes a strategy, sound online community principles, resources and constant effort to grow in quantity and quality. This session will provide substantive detail of one company’s successful implementation so that your current or future implementation can be more successful as well, helping to break down internal silos and foster a sense of community that transcends geographical and functional boundaries.  
 Jeff Ross &#8211; Community Manager, Humana Inc.
 
-**Comment**: I recently introduced [Socialcast](http://www.socialcast.com) in the organisation which I work for. I find it a very useful tool. Maybe I can learn in this session how to get more colleagues involved.
+**Comment**: I recently introduced [Socialcast](https://www.socialcast.com) in the organisation which I work for. I find it a very useful tool. Maybe I can learn in this session how to get more colleagues involved.
 
 **OPS-CIM1564 &#8211; Troubleshooting Using vCenter Operations Manager**  
 This session will cover some of the common troubleshooting scenarios that users typically run into when managing a vSphere environment and show what tools are available in vCenter operations to isolate and resolve these problems quickly.  

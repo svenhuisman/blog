@@ -15,7 +15,7 @@ tags:
 ---
 On one of my previous articles Sven, who is actually a colleque of mine, asked if it would be possible to remove snapshots which were left unaccounted for. I reacted is a simple way: yeah, of course and as a matter of fact is is very easy. I really must say the guys from the VI Toolkit have done a great job on maki<!--more-->ng a lot of complicated things very easy !! Hats off guys.
 
-When I was doing a little background check for this I found another script made by Bas Vinken which can be found <a href="http://www.ntpro.nl/blog/archives/295-PowerShell-Snapshot-Remover.html" target="_blank">here,</a> but what I like about Powershell scripting are what are known to be &#8220;Oneliners&#8221; all code on a single line. This is what shows the real power of powershell and that&#8217;s what I want to show everybody.
+When I was doing a little background check for this I found another script made by Bas Vinken which can be found <a href="https://www.ntpro.nl/blog/archives/295-PowerShell-Snapshot-Remover.html" target="_blank">here,</a> but what I like about Powershell scripting are what are known to be &#8220;Oneliners&#8221; all code on a single line. This is what shows the real power of powershell and that&#8217;s what I want to show everybody.
 
 So when I created this script I had one thing in mind: &#8220;Keep it simple !&#8221;. Ok here the script:
 

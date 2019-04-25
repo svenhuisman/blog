@@ -16,12 +16,12 @@ tags:
 ---
 Here are 2 great articles of best practices for creating templates for virtual machines. I&#8217;m referring them here as my own bookmarks:
 
-<a title="VM Template best practices (Windows)…" rel="bookmark" href="http://lraikhman.blogsite.org/?p=281" target="_blank"><span style="color: #015d82;">VM Template best practices (Windows)</span></a>
+<a title="VM Template best practices (Windows)…" rel="bookmark" href="https://lraikhman.blogsite.org/?p=281" target="_blank"><span style="color: #015d82;">VM Template best practices (Windows)</span></a>
 
-<a title="VM Template best practices (Linux)" rel="bookmark" href="http://lraikhman.blogsite.org/?p=298" target="_blank"><span style="color: #015d82;">VM Template best practices (Linux)</span></a>
+<a title="VM Template best practices (Linux)" rel="bookmark" href="https://lraikhman.blogsite.org/?p=298" target="_blank"><span style="color: #015d82;">VM Template best practices (Linux)</span></a>
 
 One thing I learned is that you already can create thin provisioned disks in VMware ESX 3.5:
 
 > _vmkfstools -c 20G -d thin /vmfs/volumes/**datastore**/**virtualmachine_****name**/**virtualmachine_disk1.vmdk**_
 
-Big thanks to <a title="http://lraikhman.blogsite.org" href="http://lraikhman.blogsite.org" target="_blank">lraikhman</a>
+Big thanks to <a title="https://lraikhman.blogsite.org" href="https://lraikhman.blogsite.org" target="_blank">lraikhman</a>

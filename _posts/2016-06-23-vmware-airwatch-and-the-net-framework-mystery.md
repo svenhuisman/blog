@@ -4,7 +4,7 @@ title: VMware AirWatch and the .NET Framework mystery
 date: 2016-06-23T15:19:12+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=15480
+guid: https://SvenHuisman.com/?p=15480
 permalink: /2016/06/vmware-airwatch-and-the-net-framework-mystery/
 categories:
   - Enterprise Mobility

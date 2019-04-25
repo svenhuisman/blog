@@ -15,9 +15,9 @@ tags:
   - vSphere
   - VTSP
 ---
- ![VMware vSphere 4 Partner Training](http://mylearn1.vmware.com/courseware/38818/PartnerU_vSphere_Training.gif)
+ ![VMware vSphere 4 Partner Training](https://mylearn1.vmware.com/courseware/38818/PartnerU_vSphere_Training.gif)
 
-With your VMware Partner account, login to <a title="VMware Partner Central" href="http://vmwareprod.clickcommerce.com/authenticator/login?returnAddress=http%3A%2F%2Fvmwareprod.clickcommerce.com%3A80%2Findex.jsp" target="_blank">Partner Central</a> and select the  
+With your VMware Partner account, login to <a title="VMware Partner Central" href="https://vmwareprod.clickcommerce.com/authenticator/login?returnAddress=http%3A%2F%2Fvmwareprod.clickcommerce.com%3A80%2Findex.jsp" target="_blank">Partner Central</a> and select the  
 &#8220;Partner University&#8221; tab for all your vSphere training. 
 
 If you are already VSP and VTSP for VI3, you can simply follow the upgrade path.  

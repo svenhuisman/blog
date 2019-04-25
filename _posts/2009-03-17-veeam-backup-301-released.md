@@ -15,7 +15,7 @@ tags:
   - Update
   - Veeam Backup
 ---
-<img class="alignleft" title="Veeam" src="http://virtualize-it.highspeed-data.net/wp-content/uploads/2008/12/veeam.gif" alt="" width="190" height="70" /><a href="http://www.veeam.com" target="_blank">Veeam</a> just released a new version of Veeam Backup : 3.01.
+<img class="alignleft" title="Veeam" src="https://virtualize-it.highspeed-data.net/wp-content/uploads/2008/12/veeam.gif" alt="" width="190" height="70" /><a href="https://www.veeam.com" target="_blank">Veeam</a> just released a new version of Veeam Backup : 3.01.
 
 Version 3.01 has 2 new features and a set of resolved issues. Recap :
 
@@ -23,7 +23,7 @@ Version 3.01 has 2 new features and a set of resolved issues. Recap :
 
 _&#8211; Redistributed version of Microsoft SQL 2005 Express Edition updated to SP3._
 
-_&#8211; Multiple File-Level Restore plug-in enhancements (refer to the_ <a title="Veeam" href="http://www.veeam.com/vmware-esx-server/backup/documents/Veeam_Backup_FLR_Plugin_Release_Notes_3.0.1.pdf" target="_blank"><em>FLR plug-in Release Notes</em></a> _for more information)._
+_&#8211; Multiple File-Level Restore plug-in enhancements (refer to the_ <a title="Veeam" href="https://www.veeam.com/vmware-esx-server/backup/documents/Veeam_Backup_FLR_Plugin_Release_Notes_3.0.1.pdf" target="_blank"><em>FLR plug-in Release Notes</em></a> _for more information)._
 
  <!--more-->
 
@@ -39,5 +39,5 @@ _&#8211; Depending on the replicated virtual machine’s VMX file content, failo
 _ 
 
 **  
-C**heck the complete <a href="http://www.veeam.com/vmware-esx-server/backup/documents/Veeam_Backup_FLR_Plugin_Release_Notes_3.0.1.pdf" target="_blank">release notes for Veeam Backup 3.01 here</a>. [PDF]  
-You can <a href="http://www.veeam.com/download.asp?step=2&license_type=37&ad=Backup_update_3.0.1" target="_blank">download Veeam Backup Update 3.01 right here</a>.
+C**heck the complete <a href="https://www.veeam.com/vmware-esx-server/backup/documents/Veeam_Backup_FLR_Plugin_Release_Notes_3.0.1.pdf" target="_blank">release notes for Veeam Backup 3.01 here</a>. [PDF]  
+You can <a href="https://www.veeam.com/download.asp?step=2&license_type=37&ad=Backup_update_3.0.1" target="_blank">download Veeam Backup Update 3.01 right here</a>.

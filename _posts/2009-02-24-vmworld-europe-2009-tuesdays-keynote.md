@@ -13,7 +13,7 @@ tags:
   - VMware
   - VMworld Europe 2009
 ---
-[](https://svenhuisman.com/wp-content/uploads/2009/02/tue-keynote2.jpg)Due to the fact that there are tons of bloggers actively blogging the keynote speech of today (<a title="Gabrie's keynote" href="http://www.gabesvirtualworld.com/?p=325" target="_blank">Gabrie</a> is doing a  good job for example), I&#8217;ve decided to post the first pics of the keynote:
+[](https://svenhuisman.com/wp-content/uploads/2009/02/tue-keynote2.jpg)Due to the fact that there are tons of bloggers actively blogging the keynote speech of today (<a title="Gabrie's keynote" href="https://www.gabesvirtualworld.com/?p=325" target="_blank">Gabrie</a> is doing a  good job for example), I&#8217;ve decided to post the first pics of the keynote:
 
 Maurizio Carleo:
 
@@ -31,4 +31,4 @@ vSphere:
 
 [<img class="aligncenter size-full wp-image-893" title="tue-keynote4" src="https://svenhuisman.com/wp-content/uploads/2009/02/tue-keynote4.jpg" alt="" width="374" height="242" />](https://svenhuisman.com/wp-content/uploads/2009/02/tue-keynote4.jpg)
 
-Follow me on <a title="Twitter" href="http://www.twitter.com/svenh" target="_blank">Twitter</a> for more news at VMworld.
+Follow me on <a title="Twitter" href="https://www.twitter.com/svenh" target="_blank">Twitter</a> for more news at VMworld.

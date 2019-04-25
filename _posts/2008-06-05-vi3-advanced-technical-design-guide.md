@@ -14,7 +14,7 @@ tags:
   - VI3
   - VMware
 ---
-Eric Sloof from <a title="NTpro" href="http://ntpro.nl" target="_blank">NTPro</a> brings the <a title="ATDG available" href="http://www.ntpro.nl/blog/archives/490-Advanced-Technical-Design-Guide-finally-available.html" target="_blank">following</a> to our attention:
+Eric Sloof from <a title="NTpro" href="https://ntpro.nl" target="_blank">NTPro</a> brings the <a title="ATDG available" href="https://www.ntpro.nl/blog/archives/490-Advanced-Technical-Design-Guide-finally-available.html" target="_blank">following</a> to our attention:
 
 The book that we all have been waiting for is finally finished: The Virtual Infrastructure 3: Advanced Technical Design guide!
 

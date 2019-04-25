@@ -46,4 +46,4 @@ It packages multiple applications simultaneously (depending on the number of VM&
 
 Windows 7 support will probably in the beta release coming this November. GA will be Q1 2009.
 
-What was also pretty cool was the fact that <a title="thinstallhelper" href="http://thinstallhelper.cis-group.nl/" target="_blank">Thinstall-helper</a> was mentioned during the presentation. I once worked on a ThinApp project together with the developer of Thinstallhelper. The funny thing was that in the presentation it was called ThinApphelper, including a screenshot.
+What was also pretty cool was the fact that <a title="thinstallhelper" href="https://thinstallhelper.cis-group.nl/" target="_blank">Thinstall-helper</a> was mentioned during the presentation. I once worked on a ThinApp project together with the developer of Thinstallhelper. The funny thing was that in the presentation it was called ThinApphelper, including a screenshot.

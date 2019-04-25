@@ -16,4 +16,4 @@ I did an interview for Dutch VMUG TV with Matthew Conover from SnapVolumes. The 
 
 
 
-You can sign-up for the beta at <a title="SnapVolumes" href="http://www.snapvolumes.com" target="_blank">SnapVolumes</a>.
+You can sign-up for the beta at <a title="SnapVolumes" href="https://www.snapvolumes.com" target="_blank">SnapVolumes</a>.

@@ -11,4 +11,4 @@ categories:
 tags:
   - Hyper-V
 ---
-Steven Bink, the founder of the well known Microsoft IT Pro website <a title="Bink.nu" href="http://bink.nu" target="_blank">Bink.nu</a>, has started a new site about Hyper-V. You can find all Hyper-V related info, downloads and video&#8217;s at <a title="Hypervoria" href="http://hypervoria.com/" target="_blank">hypervoria.com</a>. It is already filled with lots of information.
+Steven Bink, the founder of the well known Microsoft IT Pro website <a title="Bink.nu" href="https://bink.nu" target="_blank">Bink.nu</a>, has started a new site about Hyper-V. You can find all Hyper-V related info, downloads and video&#8217;s at <a title="Hypervoria" href="https://hypervoria.com/" target="_blank">hypervoria.com</a>. It is already filled with lots of information.

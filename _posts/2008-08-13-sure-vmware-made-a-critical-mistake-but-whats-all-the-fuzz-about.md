@@ -17,7 +17,7 @@ tags:
 ---
 **Sure, <a href="https://svenhuisman.com/2008/08/vmware-released-express-update/" target="_blank">you&#8217;ve read about the Update 2 troubles</a>.** **VMWare made a huge mistake** by releasing something with trial-code in it, and the impact can be huge when put into production **but there&#8217;s what&#8217;s bugging me** : the whole world is acting like the impact it has is catastrophic.
 
-<a href="http://www.virtualization.info/2008/08/vmware-mistake-shuts-down-thousands-of.html" target="_blank">Virtualization.info started with the topic title</a> &#8220;VMWare mistake shuts down thousands of Virtual Infrastructures&#8221;, later on nuanced by &#8220;may shut down&#8221;. They also state that 95% of the Fortune 500 customers use VMWare and over 50% uses VMotion. Yeah, sure they do, but do you really think that administrators working at a _Fortune 500_ company think : &#8220;_hey wow a new patch; it&#8217;s from VMWare so it&#8217;ll be good; let&#8217;s put it into production right now!_&#8221; ?
+<a href="https://www.virtualization.info/2008/08/vmware-mistake-shuts-down-thousands-of.html" target="_blank">Virtualization.info started with the topic title</a> &#8220;VMWare mistake shuts down thousands of Virtual Infrastructures&#8221;, later on nuanced by &#8220;may shut down&#8221;. They also state that 95% of the Fortune 500 customers use VMWare and over 50% uses VMotion. Yeah, sure they do, but do you really think that administrators working at a _Fortune 500_ company think : &#8220;_hey wow a new patch; it&#8217;s from VMWare so it&#8217;ll be good; let&#8217;s put it into production right now!_&#8221; ?
 
 Really, lots of people are acting like there are hundreds of thousands of virtual servers around the world that have been down and we should all stop using VMWare and switch to the &#8220;beautiful&#8221; Hyper-V or XenServer solution but:<!--more-->
 
@@ -26,7 +26,7 @@ Really, lots of people are acting like there are hundreds of thousands of virtu
 **3.** The combination with patch Tuesday is said to be a bad combination but even when you are someone who directly applies Windows patches (see my thoughts about that at point 1.) and the server reboots automatically, this will still work because the machine isn&#8217;t powered down.  
 **4.** Like Microsoft never released a patch or a product that has brought loads of customers in trouble. And did we all switch to another OS?  
 **5.**Switching to Hyper-V or XenServer: we all know that both products cannot tip the feature set of VMWare. Sure, if you don&#8217;t need VMotion or HA capabilities and other nice VMWare features, maybe Hyper-V is fine for you. But the so called _Fortune 500-like_ companies won&#8217;t make that switch now.  
-**6.** They <a href="http://www.vmware.com/landing_pages/esxexpresspatches.html" target="_blank">released a patch</a> within the promised 36 hours.
+**6.** They <a href="https://www.vmware.com/landing_pages/esxexpresspatches.html" target="_blank">released a patch</a> within the promised 36 hours.
 
 <span style="text-decoration: underline;">Don&#8217;t get me wrong</span>; I don&#8217;t understand how VMWare can release such a patch. Their reputation won&#8217;t get any better by actions like these either but I think that very little companies have really experienced real trouble because of this update.
 

@@ -14,7 +14,7 @@ tags:
   - VMware View
   - VMware View 4.5
 ---
-During <a title="VMworld 2010" href="http://www.vmworld.com/community/conferences/2010/" target="_blank">VMworld 2010</a> in San Francisco, VMware announced their latest release of VMware View. Today, <a title="View 4.5" href="http://www.vmware.com/products/view/" target="_blank">VMware View 4.5</a> is available for <a title="VMware View 4.5 download" href="http://downloads.vmware.com/d/info/desktop_downloads/vmware_view/4_5" target="_blank">download</a>. Lot&#8217;s of new features and improvements were added in this release:
+During <a title="VMworld 2010" href="https://www.vmworld.com/community/conferences/2010/" target="_blank">VMworld 2010</a> in San Francisco, VMware announced their latest release of VMware View. Today, <a title="View 4.5" href="https://www.vmware.com/products/view/" target="_blank">VMware View 4.5</a> is available for <a title="VMware View 4.5 download" href="https://downloads.vmware.com/d/info/desktop_downloads/vmware_view/4_5" target="_blank">download</a>. Lot&#8217;s of new features and improvements were added in this release:
 
   * Windows 7 Support 32/64-Bit
   * Smart Card Support for PCoIP
@@ -37,4 +37,4 @@ During <a title="VMworld 2010" href="http://www.vmworld.com/community/conference
   * Smart Card revocation
   * Support for vSphere and vCenter version 4.1
 
-Read a <a title="review VMware View" href="http://searchvirtualdesktop.techtarget.com/news/column/0,294698,sid194_gci1519832,00.html" target="_blank">review of VMware View 4.5 and ThinApp 4.6</a> from Mike Laverick. Also read this <a title="Optimization guide Win 7" href="http://www.vmware.com/files/pdf/VMware-View-OptimizationGuideWindows7-EN.pdf" target="_blank">Optimization guide for Windows 7</a>.
+Read a <a title="review VMware View" href="https://searchvirtualdesktop.techtarget.com/news/column/0,294698,sid194_gci1519832,00.html" target="_blank">review of VMware View 4.5 and ThinApp 4.6</a> from Mike Laverick. Also read this <a title="Optimization guide Win 7" href="https://www.vmware.com/files/pdf/VMware-View-OptimizationGuideWindows7-EN.pdf" target="_blank">Optimization guide for Windows 7</a>.

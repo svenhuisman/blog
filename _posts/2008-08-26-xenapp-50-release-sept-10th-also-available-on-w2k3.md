@@ -24,7 +24,7 @@ tags:
   - Windows Server 2008
   - XenApp 5.0
 ---
-**A**ccording <a href="http://www.thomaskoetzing.de/index.php?option=com_content&task=view&id=283&Itemid=254" target="_blank">to Thomas Koetzing</a> XenApp 5.0 will be released the 10th of September (and my hunch is that the software will be available even earlier!) and will also be available for Windows Server 2003! <a href="http://www.citrix.com" target="_blank">Citrix</a> always claimed that XenApp 5.0 would only be available on Windows Server 2008 and XenApp 4.5 would stay under development for Windows Server 2003. But Citrix came to their senses and realized that forcing their customers to move to W2K8 was not the way.
+**A**ccording <a href="https://www.thomaskoetzing.de/index.php?option=com_content&task=view&id=283&Itemid=254" target="_blank">to Thomas Koetzing</a> XenApp 5.0 will be released the 10th of September (and my hunch is that the software will be available even earlier!) and will also be available for Windows Server 2003! <a href="https://www.citrix.com" target="_blank">Citrix</a> always claimed that XenApp 5.0 would only be available on Windows Server 2008 and XenApp 4.5 would stay under development for Windows Server 2003. But Citrix came to their senses and realized that forcing their customers to move to W2K8 was not the way.
 
 **S**o now the question is which OS are you going to choose? That&#8217;s something you can only decide when you know what&#8217;s new and which features will or will not work on a certain OS.
 
@@ -52,4 +52,4 @@ The sheet strangely enough says that XenApp 5.0 on Windows Server 2008 **does no
 
 _**EDIT:** I just got off the phone with Tim Graf from Citrix and he assured me, as expected, that of course Active Directory is supported, but Novell eDirectory is not._
 
-<a href="http://www.citrix.com/site/resources/dynamic/salesdocs/Citrix-XenApp-Comparative-Matrix%28Aug08%29.pdf" target="_blank">The full Citrix XenApp Comparative Feature Matrix can be found here.</a>
+<a href="https://www.citrix.com/site/resources/dynamic/salesdocs/Citrix-XenApp-Comparative-Matrix%28Aug08%29.pdf" target="_blank">The full Citrix XenApp Comparative Feature Matrix can be found here.</a>

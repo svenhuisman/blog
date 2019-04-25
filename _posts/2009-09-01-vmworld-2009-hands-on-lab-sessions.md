@@ -19,7 +19,7 @@ Yesterday I did 2 hands-on lab session at VMworld that were very good and I wou
 
 **LAB 4: VMware vSphere™ 4 &#8211; Performance Optimization & Troubleshooting**
 
-You can expect to use vCenter, esxtop, and vscsiStats to identify and troubleshoot performance issues related to: Improperly configured storage, aggressively over-committed memory, heavy use of SMP virtual machines and other memory, CPU, storage, network, guest OS, and application issues. <a title="Scott Drummonds" href="http://communities.vmware.com/people/drummonds" target="_blank">Scott Drummonds</a> was the presenter of this lab and I must say that he and the other lab-staff members did a real good job. If you can&#8217;t get into this lab, you should really read more about <a title="vscsiStats" href="http://communities.vmware.com/docs/DOC-10095" target="_blank">vscsiStats</a>.
+You can expect to use vCenter, esxtop, and vscsiStats to identify and troubleshoot performance issues related to: Improperly configured storage, aggressively over-committed memory, heavy use of SMP virtual machines and other memory, CPU, storage, network, guest OS, and application issues. <a title="Scott Drummonds" href="https://communities.vmware.com/people/drummonds" target="_blank">Scott Drummonds</a> was the presenter of this lab and I must say that he and the other lab-staff members did a real good job. If you can&#8217;t get into this lab, you should really read more about <a title="vscsiStats" href="https://communities.vmware.com/docs/DOC-10095" target="_blank">vscsiStats</a>.
 
 **LAB 5: VMware vSphere™ 4 &#8211; Security Hardening & Best Practices (vShield Zones)**
 

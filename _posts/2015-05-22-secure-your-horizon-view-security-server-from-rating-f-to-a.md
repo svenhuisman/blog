@@ -4,7 +4,7 @@ title: 'Secure your Horizon View security server: from rating F to A-'
 date: 2015-05-22T11:34:37+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=3988
+guid: https://SvenHuisman.com/?p=3988
 permalink: /2015/05/secure-your-horizon-view-security-server-from-rating-f-to-a/
 categories:
   - Virtual Desktop
@@ -29,7 +29,7 @@ To get a rating of A-, you should take the following steps (described in the <a 
   </p>
   
   <p>
-    You can add high-strength cipher suites for greater assurance, but first you must update the local_policy.jar and US_export_policy.jar policy files for JRE 7 on each View Connection Server instance and security server. You update these policy files by downloading the <a href="http://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-432124.html" target="_blank">Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 7</a> from the Oracle Java SE Download site.
+    You can add high-strength cipher suites for greater assurance, but first you must update the local_policy.jar and US_export_policy.jar policy files for JRE 7 on each View Connection Server instance and security server. You update these policy files by downloading the <a href="https://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-432124.html" target="_blank">Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 7</a> from the Oracle Java SE Download site.
   </p>
   
   <p lang="en-US">

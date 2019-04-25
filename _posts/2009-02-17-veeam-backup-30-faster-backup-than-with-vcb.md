@@ -14,7 +14,7 @@ tags:
   - Veeam
   - VMware
 ---
-Today <a title="Veeam backup 3.0" href="http://www.veeam.com/vmware-esx-backup.html" target="_blank">Veeam Backup 3.0</a> was released and the big eye-catcher of this backup and recovery tool is that it is the first tool ever that supports ESXi without the use of VCB:
+Today <a title="Veeam backup 3.0" href="https://www.veeam.com/vmware-esx-backup.html" target="_blank">Veeam Backup 3.0</a> was released and the big eye-catcher of this backup and recovery tool is that it is the first tool ever that supports ESXi without the use of VCB:
 
 > _Veeam Backup 3.0 now supports ESXi backup without VCB. Veeam Backup is the only VMware backup solution that lets you backup and restore virtual machines running on all existing editions of ESXi, including ESXi free._
 

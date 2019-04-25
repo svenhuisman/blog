@@ -17,7 +17,7 @@ Op 10 december is het weer zover: het Nederlandse VMUG (VMware User Group) evene
 
 > _&#8220;Het Dutch VMware Usergroup Event is een eendaagse technische conferentie over alles wat te maken heeft met de producten van VMware. Van **VMware View** tot **vSphere 4**, van **VMware PowerCLI** tot **Cloud Computing**&#8230;alles komt aan bod tijdens het VMUG Event.&#8221;_
 
-Vorig jaar werd er al geroepen dat &#8220;the Dutch VMUG event&#8221; al een mini-VMWorld in Nederland was, dit jaar is <a title="VMUG programma" href="http://www.vmug.nl/cms/index.php?option=com_content&view=article&id=187&Itemid=76" target="_self">het programma</a> nog uitgebreider dan vorig haar met nog meer sessies en meer workshops. Er zijn bijvoorbeeld 3 workshops die gedurende de hele dag draaien:  
+Vorig jaar werd er al geroepen dat &#8220;the Dutch VMUG event&#8221; al een mini-VMWorld in Nederland was, dit jaar is <a title="VMUG programma" href="https://www.vmug.nl/cms/index.php?option=com_content&view=article&id=187&Itemid=76" target="_self">het programma</a> nog uitgebreider dan vorig haar met nog meer sessies en meer workshops. Er zijn bijvoorbeeld 3 workshops die gedurende de hele dag draaien:  
 <!--more-->
 
 **WS1 door XTG: VMware VCAP Workshop**  
@@ -35,6 +35,6 @@ _Scott Herrold (Quest)_
 
 Scott Herold from Quest Software will take you through the steps necessary to create custom Powershell scripts and add-ons for vEcoShell.  He will highlight how to extend your virtualization management capabilities to help further automate many daily repetitive tasks.  In addition, he will highlight how to extend vEcoShell tasks into Windows and application-level management with Active Directory and Exchange.
 
-<a title="Inschrijven" href="http://www.vmug.nl/modules.php?name=Inschrijven" target="_self">Schrijf je in </a>nu het nog kan. Vol = vol.
+<a title="Inschrijven" href="https://www.vmug.nl/modules.php?name=Inschrijven" target="_self">Schrijf je in </a>nu het nog kan. Vol = vol.
 
-Meer info: <a href="http://www.vmug.nl/cms/index.php?option=com_content&view=article&id=186&Itemid=74" target="_self">http://www.vmug.nl/cms/index.php?option=com_content&view=article&id=186&Itemid=74</a>
+Meer info: <a href="https://www.vmug.nl/cms/index.php?option=com_content&view=article&id=186&Itemid=74" target="_self">https://www.vmug.nl/cms/index.php?option=com_content&view=article&id=186&Itemid=74</a>

@@ -14,7 +14,7 @@ tags:
   - Virtual Machine protection
   - VMworld Europe 2009
 ---
-I received some information from a company called <a title="www.thirdbrigade.com" href="http://www.thirdbrigade.com" target="_blank">Third Brigade</a> today. The mail was marked as spam, but when I read it, I thought it was quiet interesting (because they offered free software off course).
+I received some information from a company called <a title="www.thirdbrigade.com" href="https://www.thirdbrigade.com" target="_blank">Third Brigade</a> today. The mail was marked as spam, but when I read it, I thought it was quiet interesting (because they offered free software off course).
 
 > _Traditional network security controls and virtual security applications cannot provide sufficient protection for virtualised and cloud computing servers. But Third Brigade VM Protection can._
 
@@ -35,4 +35,4 @@ Protects up to 100 VMs with:<!--more-->
 
 When I look at the press release date, it&#8217;s from December 8th. I guess they mailed me because they are present at VMworld Europe 2009 and wanted to draw some extra attention. It worked.
 
-It&#8217;s worth the look at. You can download <a title="VM Protection" href="http://resources.thirdbrigade.com/vmprotection/" target="_blank">VM Protection</a> now.
+It&#8217;s worth the look at. You can download <a title="VM Protection" href="https://resources.thirdbrigade.com/vmprotection/" target="_blank">VM Protection</a> now.

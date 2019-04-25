@@ -16,7 +16,7 @@ tags:
   - thinprovisioning
   - VMware
 ---
-Thinprovisioning will be a new feature of the next release of ESX. However, it is already possible to use thinprovisioning from the service console with the vmkfstools command. Here are some tips (thanks to <a title="run-virtual" href="http://www.run-virtual.com/?p=223" target="_blank">Richard Garsthagen</a>):
+Thinprovisioning will be a new feature of the next release of ESX. However, it is already possible to use thinprovisioning from the service console with the vmkfstools command. Here are some tips (thanks to <a title="run-virtual" href="https://www.run-virtual.com/?p=223" target="_blank">Richard Garsthagen</a>):
 
 Create a 15GB thinprovisioned disk:
 

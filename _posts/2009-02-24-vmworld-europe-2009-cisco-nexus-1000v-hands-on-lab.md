@@ -30,8 +30,8 @@ I asked if I could see on which host the VSM is running and whether it has a hi
 
 Besides that, you can configure Mobile VM security, network policy and policy based virtual machine connectivity.
 
-I asked if I could make some pictures, but the Cisco guy said no while the VMware guy said yes. Afterwards, it turned out I was allowed to make pictures. <a title="Boche.net" href="http://boche.net/blog/" target="_blank">Jason boche</a> took some, so he will probably post them shortly on his blog.
+I asked if I could make some pictures, but the Cisco guy said no while the VMware guy said yes. Afterwards, it turned out I was allowed to make pictures. <a title="Boche.net" href="https://boche.net/blog/" target="_blank">Jason boche</a> took some, so he will probably post them shortly on his blog.
 
 I&#8217;m no network-guy, so I think this is a good step to bring the management of the (virtual) network back to were it belongs.
 
-More info about the <a title="Cisco Nexus 1000V" href="http://www.cisco.com/en/US/products/ps9902/index.html" target="_blank">Cisco Nexus 1000V</a>.
+More info about the <a title="Cisco Nexus 1000V" href="https://www.cisco.com/en/US/products/ps9902/index.html" target="_blank">Cisco Nexus 1000V</a>.

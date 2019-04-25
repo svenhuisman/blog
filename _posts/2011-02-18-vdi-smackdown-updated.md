@@ -19,7 +19,7 @@ tags:
   - vWorkspace
   - Xendesktop
 ---
-The <a title="VDI comparison chart" href="http://www.brianmadden.com/blogs/rubenspruijt/archive/2011/02/21/smackdown-your-vdesktop-head-to-head-analysis-of-citrix-xendesktop-microsoft-vdi-remotefx-quest-vworkspace-and-vmware-view.aspx" target="_blank">VDI Smackdown whitepaper</a> is updated with the lastest versions of the VDI-solutions. 
+The <a title="VDI comparison chart" href="https://www.brianmadden.com/blogs/rubenspruijt/archive/2011/02/21/smackdown-your-vdesktop-head-to-head-analysis-of-citrix-xendesktop-microsoft-vdi-remotefx-quest-vworkspace-and-vmware-view.aspx" target="_blank">VDI Smackdown whitepaper</a> is updated with the lastest versions of the VDI-solutions. 
 
 The &#8220;Smackdown&#8221; is focused on solutions that are anticipated to have an important role in VDI deployments. An complete overview of available features is created to better understand each solution&#8217;s capability.
 

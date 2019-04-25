@@ -15,11 +15,11 @@ tags:
   - vSphere
   - vSphere 4
 ---
-When you look at all marketing material of <a title="VMware vSphere" href="http://www.vmware.com/products/vsphere/index.html" target="_blank">VMware vSphere</a>, you can get confused about what feature is in what version. For example: I was under the impression that 8-way Virtual SMP was a new feature of vSphere regardless of what version you have (Standard, Advanced, Enterprise or Enterprise Plus). Take a look at <a title="vSphere Press-release" href="http://vmware.com/company/news/releases/perfo-vsphere-launch.html" target="_blank">this press-release</a> for example:
+When you look at all marketing material of <a title="VMware vSphere" href="https://www.vmware.com/products/vsphere/index.html" target="_blank">VMware vSphere</a>, you can get confused about what feature is in what version. For example: I was under the impression that 8-way Virtual SMP was a new feature of vSphere regardless of what version you have (Standard, Advanced, Enterprise or Enterprise Plus). Take a look at <a title="vSphere Press-release" href="https://vmware.com/company/news/releases/perfo-vsphere-launch.html" target="_blank">this press-release</a> for example:
 
 > _VMware vSphere 4 also introduces new scalability capabilities.  By expanding server resource support to 1 TB of RAM and 64 logical processing cores, some of the very largest and most powerful servers can be leveraged for virtual workloads.  With support for up to 256 GB of RAM and eight virtual CPUs per virtual machine, nearly 100 percent of resource-intensive workloads such as high-end databases are suitable for virtualization._
 
-When you look at the <a title="vSphere pricing" href="http://www.vmware.com/files/pdf/vsphere_pricing.pdf" target="_blank">pricing sheet</a>, there is no reason to believe that  8-way Virtual SMP is not in all versions of vSphere 4.<!--more-->
+When you look at the <a title="vSphere pricing" href="https://www.vmware.com/files/pdf/vsphere_pricing.pdf" target="_blank">pricing sheet</a>, there is no reason to believe that  8-way Virtual SMP is not in all versions of vSphere 4.<!--more-->
 
 <p style="text-align: center;">
   <a href="https://svenhuisman.com/wp-content/uploads/2009/04/enterpriseplus.jpg"><img class="aligncenter size-full wp-image-1118" title="enterpriseplus" src="https://svenhuisman.com/wp-content/uploads/2009/04/enterpriseplus.jpg" alt="enterpriseplus" width="435" height="376" srcset="https://svenhuisman.com/wp-content/uploads/2009/04/enterpriseplus.jpg 725w, https://svenhuisman.com/wp-content/uploads/2009/04/enterpriseplus-350x302.jpg 350w, https://svenhuisman.com/wp-content/uploads/2009/04/enterpriseplus-650x561.jpg 650w" sizes="(max-width: 435px) 100vw, 435px" /></a>
@@ -31,7 +31,7 @@ When you look at the <a title="vSphere pricing" href="http://www.vmware.com/file
   * Distributed Switch
   * Host Configuration Controls
 
-But when you take a closer look at <a title="VMware vSphere key features" href="http://www.vmware.com/files/pdf/key_features_vsphere.pdf" target="_blank">key feature list</a> of all the versions, these are the features of Enterprise Plus which are not in the other versions:
+But when you take a closer look at <a title="VMware vSphere key features" href="https://www.vmware.com/files/pdf/key_features_vsphere.pdf" target="_blank">key feature list</a> of all the versions, these are the features of Enterprise Plus which are not in the other versions:
 
   * **8-way Virtual SMP™.** Enable a single virtual machine to simultaneously use up to 8 logical processors on your server (increased from 4 for VMware ESX/ESXi 3). With 8-way Virtual SMP even the most processor intensive software applications like databases and messaging servers can be virtualized.
   * **vStorage APIs for Multipathing**. Support for 3rd party multipathing plug-ins such as EMC Powerpath to ensure high availability and load balancing for critical applications.

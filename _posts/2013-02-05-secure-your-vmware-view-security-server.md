@@ -14,7 +14,7 @@ tags:
   - View
   - VMware
 ---
-Recently, one of my customers had a security scan performed on the infrastructure and the result was that the VMware View security server was configured to support a couple of weak cipher suites. As it turns out, there is a VMware KB-article that describes how to configure the security server with SSL protocols and Cipher suites: <a title="KB1021466" href="http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1021466" target="_blank">Configure cipher suites and security protocols on a View Connection server instance or security server in View 4.5 and later</a>.
+Recently, one of my customers had a security scan performed on the infrastructure and the result was that the VMware View security server was configured to support a couple of weak cipher suites. As it turns out, there is a VMware KB-article that describes how to configure the security server with SSL protocols and Cipher suites: <a title="KB1021466" href="https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1021466" target="_blank">Configure cipher suites and security protocols on a View Connection server instance or security server in View 4.5 and later</a>.
 
 How to solve this:
 
@@ -38,4 +38,4 @@ enabledCipherSuite.8=SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA&lt;br />
 
 How do you know these are safe cipher suites that you can use? I found the following website and you can see that the Cipher suites mentioned in the KB-article are safe to use:
 
-[http://www.techstacks.com/howto/j2se5\_ssl\_cipher_strength.html](http://www.techstacks.com/howto/j2se5_ssl_cipher_strength.html)
+[https://www.techstacks.com/howto/j2se5\_ssl\_cipher_strength.html](https://www.techstacks.com/howto/j2se5_ssl_cipher_strength.html)

@@ -33,29 +33,29 @@ The program for the online event looks very promising with three tracks of deep 
     
     <ul>
       <li>
-        Eric Siebert (<a href="http;//twitter.com/ericsiebert" target="_self">@ericsiebert</a>, <a href="http://vsphere-land.com/" target="_self">vSphere-land</a>)
+        Eric Siebert (<a href="http;//twitter.com/ericsiebert" target="_self">@ericsiebert</a>, <a href="https://vsphere-land.com/" target="_self">vSphere-land</a>)
       </li>
       <li>
-        David Davis (<a href="http://twitter.com/davidmdavis" target="_self">@davidmdavis</a>, <a href="http://vmwarevideos.com/" target="_self">VMware Videos</a>)
+        David Davis (<a href="https://twitter.com/davidmdavis" target="_self">@davidmdavis</a>, <a href="https://vmwarevideos.com/" target="_self">VMware Videos</a>)
       </li>
       <li>
-        Bob Plankers (<a href="http://twitter.com/plankers" target="_self">@plankers</a>, <a href="http://thelonesysadmin.net/" target="_self">The Lone Sysadmin</a>)
+        Bob Plankers (<a href="https://twitter.com/plankers" target="_self">@plankers</a>, <a href="https://thelonesysadmin.net/" target="_self">The Lone Sysadmin</a>)
       </li>
       <li>
-        Bill Hill (<a href="http://twitter.com/virtual_bill" target="_self">@virtual_bill</a>, <a href="http://virtualbill.wordpress.com/" target="_self">Virtual Bill</a>)
+        Bill Hill (<a href="https://twitter.com/virtual_bill" target="_self">@virtual_bill</a>, <a href="https://virtualbill.wordpress.com/" target="_self">Virtual Bill</a>)
       </li>
     </ul>
     
     <p>
-      These vExperts will be covering the event live! (Also watch for live-tweeting from <a href="http://twitter.com/vmwareevents" target="_self">@VMwareEvents</a> and <a href="http://twitter.com/jtroyer" target="_self">@jtroyer</a> with the <a href="http://search.twitter.com/search?q=%23vmwarecloud" target="_self">#vmwarecloud</a> hashtag)
+      These vExperts will be covering the event live! (Also watch for live-tweeting from <a href="https://twitter.com/vmwareevents" target="_self">@VMwareEvents</a> and <a href="https://twitter.com/jtroyer" target="_self">@jtroyer</a> with the <a href="https://search.twitter.com/search?q=%23vmwarecloud" target="_self">#vmwarecloud</a> hashtag)
     </p>
     
     <p>
-      After the event, you&#8217;ll still be able to ask questions on Twitter. And on Wednesday, we&#8217;ll be recapping the event on our <a href="http://tinyurl.com/5kuo77" target="_self">VMware Community Roundtable</a> &#8212; join us for an hour of live Q&A.
+      After the event, you&#8217;ll still be able to ask questions on Twitter. And on Wednesday, we&#8217;ll be recapping the event on our <a href="https://tinyurl.com/5kuo77" target="_self">VMware Community Roundtable</a> &#8212; join us for an hour of live Q&A.
     </p>
     
     <p>
-      <a title="VMware launch event" href="http://bit.ly/mUiZot" target="_blank">Register now for this online event</a> and then join the online event on July 12 to be entered into a drawing for the free <a title="VMworld" href="http://www.vmworld.com" target="_blank">VMworld</a> pass.
+      <a title="VMware launch event" href="https://bit.ly/mUiZot" target="_blank">Register now for this online event</a> and then join the online event on July 12 to be entered into a drawing for the free <a title="VMworld" href="https://www.vmworld.com" target="_blank">VMworld</a> pass.
     </p>
   </div>
 </div>

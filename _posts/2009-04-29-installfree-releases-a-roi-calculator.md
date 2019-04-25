@@ -18,7 +18,7 @@ tags:
 
  
 
-InstallFree released a <a title="ROI-calculator" href="http://www.installfree.com/resources/roi-calculator/" target="_blank">ROI-calculator</a> which allows you to calculate the current costs and possible savings of an organization when using InstallFree to virtualize the applications:
+InstallFree released a <a title="ROI-calculator" href="https://www.installfree.com/resources/roi-calculator/" target="_blank">ROI-calculator</a> which allows you to calculate the current costs and possible savings of an organization when using InstallFree to virtualize the applications:
 
 > _InstallFree provides application virtualization software that is used by enterprises to lower the cost and complexity of delivering and managing applications. This approach utilizes the existing infrastructure in an Enterprise, while showing dramatic results in reducing the overall cost of application management._
 > 

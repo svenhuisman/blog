@@ -27,15 +27,15 @@ tags:
 After <a title="Thinapp review" href="https://svenhuisman.com/2008/06/vmware-thinapp-rc-review/" target="_blank">reviewing VMware&#8217;s ThinApp</a> I thought to myself:  
 How about the other application virtualization solution&#8217;s features? I know a couple of application virtualization products, but I don&#8217;t know exactly what the differences are.
 
-OK, let&#8217;s <a title="Google" href="http://www.google.com" target="_blank">google</a> for an Application virtualization comparison chart&#8230; mmm, not there. Why not make one?  
-So we did. My colleague <a title="Matthijs Haverink" href="http://www.linkedin.com/in/mhaverink" target="_blank">Matthijs Haverink</a> and <a title="Linkedin Sven Huisman" href="http://www.linkedin.com/in/svenhuisman" target="_blank">I</a> have written a comparison chart with the following products:
+OK, let&#8217;s <a title="Google" href="https://www.google.com" target="_blank">google</a> for an Application virtualization comparison chart&#8230; mmm, not there. Why not make one?  
+So we did. My colleague <a title="Matthijs Haverink" href="https://www.linkedin.com/in/mhaverink" target="_blank">Matthijs Haverink</a> and <a title="Linkedin Sven Huisman" href="https://www.linkedin.com/in/svenhuisman" target="_blank">I</a> have written a comparison chart with the following products:
 
-  * <a title="App-V / Softgrid" href="http://www.microsoft.com/systemcenter/softgrid/default.mspx" target="_blank">Microsoft Softgrid</a> *
-  * <a title="ThinApp" href="http://www.vmware.com/whatsnew/thinstall.html" target="_blank">VMware ThinApp</a>
-  * <a title="Installfree" href="http://www.installfree.com" target="_blank">Installfree Bridge</a>
-  * <a title="Citrix application streaming" href="http://www.citrix.com/English/ps2/products/subfeature.asp?contentID=163987" target="_blank">Citrix Application streaming</a>
-  * <a title="Appstream" href="http://www.appstream.com/" target="_blank">Symantec Appstream</a>
-  * <a title="Xenocode" href="http://www.xenocode.com/" target="_blank">Xenocode Virtual Application Studio</a>
+  * <a title="App-V / Softgrid" href="https://www.microsoft.com/systemcenter/softgrid/default.mspx" target="_blank">Microsoft Softgrid</a> *
+  * <a title="ThinApp" href="https://www.vmware.com/whatsnew/thinstall.html" target="_blank">VMware ThinApp</a>
+  * <a title="Installfree" href="https://www.installfree.com" target="_blank">Installfree Bridge</a>
+  * <a title="Citrix application streaming" href="https://www.citrix.com/English/ps2/products/subfeature.asp?contentID=163987" target="_blank">Citrix Application streaming</a>
+  * <a title="Appstream" href="https://www.appstream.com/" target="_blank">Symantec Appstream</a>
+  * <a title="Xenocode" href="https://www.xenocode.com/" target="_blank">Xenocode Virtual Application Studio</a>
 
 * This is Softgrid 4.2. From version 4.5 it&#8217;s called App-V. When App-V is released, this chart will be updated.
 

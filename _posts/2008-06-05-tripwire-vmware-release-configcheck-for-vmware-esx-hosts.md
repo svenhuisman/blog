@@ -15,9 +15,9 @@ tags:
   - Tripwire
   - VMware
 ---
-Yesterday <a title="Tripwire" href="http://www.tripwire.com" target="_blank">Tripwire</a> released their free utility call <a title="Tripwire ConfigCheck for VMware ESX Hosts" href="http://www.vmware.com/security/resources/configcheck.html" target="_blank">TripWire ConfigCheck</a>.
+Yesterday <a title="Tripwire" href="https://www.tripwire.com" target="_blank">Tripwire</a> released their free utility call <a title="Tripwire ConfigCheck for VMware ESX Hosts" href="https://www.vmware.com/security/resources/configcheck.html" target="_blank">TripWire ConfigCheck</a>.
 
-Together with <a title="VMWare" href="http://www.vmware.com" target="_blank">VMWare</a> <a href="http://www.tripwire.com" target="_blank">Tripwire</a> has developed this tool which helps to rapidly assess the security of your VMWare ESX 3.5 servers. Among other things the joint effort consists of VMWare delivering the VMWare Infrastructure 3 Security Hardening guidelines. This tool also provides the necessary steps that are needed for full remediation.
+Together with <a title="VMWare" href="https://www.vmware.com" target="_blank">VMWare</a> <a href="https://www.tripwire.com" target="_blank">Tripwire</a> has developed this tool which helps to rapidly assess the security of your VMWare ESX 3.5 servers. Among other things the joint effort consists of VMWare delivering the VMWare Infrastructure 3 Security Hardening guidelines. This tool also provides the necessary steps that are needed for full remediation.
 
 A couple of configuration parameters that are being checked are:
 
@@ -30,6 +30,6 @@ A couple of configuration parameters that are being checked are:
 
 The website states that the system requirements are Windows Server 2003 + <a title="Download JRE 1.5 here" href="https://cds.sun.com/is-bin/INTERSHOP.enfinity/WFS/CDS-CDS_Developer-Site/en_US/-/USD/ViewProductDetail-Start?ProductRef=jre-1.5.0_15-oth-JPR@CDS-CDS_Developer" target="_blank">JRE 1.5</a> so that&#8217;s the official supported platform by TripWire. But as you can see in Gavin&#8217;s post below: Windows XP, Linux and even OS-X should work without a problem. Great work Gavin!
 
-You can download the tool <a href="http://www.tripwire.com/configcheck/configcheckdownload.cfm" target="_blank">here</a>.
+You can download the tool <a href="https://www.tripwire.com/configcheck/configcheckdownload.cfm" target="_blank">here</a>.
 
-Edit [10-6-2008 Matthijs] : Gavin Millard from TripWire yesterday published a &#8220;How To&#8221; concerning ConfigCheck : <http://www.tripwire.org/blog/?p=38> . Kind-a-handy since there&#8217;s no official manual :).
+Edit [10-6-2008 Matthijs] : Gavin Millard from TripWire yesterday published a &#8220;How To&#8221; concerning ConfigCheck : <https://www.tripwire.org/blog/?p=38> . Kind-a-handy since there&#8217;s no official manual :).

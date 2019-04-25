@@ -23,11 +23,11 @@ tags:
   - vRanger
   - vReplicatior
 ---
-This afternoon I visited the <a title="CDG TUE 5" href="http://www.cdg.nl/evenementen.asp?level=864&864=1400" target="_blank">5th Technical Update Event</a> organized by CDG, a dutch distributor and training company of VMware, Citrix, RES and more. At these events, there are allways 3 products presented or technically explained. This time the following products were presented:
+This afternoon I visited the <a title="CDG TUE 5" href="https://www.cdg.nl/evenementen.asp?level=864&864=1400" target="_blank">5th Technical Update Event</a> organized by CDG, a dutch distributor and training company of VMware, Citrix, RES and more. At these events, there are allways 3 products presented or technically explained. This time the following products were presented:
 
-  * <a title="InstallFree" href="http://www.installfree.com" target="_blank">InstallFree</a>
-  * <a title="Vizioncore vEssentials" href="http://vizioncore.com/vEssentials.html" target="_blank">Vizioncore vEssentials</a>
-  * <a title="VMware Site Recovery Manager" href="http://vmware.com/products/srm/" target="_blank">VMware Site Recovery Manager</a>
+  * <a title="InstallFree" href="https://www.installfree.com" target="_blank">InstallFree</a>
+  * <a title="Vizioncore vEssentials" href="https://vizioncore.com/vEssentials.html" target="_blank">Vizioncore vEssentials</a>
+  * <a title="VMware Site Recovery Manager" href="https://vmware.com/products/srm/" target="_blank">VMware Site Recovery Manager</a>
 
 <!--more-->The Installfree presentation was okay. A colleague told me about this new Application virtualization product and he was very enthousiastic about it. I attended a webinar a couple of weeks ago, and it couldn&#8217;t impress me a lot. This time the presentation impressed me more.
 
@@ -41,7 +41,7 @@ The advantages are:
   * Integration with the desktop.
   * User data is sync&#8217;d. 
 
-As I said, I was impressed. But as a VMware-fan, I&#8217;m really looking forward to VMware&#8217;s Application Virtualization sollution <a title="VMware Thinstall" href="http://www.vmware.com/whatsnew/thinstall.html" target="_blank">Thinapp</a> (the <a title="New name for Thinstall" href="http://c1tr1xguru.wordpress.com/2008/05/07/thinstall-is-nowthinapp/" target="_blank">new name</a> for Thinstall). This will also feature dynamic linking between virtual packages. I haven&#8217;t seen the latest beta, but I will try it soon.
+As I said, I was impressed. But as a VMware-fan, I&#8217;m really looking forward to VMware&#8217;s Application Virtualization sollution <a title="VMware Thinstall" href="https://www.vmware.com/whatsnew/thinstall.html" target="_blank">Thinapp</a> (the <a title="New name for Thinstall" href="https://c1tr1xguru.wordpress.com/2008/05/07/thinstall-is-nowthinapp/" target="_blank">new name</a> for Thinstall). This will also feature dynamic linking between virtual packages. I haven&#8217;t seen the latest beta, but I will try it soon.
 
 Next up was Vizioncore. vEssentials is a bundle of 3 products:
 
@@ -52,7 +52,7 @@ Next up was Vizioncore. vEssentials is a bundle of 3 products:
 I had heared from these products in the past, but never used them. From what I saw today there are some of the features that these products have I&#8217;d like to see in the next release of VMware 🙂 :
 
   * vRanger and vReplicator uses VSS (Volume Shadow copy Service). The presenter claimed that vizioncore was unique on the market with this feature. 
-  * vCharter has a lot of must-haves like: alerting on things you really want to now (VMkernel swap for example) and trend-analyses. Click <a title="vCharter" href="httphttp://vizioncore.com/Videos/vCharterOverviewVideo.html" target="_blank">here</a> for a video.
+  * vCharter has a lot of must-haves like: alerting on things you really want to now (VMkernel swap for example) and trend-analyses. Click <a title="vCharter" href="httphttps://vizioncore.com/Videos/vCharterOverviewVideo.html" target="_blank">here</a> for a video.
 
 Final was VMware with Site Recovery Manager. There a already a lot of things said about this new product, but here are 2 points that I want to mention:
 
@@ -68,4 +68,4 @@ Afterwards there was junkfood and we got a goodie-bag. I couldn&#8217;t stay for
   * Mini noteblock from Vizioncore
   * a Vizioncore pen
 
-Update: presentations can be downloaded <a title="Presentation TUE5" href="http://www.cdg.nl/media/presentaties/tue5_ppt.zip" target="_blank">here</a>.
+Update: presentations can be downloaded <a title="Presentation TUE5" href="https://www.cdg.nl/media/presentaties/tue5_ppt.zip" target="_blank">here</a>.

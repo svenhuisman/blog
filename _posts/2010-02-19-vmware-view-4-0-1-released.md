@@ -11,11 +11,11 @@ categories:
 tags:
   - VMware View
 ---
-VMware released <a title="View 4.0.1" href="http://www.vmware.com/support/view40/doc/releasenotes_viewmanager401.html" target="_blank">VMware View 4.0.1</a> yesterday:
+VMware released <a title="View 4.0.1" href="https://www.vmware.com/support/view40/doc/releasenotes_viewmanager401.html" target="_blank">VMware View 4.0.1</a> yesterday:
 
 ## <a name="whatsnew"></a>What&#8217;s New in View Manager 4.0.1
 
-VMware View 4.0.1 is a maintenance release that resolves some known issues in the previous releases. For details, see the <a href="http://www.vmware.com/support/view40/doc/releasenotes_viewmanager401.html#fixedissues" target="_blank">Resolved Issues</a> section.
+VMware View 4.0.1 is a maintenance release that resolves some known issues in the previous releases. For details, see the <a href="https://www.vmware.com/support/view40/doc/releasenotes_viewmanager401.html#fixedissues" target="_blank">Resolved Issues</a> section.
 
 This release includes the following new features.
 
@@ -35,4 +35,4 @@ PCoIP now supports the following features:
   * Single sign-on support for third party providers such as Sentillion and Imprivata.
   * View Client supports international keyboards when using PCoIP.
 
-For PCoIP-related bug fixes, see the <a href="http://www.vmware.com/support/view40/doc/releasenotes_viewmanager401.html#fixed_client" target="_blank">View Client</a> Resolved Issues section.
+For PCoIP-related bug fixes, see the <a href="https://www.vmware.com/support/view40/doc/releasenotes_viewmanager401.html#fixed_client" target="_blank">View Client</a> Resolved Issues section.

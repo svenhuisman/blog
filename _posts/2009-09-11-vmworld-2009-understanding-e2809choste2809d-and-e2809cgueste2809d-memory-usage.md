@@ -15,7 +15,7 @@ tags:
   - VMware
   - vSphere
 ---
-_Edit: I started this blogpost more than a week ago, but I never finished it. Just as I wanted to complete the blogpost, I found out VMware released a new whitepaper about_ <a title="VMware vSphere Memory Management" href="http://www.vmware.com/files/pdf/perf-vsphere-memory_management.pdf" target="_blank"><em>VMware vSphere Memory management</em></a>_. I&#8217;ve added the best practices on the bottom of this blogpost._
+_Edit: I started this blogpost more than a week ago, but I never finished it. Just as I wanted to complete the blogpost, I found out VMware released a new whitepaper about_ <a title="VMware vSphere Memory Management" href="https://www.vmware.com/files/pdf/perf-vsphere-memory_management.pdf" target="_blank"><em>VMware vSphere Memory management</em></a>_. I&#8217;ve added the best practices on the bottom of this blogpost._
 
 This hour and a half session about &#8220;Host&#8221; and &#8220;Guest&#8221; memory usage was very interesting. The topics in this session were:
 

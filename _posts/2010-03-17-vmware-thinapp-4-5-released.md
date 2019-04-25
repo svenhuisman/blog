@@ -13,7 +13,7 @@ tags:
   - Thinapp
   - VMware
 ---
-VMware announces the availability of <a title="ThinApp 4.5" href="http://www.vmware.com/products/thinapp/overview.html" target="_blank">ThinApp 4.5</a>:
+VMware announces the availability of <a title="ThinApp 4.5" href="https://www.vmware.com/products/thinapp/overview.html" target="_blank">ThinApp 4.5</a>:
 
 > _VMware today announced the availability of VMware ThinApp 4.5, enabling rapid adoption of Microsoft Windows 7 in the enterprise by ensuring compatibility for legacy and custom applications across any Windows desktop operating system environment. ThinApp 4.5 enables enterprises to quickly migrate existing applications to new operating systems such as Microsoft Windows 7, eliminating conflicts between operating environments, and extending the life of application investments._
 
@@ -33,4 +33,4 @@ Reduced page file usage for virtual applications and increased memory sharing be
 **Registry Transaction Protection**  
 Ensure the integrity of the registry file and eliminate potential data corruption due to crash or system failure by mapping to a backup registry file.
 
-Read this blogpost about <a title="What's new in ThinApp 4.5" href="http://blogs.vmware.com/thinapp/2010/03/vmware-thinapp-45-whats-new.html" target="_blank">what&#8217;s new in VMware ThinApp 4.5</a>.
+Read this blogpost about <a title="What's new in ThinApp 4.5" href="https://blogs.vmware.com/thinapp/2010/03/vmware-thinapp-45-whats-new.html" target="_blank">what&#8217;s new in VMware ThinApp 4.5</a>.

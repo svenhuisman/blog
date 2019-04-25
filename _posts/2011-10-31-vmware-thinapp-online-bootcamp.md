@@ -50,4 +50,4 @@ AppLink Fundamentals
   * Speaker – Travis Sales, VMware
   * AppLink enables you to package, deploy, and update component pieces separately while keeping the benefits of application virtualization. This session will explore AppLinks use scenarios and uses cases.
 
-Check the <a title="VMware ThinApp Bootcamp" href="http://communities.vmware.com/community/vmtn/desktop/thinapp/bootcamp" target="_blank">VMware Desktop Community website</a> for more information.
+Check the <a title="VMware ThinApp Bootcamp" href="https://communities.vmware.com/community/vmtn/desktop/thinapp/bootcamp" target="_blank">VMware Desktop Community website</a> for more information.

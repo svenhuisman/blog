@@ -26,7 +26,7 @@ In case of Xendesktop deployments (or Quest vWorkspace or other VDI vendors that
 
 **UPDATE: I&#8217;ve just learned that VMware will release a Desktop edition of vSphere 5. This is very good news!** 
 
-**&#8220;_A vSphere Desktop edition &#8211; This was quietly added on the partner SKU list for non-View VDI implementations.  This provides a low cost hypervisor for XenDesktop implementations (a fairly common occurance)._&#8221; (source: <a title="vSphere 5" href="http://knudt.net/vblog/post/2011/07/13/VMware-vSphere-5.aspx" target="_blank">Knudt Blog</a>)**
+**&#8220;_A vSphere Desktop edition &#8211; This was quietly added on the partner SKU list for non-View VDI implementations.  This provides a low cost hypervisor for XenDesktop implementations (a fairly common occurance)._&#8221; (source: <a title="vSphere 5" href="https://knudt.net/vblog/post/2011/07/13/VMware-vSphere-5.aspx" target="_blank">Knudt Blog</a>)**
 
 <!--more-->
 
@@ -58,6 +58,6 @@ Now what will happen? There are a couple of options. Current Xendesktop deployme
 
 It still possible that VMware will offer a VDI-license which can be used for Xendesktop deployments. The same license is used with VMware View, which is a per concurrent user license for vSphere. This license is intended for desktop OS VMs only. <del>Time will tell if VMware will make this VDI-license available as a separate license (instead of only including it with VMware View).</del>
 
-Update 2: there is now a [document published](http://mylearn.vmware.com/courseware/103763/vmLIVE_VMware_vSphere_Desktop_FAQ.pdf "vSphere 5 Desktop license") which explains about the vSphere desktop Edition. It&#8217;s $65 per powered-on desktop, you buy in 100 packs. Blogpost coming up with new calculations!
+Update 2: there is now a [document published](https://mylearn.vmware.com/courseware/103763/vmLIVE_VMware_vSphere_Desktop_FAQ.pdf "vSphere 5 Desktop license") which explains about the vSphere desktop Edition. It&#8217;s $65 per powered-on desktop, you buy in 100 packs. Blogpost coming up with new calculations!
 
 &nbsp;

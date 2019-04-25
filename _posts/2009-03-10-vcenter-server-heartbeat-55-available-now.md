@@ -22,9 +22,9 @@ VMware vCenter Server Heartbeat was announced at VMworld Europe 2009 and is now 
 Listprice for vCenter Heartbeat is $12,093.95 with 1 year gold support.
 
 <p style="text-align: center;">
-  <img class="aligncenter" title="vCenter Heartbeat" src="http://www.vmware.com/files/images/diagrams/heartbeat_640x640.gif" alt="" width="300" height="300" />
+  <img class="aligncenter" title="vCenter Heartbeat" src="https://www.vmware.com/files/images/diagrams/heartbeat_640x640.gif" alt="" width="300" height="300" />
 </p>
 
  
 
-Check the <a title="heartbeat release notes" href="http://www.vmware.com/support/heartbeat/doc/heartbeat_55_releasenotes.html" target="_blank">release notes</a> for more info.
+Check the <a title="heartbeat release notes" href="https://www.vmware.com/support/heartbeat/doc/heartbeat_55_releasenotes.html" target="_blank">release notes</a> for more info.

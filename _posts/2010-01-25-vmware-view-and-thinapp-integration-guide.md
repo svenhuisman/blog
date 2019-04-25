@@ -14,7 +14,7 @@ tags:
   - Thinapp
   - VMware View
 ---
-Aaron Black from VMware posted a <a title="VMware View and ThinApp integration" href="http://blogs.vmware.com/files/vmware-ig-viewthinapp-en.pdf" target="_blank">VMware View and ThinApp Integration Guide</a> on his <a title="ThinApp blog" href="http://blogs.vmware.com/thinapp/2010/01/view-and-thinapp-integration-guide-part-3.html" target="_blank">blog</a>.
+Aaron Black from VMware posted a <a title="VMware View and ThinApp integration" href="https://blogs.vmware.com/files/vmware-ig-viewthinapp-en.pdf" target="_blank">VMware View and ThinApp Integration Guide</a> on his <a title="ThinApp blog" href="https://blogs.vmware.com/thinapp/2010/01/view-and-thinapp-integration-guide-part-3.html" target="_blank">blog</a>.
 
 > _&#8220;The guide discusses several of the topics covered in the previous posts but brings it all together with some task based scenarios that walk you through initial setup and configuration with screenshots and sample scripts.&#8221;_
 

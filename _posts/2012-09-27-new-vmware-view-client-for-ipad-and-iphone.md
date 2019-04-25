@@ -9,7 +9,7 @@ permalink: /2012/09/new-vmware-view-client-for-ipad-and-iphone/
 categories:
   - Virtual Desktop
 ---
-VMware released version <a title="View client iOS" href="http://itunes.apple.com/us/app/vmware-view-for-ipad/id417993697" target="_blank">1.6 of the View client for iOS</a> yesterday. There is now support for iPhone included!
+VMware released version <a title="View client iOS" href="https://itunes.apple.com/us/app/vmware-view-for-ipad/id417993697" target="_blank">1.6 of the View client for iOS</a> yesterday. There is now support for iPhone included!
 
 What&#8217;s New in Version 1.6  
 &#8211; Now supports iPhone 4 and later!  

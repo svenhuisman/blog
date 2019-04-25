@@ -12,7 +12,7 @@ tags:
   - ESX
   - tweak
 ---
-I found <a href="http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=9275881" target="_blank">this</a> interesting article on the VMware Knowledge base site, at least one I really never thought of &#8230; a virtual machine doesn&#8217;t need a screensaver. Below is exactly told how to do this.<!--more-->
+I found <a href="https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=9275881" target="_blank">this</a> interesting article on the VMware Knowledge base site, at least one I really never thought of &#8230; a virtual machine doesn&#8217;t need a screensaver. Below is exactly told how to do this.<!--more-->
 
   * Screen savers are not necessary for virtual machines
   * Running screen savers wastes CPU resources
@@ -25,4 +25,4 @@ I found <a href="http://kb.vmware.com/selfservice/microsites/search.do?language=
 _ Double-click the _ScreenSaveActive_ string value item in the Details pane.  
     In the Value data box, replace the number 1 with the number 0, and then click OK.
 
-For more information, see Microsoft KB article <a href="http://support.microsoft.com/kb/185348" target="_blank">http://support.microsoft.com/kb/185348</a>.
+For more information, see Microsoft KB article <a href="https://support.microsoft.com/kb/185348" target="_blank">https://support.microsoft.com/kb/185348</a>.

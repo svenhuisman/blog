@@ -35,6 +35,6 @@ tags:
 
 **S**omewhere I understand this reaction: it occurs when you don’t handle your VMware environment as VMware prescribes but when you see what can happen to your production environment I would like to see this issue fixed a.s.a.p.
 
-**I** also noted that I&#8217;m not the only one that has experienced this problem ( <a href="http://communities.vmware.com/thread/251536" target="_blank">http://communities.vmware.com/thread/251536</a> ) so I&#8217;m curious if VMware will pick this up before Update 2 or not.
+**I** also noted that I&#8217;m not the only one that has experienced this problem ( <a href="https://communities.vmware.com/thread/251536" target="_blank">https://communities.vmware.com/thread/251536</a> ) so I&#8217;m curious if VMware will pick this up before Update 2 or not.
 
 **F**or now I&#8217;d like to hint you : triple-check every storage change you do when it concerns vSphere!

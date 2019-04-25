@@ -4,7 +4,7 @@ title: VMware Horizon 7.2 offers new helpdesk tool
 date: 2017-06-20T19:01:23+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=23592
+guid: https://SvenHuisman.com/?p=23592
 permalink: /2017/06/vmware-horizon-7-2-offers-new-helpdesk-tool/
 categories:
   - Virtual Desktop

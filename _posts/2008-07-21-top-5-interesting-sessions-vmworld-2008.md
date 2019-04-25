@@ -29,9 +29,9 @@ It sounds like VMware workstation 6.5 will be released just before or at VMWorld
 This session will introduce the new feature of the upcoming VDM 3.0, I expect to be released at the end of the year.  
    
 **An Introduction to VMO:**  
-The VMware Automation and Orchestration Tool : Find out about the automation engine that powers Life Cycle Manager. I think it&#8217;s sort of like <a title="Citrix Workflow Studio" href="http://www.citrix.com/English/ps2/products/product.asp?contentID=1297816&ntref=hp_nav_US" target="_blank">Citrix Workflow Studio</a>
+The VMware Automation and Orchestration Tool : Find out about the automation engine that powers Life Cycle Manager. I think it&#8217;s sort of like <a title="Citrix Workflow Studio" href="https://www.citrix.com/English/ps2/products/product.asp?contentID=1297816&ntref=hp_nav_US" target="_blank">Citrix Workflow Studio</a>
 
-Unfortunately, no sessions about Continuous Availability, something <a title="Continuous Availability" href="http://blog.scottlowe.org/2007/09/13/vmworld-2007-day-3-keynote-liveblog/" target="_blank">VMware showed on VMWorld 2007</a>.
+Unfortunately, no sessions about Continuous Availability, something <a title="Continuous Availability" href="https://blog.scottlowe.org/2007/09/13/vmworld-2007-day-3-keynote-liveblog/" target="_blank">VMware showed on VMWorld 2007</a>.
 
 Read the session descriptions:<!--more-->
 

@@ -11,7 +11,7 @@ categories:
 tags:
   - Citrix
 ---
-Citrix now provides <a title="Citrix ready community" href="http://community.citrix.com/citrixready" target="_blank">a single place</a> to look for application and 3rd party product compatibility. Beyond the featured <a title="Citrix Ready" href="http://www.citrix.com/ready" target="_blank">Citrix Ready products</a> Citrix is now leveraging the power of the community including; customers, resellers, partners, consultants and Citrite&#8217;s to identify all 3rd party products known to work with all Citrix products.
+Citrix now provides <a title="Citrix ready community" href="https://community.citrix.com/citrixready" target="_blank">a single place</a> to look for application and 3rd party product compatibility. Beyond the featured <a title="Citrix Ready" href="https://www.citrix.com/ready" target="_blank">Citrix Ready products</a> Citrix is now leveraging the power of the community including; customers, resellers, partners, consultants and Citrite&#8217;s to identify all 3rd party products known to work with all Citrix products.
 
 <p style="text-align: center;">
   <a href="https://svenhuisman.com/wp-content/uploads/2008/10/ctxcommready.jpg"><img class="size-medium wp-image-511 aligncenter" title="ctxcommready" src="https://svenhuisman.com/wp-content/uploads/2008/10/ctxcommready-300x83.jpg" alt="" width="300" height="83" /></a><!--more-->
@@ -26,4 +26,4 @@ It is a good initiative to collect this kind of information in a single place. T
   <a href="https://svenhuisman.com/wp-content/uploads/2008/10/ctxcommtop.jpg"><img class="size-medium wp-image-512 aligncenter" title="ctxcommtop" src="https://svenhuisman.com/wp-content/uploads/2008/10/ctxcommtop.jpg" alt="" width="238" height="173" /></a>
 </p>
 
-Visit the <a title="Citrix ready community" href="http://community.citrix.com/citrixready" target="_blank">Citrix Ready Community Verified</a> site.
+Visit the <a title="Citrix ready community" href="https://community.citrix.com/citrixready" target="_blank">Citrix Ready Community Verified</a> site.

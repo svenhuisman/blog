@@ -14,7 +14,7 @@ tags:
   - vLaunchpad
   - VMware
 ---
-To my surprise I noticed that VirtualFuture.info is now in <a title="VMware-land" href="http://www.vmware-land.com" target="_blank">Eric Siebert</a>&#8216;s Top 20 of virtualization blogs on his <a title="vLaunchpad" href="http://vlp.vmware-land.com/" target="_blank">VMware vLaunchpad</a>! VirtualFuture.info entered at number 19, so there is still room for improvement ;-).
+To my surprise I noticed that VirtualFuture.info is now in <a title="VMware-land" href="https://www.vmware-land.com" target="_blank">Eric Siebert</a>&#8216;s Top 20 of virtualization blogs on his <a title="vLaunchpad" href="https://vlp.vmware-land.com/" target="_blank">VMware vLaunchpad</a>! VirtualFuture.info entered at number 19, so there is still room for improvement ;-).
 
 > _VMware vLaunchpad is your one stop shop for all the best VMware resources, websites and blogs._ 
 

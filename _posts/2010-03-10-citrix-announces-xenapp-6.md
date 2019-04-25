@@ -17,7 +17,7 @@ Today Citrix announced XenApp 6, which will be available starting March 24th. Xe
 
 > _XenApp 6 offers major new enhancements that simplify computing for IT, including easier central management, enhanced enterprise scalability and seamless integration with Microsoft technologies like App-V and Windows Server 2008 R2. XenApp 6 also improves productivity for end users with extensive new high-definition HDX™ technology enhancements and simplified self-service access to apps from any device, including PCs, Macs, laptops and smart phones._
 
-Read the entire <a title="XenApp 6 announcement" href="http://www.citrix.com/English/NE/news/news.asp?newsID=1863096" target="_blank">XenApp 6 announcement</a>.
+Read the entire <a title="XenApp 6 announcement" href="https://www.citrix.com/English/NE/news/news.asp?newsID=1863096" target="_blank">XenApp 6 announcement</a>.
 
 Reasons to upgrade (IMHO):
 

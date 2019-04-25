@@ -14,14 +14,14 @@ tags:
 Very important to all the customers who installed ESX(i) 3.5 update 2. I just received this e-mail:
 
 > _Dear VMware Customers,  
-> We have released the express patches for the product expiration issue. Please go to_ <a href="http://www.vmware.com/go/esxexpresspatches" target="_blank"><em>http://www.vmware.com/go/esxexpresspatches</em></a> _for more information.  
+> We have released the express patches for the product expiration issue. Please go to_ <a href="https://www.vmware.com/go/esxexpresspatches" target="_blank"><em>https://www.vmware.com/go/esxexpresspatches</em></a> _for more information.  
 > Problem:  
 > An issue has been discovered by many VMware customers and partners with ESX/ESXi 3.5 Update 2 where Virtual Machines fail to power on or VMotion successfully. This problem began to occur on August 12, 2008 for customers that had upgraded to ESX 3.5 Update 2. <!--more-->The problem is caused by a build timeout that was mistakenly left enabled for the release build.
 > 
 >  
 > The following message is displayed in the vmware.log file for the virtual machine:  
 > This product has expired. Be sure that your host machine&#8217;s date and time are set correctly.  
-> There is a more recent version available at the VMware web site:_ [_http://www.vmware.com/info?id=4_](http://www.vmware.com/info?id=4)_.  
+> There is a more recent version available at the VMware web site:_ [_https://www.vmware.com/info?id=4_](https://www.vmware.com/info?id=4)_.  
 > &#8212;&#8212;&#8212;&#8212;&#8211;  
 > Module License Power on failed.  
 > Affected Products:  

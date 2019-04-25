@@ -16,7 +16,7 @@ tags:
   - VMware
   - vSphere
 ---
-<a title="vmguru.com" href="http://www.vmguru.com" target="_blank"><img class="size-full wp-image-1002 alignleft" title="atdg" src="https://svenhuisman.com/wp-content/uploads/2009/03/atdg.png" alt="atdg" width="184" height="173" />Scott Herold</a> just <a title="ATDG" href="http://www.vmguru.com/index.php/articles-mainmenu-62/general-mainmenu-63/90-chapter-4s-released" target="_blank">released chapter 4</a> from both books from the Advanced Technical Design Guide. He plans to post 2 chapters every 2 :weeks and at the end post the books as pdf for free:
+<a title="vmguru.com" href="https://www.vmguru.com" target="_blank"><img class="size-full wp-image-1002 alignleft" title="atdg" src="https://svenhuisman.com/wp-content/uploads/2009/03/atdg.png" alt="atdg" width="184" height="173" />Scott Herold</a> just <a title="ATDG" href="https://www.vmguru.com/index.php/articles-mainmenu-62/general-mainmenu-63/90-chapter-4s-released" target="_blank">released chapter 4</a> from both books from the Advanced Technical Design Guide. He plans to post 2 chapters every 2 :weeks and at the end post the books as pdf for free:
 
 _Once we have all free chapters released, we&#8217;ll bundle the whole thing up in one nice PDF package so people can actually travel with all the info they will ever need on VI3._
 

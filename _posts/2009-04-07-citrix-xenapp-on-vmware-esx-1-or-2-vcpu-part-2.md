@@ -20,13 +20,13 @@ One month ago I wrote a blogpost about <a title="XenApp on ESX: 1 or 2 vCPU" hre
 &#8211; Use dedicated hardware (ESX cluster) for the TS/XenApp VMs  
 &#8211; Don’t overcommit total amount of vCPUs
 
-I stated this conclusion to get some reactions and it worked. Because as <a title="Boche.net" href="http://www.boche.net/blog/" target="_blank">Jason Boche</a> commented on the article: It depends!<!--more-->
+I stated this conclusion to get some reactions and it worked. Because as <a title="Boche.net" href="https://www.boche.net/blog/" target="_blank">Jason Boche</a> commented on the article: It depends!<!--more-->
 
 > _&#8220;It’s all about the workloads and each company and environment will have different workloads. Traditionally speaking, published desktops chew up a lot more server resources than published applications.&#8221;_
 
 I couldn&#8217;t agree more, it depends on the workloads.
 
-For the first point, Duncan Epping from <a title="Yellow-Bricks" href="http://www.yellow-bricks.com/2009/03/06/virtualized-mmu-and-tp/" target="_blank">yellow-bricks</a> tested in a lab-environment and he stated that he could get more users on a box with 1 vCPU machines than with 2 vCPU machines. That could be true, because <a title="www.virtu-al.net" href="http://www.virtu-al.net" target="_blank">Alan Renouf</a> tested it and came to the [same conclusion](http://www.virtu-al.net/2008/11/29/citrix-on-vmware-1vcpu-or-2vcpu/ "virtu-al.net - XenApp"), but how about user experience?
+For the first point, Duncan Epping from <a title="Yellow-Bricks" href="https://www.yellow-bricks.com/2009/03/06/virtualized-mmu-and-tp/" target="_blank">yellow-bricks</a> tested in a lab-environment and he stated that he could get more users on a box with 1 vCPU machines than with 2 vCPU machines. That could be true, because <a title="www.virtu-al.net" href="https://www.virtu-al.net" target="_blank">Alan Renouf</a> tested it and came to the [same conclusion](https://www.virtu-al.net/2008/11/29/citrix-on-vmware-1vcpu-or-2vcpu/ "virtu-al.net - XenApp"), but how about user experience?
 
 Recently I&#8217;ve tested both 1 and 2 vCPU VMs with Citrix XenApp in 2 different (but similar) environments. Both environments uses published desktops with RES Powerfuse for user environment management. Hardware was similar as well: a dual quadcore server with 24GB RAM.  
 Scenario 1 had 5-10 users on each VM and in scenario 2 each VM had 20-25 users on it. In these 2 cases, 2 vCPU VM&#8217;s gave a better user experience than a 1 vCPU VM, regardless of the number of users on each VM. In this case a better user experience can be a faster login time, faster application startup times, less screen delays, etc.  

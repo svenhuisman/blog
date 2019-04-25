@@ -13,7 +13,7 @@ tags:
   - Thinapp
   - VMware
 ---
-Last week, VMware released a minor update for <a title="VMware ThinApp 4.0.3" href="http://www.vmware.com/support/thinapp4/doc/releasenotes_thinapp403.html" target="_blank">VMware ThinApp: 4.0.3</a>. Here are the release notes:
+Last week, VMware released a minor update for <a title="VMware ThinApp 4.0.3" href="https://www.vmware.com/support/thinapp4/doc/releasenotes_thinapp403.html" target="_blank">VMware ThinApp: 4.0.3</a>. Here are the release notes:
 
 ## _What&#8217;s New_
 
@@ -72,25 +72,25 @@ _This release resolves these issues:_
     ## <a name="knownissues"></a>_Known Issues_
     
     <!--For any known issue that has a Knowledge Base article link, use this path to access the article:
-http://kb.vmware.com/<knowledge_base_number>
+https://kb.vmware.com/<knowledge_base_number>
 
 -->
     
     _The following known issues affect this release:_
     
-      * _ThinApp installation errors might occur with system login names that contain Japanese characters. <!--http://bugzilla.eng.vmware.com/show_bug.cgi?id=391650-->_
+      * _ThinApp installation errors might occur with system login names that contain Japanese characters. <!--https://bugzilla.eng.vmware.com/show_bug.cgi?id=391650-->_
     
-      * _Adobe Acrobat 8 Professional cannot create a PDF file from a Word or Excel document. <!--http://bugzilla.eng.vmware.com/show_bug.cgi?id=366641-->_
+      * _Adobe Acrobat 8 Professional cannot create a PDF file from a Word or Excel document. <!--https://bugzilla.eng.vmware.com/show_bug.cgi?id=366641-->_
     
       * _The Application Sync utility fails when the <tt>AppSyncURL</tt> parameter in the <tt>Package.ini</tt> file contains Japanese characters. 
         
-        You can only use ASCII characters. <!--http://bugzilla.eng.vmware.com/show_bug.cgi?id=386723--></em></li> 
+        You can only use ASCII characters. <!--https://bugzilla.eng.vmware.com/show_bug.cgi?id=386723--></em></li> 
         
           * _Microsoft Word 2003 hangs for 10 seconds when you open and close the Microsoft Equation Editor. 
             
             The Equation Editor feature creates a COM object. When you close the Equation Editor, the <tt>Winword.exe</tt> utility tries to free the object after 10 seconds if the object is not reopened. When the object is free, the Equation Editor crashes.
             
-            To address this issue, deselect the Equation Editor as an option during the Microsoft Office 2003 installation. <!--http://bugzilla.eng.vmware.com/show_bug.cgi?id=386775--></em></li> 
+            To address this issue, deselect the Equation Editor as an option during the Microsoft Office 2003 installation. <!--https://bugzilla.eng.vmware.com/show_bug.cgi?id=386775--></em></li> 
             
               * _Internet Explorer 6 and Internet Explorer 7 do not work on Vista._ 
               * _Windows and Google Search do not work with ThinApp-captured Outlook._ 

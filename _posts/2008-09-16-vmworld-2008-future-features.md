@@ -24,4 +24,4 @@ This session was packed! Every seat was taken and there were lot&#8217;s of peop
 
 I also did the Virtual Desktop preview lab with Johan. This was a preview of the new features of VDM 3.0 release (coming this year!). I was really impressed, especially the offline VDI technology and the SVI. Johan will deep dive about this lab tomorrow morning.
 
-Update: Mike Laverick from RTFM-ed.co.uk posted links to video&#8217;s of <a title="ESX 4.0 video's" href="http://www.rtfm-ed.co.uk/?p=596" target="_blank">key new features</a> of VI4.0. Excelent work, Mike! Those video&#8217;s sure beats my pics.
+Update: Mike Laverick from RTFM-ed.co.uk posted links to video&#8217;s of <a title="ESX 4.0 video's" href="https://www.rtfm-ed.co.uk/?p=596" target="_blank">key new features</a> of VI4.0. Excelent work, Mike! Those video&#8217;s sure beats my pics.

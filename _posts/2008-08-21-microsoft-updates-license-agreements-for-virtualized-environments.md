@@ -16,8 +16,8 @@ tags:
 ---
 That Virtualization is going strong and still growing more and more mature are showing VMware and Microsoft. So during the past few days major changes happened on the licensing front:
 
-VMWare joined Microsoft in their [<span style="#3366cc;">Microsoft Server Virtualization Validation Program Program</span>](http://windowsservercatalog.com/svvp/) (SVVP), this is great news because it makes virtualization even more attractive
+VMWare joined Microsoft in their [<span style="#3366cc;">Microsoft Server Virtualization Validation Program Program</span>](https://windowsservercatalog.com/svvp/) (SVVP), this is great news because it makes virtualization even more attractive
 
 and
 
-Microsoft changed their License agreements for running their software in a virtualized environment and most surprisingly not only their own platform (Hyper-V) but others as well. Read all about the changes <a href="http://www.microsoft.com/licensing/resources/volbrief.mspx" target="_blank">here</a>.
+Microsoft changed their License agreements for running their software in a virtualized environment and most surprisingly not only their own platform (Hyper-V) but others as well. Read all about the changes <a href="https://www.microsoft.com/licensing/resources/volbrief.mspx" target="_blank">here</a>.

@@ -26,7 +26,7 @@ tags:
   - yewllow-bricks.com
 ---
 <p style="text-align: left;">
-  Not a lot of info is found when you Google for manually selecting/fixing the primary HA nodes in a VMware VI or vSphere environment. Of course Duncan Epping has a couple of extremely interesting posts on <a href="http://www.yellow-bricks.com" target="_blank">Yellow-Bricks.com</a> concerning HA even when it comes down to selecting or promoting the HA status of ESX nodes (a must read!), but I want more &#8230;
+  Not a lot of info is found when you Google for manually selecting/fixing the primary HA nodes in a VMware VI or vSphere environment. Of course Duncan Epping has a couple of extremely interesting posts on <a href="https://www.yellow-bricks.com" target="_blank">Yellow-Bricks.com</a> concerning HA even when it comes down to selecting or promoting the HA status of ESX nodes (a must read!), but I want more &#8230;
 </p>
 
 <span style="text-decoration: underline;">Let’s start with what I assume to know about HA:</span>
@@ -64,7 +64,7 @@ Especially when you read the last bullet we can establish that HA roles are real
 
 This situation freaks me out because when you have a larger environment with a couple of _possible failure domains_ as I’d like to call them (represented by any physically separated group of hosts within an HA cluster like different blade chassis or different server rooms) you want to have control over the placement of these HA roles.
 
-And as I stated earlier <a href="http://www.yellow-bricks.com" target="_blank">Duncan Epping</a> has some interesting articles like the <a href="http://www.yellow-bricks.com/vmware-high-availability-deepdiv/" target="_blank">HA deep dive</a> and the <a href="http://www.yellow-bricks.com/2009/08/07/primary-and-secondary-nodes-pick-one/" target="_blank">Primary and Secondary nodes, pick one!</a> which describe how to select a role for a host but this selection is not static; whenever a primary host is disconnected (Maintenance mode, Reconfigure HA and so on) there is a reelection and you lose control over the role placement.
+And as I stated earlier <a href="https://www.yellow-bricks.com" target="_blank">Duncan Epping</a> has some interesting articles like the <a href="https://www.yellow-bricks.com/vmware-high-availability-deepdiv/" target="_blank">HA deep dive</a> and the <a href="https://www.yellow-bricks.com/2009/08/07/primary-and-secondary-nodes-pick-one/" target="_blank">Primary and Secondary nodes, pick one!</a> which describe how to select a role for a host but this selection is not static; whenever a primary host is disconnected (Maintenance mode, Reconfigure HA and so on) there is a reelection and you lose control over the role placement.
 
 So what if all 5 primaries HA nodes are on the same “possible failure domain” (say blade chassis) and that goes down? Well you just lost all your HA nodes that know what to do in case of a host-failure, so HA won’t work!
 
@@ -82,8 +82,8 @@ But you do have to realize that if HA is configured correctly, the 5 remaining h
 
 If you have the same situation as above but with all 5 primary HA nodes down because they were physically grouped, HA won’t work and none of the crashed VM’s will be booted up automatically!
 
-<a href="http://www.yellow-bricks.com/2009/09/15/future-ha-developments-vmworld-bc3197/" target="_blank">During VMworld 2009 Marc Sevigny from VMware explained</a> that they were looking into an option which would enable you to pick your primary hosts.This would solve the problem but until then the only solution is to keep your clusters limited to a total of 8 ESX hosts , 4 ESX hosts per “possible failure domain”.
+<a href="https://www.yellow-bricks.com/2009/09/15/future-ha-developments-vmworld-bc3197/" target="_blank">During VMworld 2009 Marc Sevigny from VMware explained</a> that they were looking into an option which would enable you to pick your primary hosts.This would solve the problem but until then the only solution is to keep your clusters limited to a total of 8 ESX hosts , 4 ESX hosts per “possible failure domain”.
 
 I’m curious if I’m the only one running into this challenge; please let me know!
 
-P.S. Special kudo’s go to <a href="http://www.twitter.com/lammyVM" target="_blank">Remon Lam</a> from <a href="http://www.vminfo.nl" target="_blank">vminfo.nl</a> who discovered this &#8220;feature&#8221; and reviewed the article .
+P.S. Special kudo’s go to <a href="https://www.twitter.com/lammyVM" target="_blank">Remon Lam</a> from <a href="https://www.vminfo.nl" target="_blank">vminfo.nl</a> who discovered this &#8220;feature&#8221; and reviewed the article .

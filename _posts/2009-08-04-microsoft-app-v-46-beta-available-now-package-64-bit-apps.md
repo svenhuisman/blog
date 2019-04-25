@@ -23,4 +23,4 @@ One of the major improvements is that the sequencer now packages native 64-bit a
 
 Another big change <!--more--> is that this version of App-V supports X64 platforms (like Windows 7, Windows Server 2008 R2 etc.) as well as the X86 platform.
 
-<a href="http://blogs.technet.com/systemcenter/archive/2009/08/03/app-v-4-6-beta-availability.aspx" target="_blank">Check out more details here</a> on the System Center Team Blog.
+<a href="https://blogs.technet.com/systemcenter/archive/2009/08/03/app-v-4-6-beta-availability.aspx" target="_blank">Check out more details here</a> on the System Center Team Blog.

@@ -24,9 +24,9 @@ When it comes to troubleshooting on VMware ESX, esxtop is a tool that always com
 
 So what are my options:
 
-  * I can install a <a title="Remote CLI" href="http://www.vmware.com/pdf/vi3_35/esx_3/r35u2/vi3_35_25_u2_rcli.pdf" target="_blank">Remote CLI</a> package on one server, which could become the administration server for all ESX(i) Server hosts.
+  * I can install a <a title="Remote CLI" href="https://www.vmware.com/pdf/vi3_35/esx_3/r35u2/vi3_35_25_u2_rcli.pdf" target="_blank">Remote CLI</a> package on one server, which could become the administration server for all ESX(i) Server hosts.
   * Download the Remote CLI virtual appliance and import it into a VirtualCenter Server or ESX Server host. The Remote CLI virtual appliance is a virtual machine prepackaged with a pared-down Linux operating system, the VI Perl Toolkit, and all Remote CLI commands.
-  * Download VIMA. The <a title="VMware VIMA" href="http://www.vmware.com/support/developer/vima/" target="_blank">VMware Infrastructure Management Assistant (VIMA)</a> is a virtual machine which includes prepackaged software that developers and administrators can use to run agents and scripts to manage ESX and ESXi systems. The remote CLI is included with VIMA.
+  * Download VIMA. The <a title="VMware VIMA" href="https://www.vmware.com/support/developer/vima/" target="_blank">VMware Infrastructure Management Assistant (VIMA)</a> is a virtual machine which includes prepackaged software that developers and administrators can use to run agents and scripts to manage ESX and ESXi systems. The remote CLI is included with VIMA.
 
 I was already running th VIMA appliance, so it wasn&#8217;t hard to decide which option I should go for.
 

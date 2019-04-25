@@ -4,7 +4,7 @@ title: 'VMware Identity Manager Analytics connection test failed'
 date: 2016-12-14T19:00:08+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=20169
+guid: https://SvenHuisman.com/?p=20169
 permalink: /2016/12/vmware-identity-manager-analytics-connection-test-failed/
 categories:
   - Other posts
@@ -34,7 +34,7 @@ After upgrading to 2.8.0 I encountered the following:
 
 So I had a problem with the Elasticsearch service. When you just booted the appliances, this could take a while to give a &#8220;connection test successful&#8221; message, but this was taking too long. I entered the commandline on the first node and entered:
 
-curl -XGET &#8216;http://localhost:9200/_cluster/health?pretty=true&#8217;
+curl -XGET &#8216;https://localhost:9200/_cluster/health?pretty=true&#8217;
 
 [<img class="aligncenter wp-image-20171 size-large" src="https://svenhuisman.com/wp-content/uploads/2016/12/elasticsearch-red-1024x387.png" alt="elasticsearch red" width="650" height="246" srcset="https://svenhuisman.com/wp-content/uploads/2016/12/elasticsearch-red-1024x387.png 1024w, https://svenhuisman.com/wp-content/uploads/2016/12/elasticsearch-red-350x132.png 350w, https://svenhuisman.com/wp-content/uploads/2016/12/elasticsearch-red-768x290.png 768w, https://svenhuisman.com/wp-content/uploads/2016/12/elasticsearch-red-650x246.png 650w, https://svenhuisman.com/wp-content/uploads/2016/12/elasticsearch-red.png 1306w" sizes="(max-width: 650px) 100vw, 650px" />](https://svenhuisman.com/wp-content/uploads/2016/12/elasticsearch-red.png)
 
@@ -57,13 +57,13 @@ In my case, there are unassigned shards (unassigned_shards : 6). This is probabl
 
 First, let&#8217;s list all unassigned shards:
 
-curl -XGET &#8216;http://localhost:9200/_cat/shards?h=index,shard,prirep,state,unassigned.reason&#8217; | grep UNASSIGNED
+curl -XGET &#8216;https://localhost:9200/_cat/shards?h=index,shard,prirep,state,unassigned.reason&#8217; | grep UNASSIGNED
 
 [<img class="aligncenter size-large wp-image-20173" src="https://svenhuisman.com/wp-content/uploads/2016/12/unassigned2-1024x257.png" alt="unassigned" width="650" height="163" srcset="https://svenhuisman.com/wp-content/uploads/2016/12/unassigned2-1024x257.png 1024w, https://svenhuisman.com/wp-content/uploads/2016/12/unassigned2-350x88.png 350w, https://svenhuisman.com/wp-content/uploads/2016/12/unassigned2-768x193.png 768w, https://svenhuisman.com/wp-content/uploads/2016/12/unassigned2-650x163.png 650w, https://svenhuisman.com/wp-content/uploads/2016/12/unassigned2.png 1479w" sizes="(max-width: 650px) 100vw, 650px" />](https://svenhuisman.com/wp-content/uploads/2016/12/unassigned2.png)
 
 I decided to just delete the index &#8220;v3_2016-12-13 by entering:
 
-curl -XDELETE &#8216;http://localhost:9200/v3_2016-12-13/&#8217;
+curl -XDELETE &#8216;https://localhost:9200/v3_2016-12-13/&#8217;
 
 [<img class="aligncenter size-large wp-image-20174" src="https://svenhuisman.com/wp-content/uploads/2016/12/delete-1024x32.png" alt="delete" width="650" height="20" srcset="https://svenhuisman.com/wp-content/uploads/2016/12/delete-1024x32.png 1024w, https://svenhuisman.com/wp-content/uploads/2016/12/delete-350x11.png 350w, https://svenhuisman.com/wp-content/uploads/2016/12/delete-768x24.png 768w, https://svenhuisman.com/wp-content/uploads/2016/12/delete-650x20.png 650w, https://svenhuisman.com/wp-content/uploads/2016/12/delete.png 1170w" sizes="(max-width: 650px) 100vw, 650px" />](https://svenhuisman.com/wp-content/uploads/2016/12/delete.png)
 

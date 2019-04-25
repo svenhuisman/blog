@@ -4,7 +4,7 @@ title: Disable SSLv3 on VMware View Connection servers
 date: 2015-05-09T21:48:02+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=3718
+guid: https://SvenHuisman.com/?p=3718
 permalink: /2015/05/disable-sslv3-on-vmware-view-connection-servers/
 categories:
   - Virtual Desktop
@@ -13,13 +13,13 @@ tags:
   - VMware
   - VMware View
 ---
-You might have missed this <a href="http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2094442&src=vmw_so_vex_shuis_302" target="_blank">VMware KB2094442</a> from VMware and you might not realise that when you are using VMware Horizon View 6.0.x or older, you could still be using SSLv3 when you enabled the Horizon Blast protocol:
+You might have missed this <a href="https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2094442&src=vmw_so_vex_shuis_302" target="_blank">VMware KB2094442</a> from VMware and you might not realise that when you are using VMware Horizon View 6.0.x or older, you could still be using SSLv3 when you enabled the Horizon Blast protocol:
 
 > _The Secure Gateway, which provides a secure tunnel for carrying RDP and other data over HTTPS, listens on port 443 by default. SSLv3 connections to the secure tunnel are disabled by default._
 > 
 > _The Blast Secure Gateway (BSG) provides browser access to View desktops over HTTPS. This gateway listens on port 8443 by default. SSLv3 connections to the BSG are not disabled by default on security server or View Connection Server versions 5.2.x, 5.3.0, 5.3.1, 5.3.2, and 6.0.x. _
 
-Why should you disable SSLv3? Apparently, there has been discovered a vulnarability (back in October 2014) and this vulnerability allows the plaintext of secure connections to be calculated by a network attacker (http://googleonlinesecurity.blogspot.nl/2014/10/this-poodle-bites-exploiting-ssl-30.html).
+Why should you disable SSLv3? Apparently, there has been discovered a vulnarability (back in October 2014) and this vulnerability allows the plaintext of secure connections to be calculated by a network attacker (https://googleonlinesecurity.blogspot.nl/2014/10/this-poodle-bites-exploiting-ssl-30.html).
 
 Upgrading VMware Horizon 6.1 solves this issue and disables SSLv3. If you are not upgrading any time soon, you should follow the steps described in the knowledge base article:
 

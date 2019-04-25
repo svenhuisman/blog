@@ -13,7 +13,7 @@ tags:
   - Powershell
   - VMware
 ---
-The following script is based on <a title="NTpro.nl" href="http://www.ntpro.nl" target="_blank">Eric Sloof</a>&#8216;s Resourcepool calculator.
+The following script is based on <a title="NTpro.nl" href="https://www.ntpro.nl" target="_blank">Eric Sloof</a>&#8216;s Resourcepool calculator.
 
 I modified it quit a bit. It now has, logging, can be run as a scheduled task, % of resource reservation for memory and cpu that can be set on a resourcepool. The script respects the reservertion set on a particular vm.
 
@@ -30,4 +30,4 @@ $LFILEOBJ = &#8220;respool-*&#8221;
 
 The script can be downloaded at the following site:
 
-<http://communities.vmware.com/docs/DOC-9610>
+<https://communities.vmware.com/docs/DOC-9610>

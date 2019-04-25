@@ -21,13 +21,13 @@ tags:
   - thinstall
   - VMware
 ---
-After having seen the <a title="InstallFree" href="http://www.installfree.com" target="_blank">Installfree</a> demo <a title="CDG TUE5" href="https://svenhuisman.com/?p=10" target="_blank">last week</a>, I decided to take a look at VMware&#8217;s <a title="Thinapp beta" href="http://communities.vmware.com/community/beta/northstar" target="_blank">Thinapp Release Candidate</a>, a.k.a Project Northstar. Features in the latest release are:
+After having seen the <a title="InstallFree" href="https://www.installfree.com" target="_blank">Installfree</a> demo <a title="CDG TUE5" href="https://svenhuisman.com/?p=10" target="_blank">last week</a>, I decided to take a look at VMware&#8217;s <a title="Thinapp beta" href="https://communities.vmware.com/community/beta/northstar" target="_blank">Thinapp Release Candidate</a>, a.k.a Project Northstar. Features in the latest release are:
 
   * **Application Link**: allows administrators to dynamically link ThinApp packages to one another, making it possible to create separate packages for interdependent components (such as Java or .NET) and use them across multiple ThinApp packages.
   * **Application Sync**: allows customers to execute updates to virtual applications through a secure Internet connection, increasing application portability while reducing security and patch risks to offline and out-of-network machines.
 
-<a title="Release notes" href="http://www.vmware.com/products/beta/northstar/releasenotes_northstar.html" target="_blank">Release notes</a>  
-<a title="User manual" href="http://pubs.vmware.com/thinapp/help/wwhelp/wwhimpl/js/html/wwhelp.htm?&accessible=true" target="_blank">Manual</a>
+<a title="Release notes" href="https://www.vmware.com/products/beta/northstar/releasenotes_northstar.html" target="_blank">Release notes</a>  
+<a title="User manual" href="https://pubs.vmware.com/thinapp/help/wwhelp/wwhimpl/js/html/wwhelp.htm?&accessible=true" target="_blank">Manual</a>
 
 After registering for the release candidate, <!--more-->I downloaded the installer. While downloading the installer (only 7 MB) I had plenty of time reading the manual ;-). Before you begin using this product, you might want to ask, what is Thinapp?
 
@@ -142,7 +142,7 @@ Application Sync can be used to do the following:
 
 • Apply layered service packs to your applications. Application Sync enables you to distribute service packs and roll back to previous versions, if necessary.
 
- There is a tool that can help you edit package.ini and attributes.ini with a GUI. It&#8217;s called <a title="Thinstallhelper" href="http://thinstallhelper.cis-group.nl/" target="_blank">Thinstallhelper</a> and it&#8217;s from <a title="Cis-group" href="http://www.cis-group.nl/" target="_blank">CIS-group</a>. It should still work with Thinapp. Download it <a title="Download link for Thinstall helper" href="http://thinstallhelper.cis-group.nl/download.php?AppName=ThinstallHelper" target="_blank">here</a>.
+ There is a tool that can help you edit package.ini and attributes.ini with a GUI. It&#8217;s called <a title="Thinstallhelper" href="https://thinstallhelper.cis-group.nl/" target="_blank">Thinstallhelper</a> and it&#8217;s from <a title="Cis-group" href="https://www.cis-group.nl/" target="_blank">CIS-group</a>. It should still work with Thinapp. Download it <a title="Download link for Thinstall helper" href="https://thinstallhelper.cis-group.nl/download.php?AppName=ThinstallHelper" target="_blank">here</a>.
 
 **5. Conclusion**
 

@@ -19,7 +19,7 @@ tags:
   - VMware
   - vRanger Pro
 ---
-**Yesterday** and today my colleague <a href="http://www.linkedin.com/pub/7/656/8b3" target="_blank">Rob Mokkink</a> and I were getting very negative feelings towards the <a href="http://www.vizioncore.com/vRangerPro.html" target="_blank">VizionCore vRanger Pro</a> and <a href="http://www.veeam.com/vmware-esx-backup.html" target="_blank">Veeam Backup </a>products, but like often, the _problem existed behind the keyboard_. But we prefer to call it an &#8220;_undescribed feature_&#8221; of these products.
+**Yesterday** and today my colleague <a href="https://www.linkedin.com/pub/7/656/8b3" target="_blank">Rob Mokkink</a> and I were getting very negative feelings towards the <a href="https://www.vizioncore.com/vRangerPro.html" target="_blank">VizionCore vRanger Pro</a> and <a href="https://www.veeam.com/vmware-esx-backup.html" target="_blank">Veeam Backup </a>products, but like often, the _problem existed behind the keyboard_. But we prefer to call it an &#8220;_undescribed feature_&#8221; of these products.
 
 We downloaded the latest versions of both products to see which product would fit best in our current environment and connecting to the Virtual Center servers went flawless but with neither of the 2 products we could connect to our ESX hosts. Errors that occured were errors that nobody experienced before, according to the product support forums.<!--more-->
 

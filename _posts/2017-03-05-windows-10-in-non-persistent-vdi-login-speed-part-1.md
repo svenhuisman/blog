@@ -4,31 +4,31 @@ title: 'Windows 10 in non-persistent VDI - Login speed part 1'
 date: 2017-03-05T22:28:16+02:00
 author: Sven Huisman
 layout: post
-guid: http://SvenHuisman.com/?p=22218
+guid: https://SvenHuisman.com/?p=22218
 permalink: /2017/03/windows-10-in-non-persistent-vdi-login-speed-part-1/
 enclosure:
   - |
-    http://svenhuisman.com/wp-content/uploads/2017/03/W10-Clean-domain-firstlogin-1vCPU.mp4
+    https://svenhuisman.com/wp-content/uploads/2017/03/W10-Clean-domain-firstlogin-1vCPU.mp4
     15072610
     video/mp4
     
   - |
-    http://svenhuisman.com/wp-content/uploads/2017/03/W10-Clean-domain-firstlogin.mp4
+    https://svenhuisman.com/wp-content/uploads/2017/03/W10-Clean-domain-firstlogin.mp4
     10451629
     video/mp4
     
   - |
-    http://svenhuisman.com/wp-content/uploads/2017/03/W10-LTSB-Clean-domain-firstlogin.mp4
+    https://svenhuisman.com/wp-content/uploads/2017/03/W10-LTSB-Clean-domain-firstlogin.mp4
     9604168
     video/mp4
     
   - |
-    http://svenhuisman.com/wp-content/uploads/2017/03/W10-GPO-domain-firstlogin.mp4
+    https://svenhuisman.com/wp-content/uploads/2017/03/W10-GPO-domain-firstlogin.mp4
     10201207
     video/mp4
     
   - |
-    http://svenhuisman.com/wp-content/uploads/2017/03/W10-LTSB-GPO-domain-firstlogin.mp4
+    https://svenhuisman.com/wp-content/uploads/2017/03/W10-LTSB-GPO-domain-firstlogin.mp4
     8321144
     video/mp4
     
@@ -44,7 +44,7 @@ tags:
   - VMware
   - Windows 10
 ---
-In the upcoming blogposts I will write about optimizing Windows 10 in a non-persistent VDI environment and especially focus on optimizing the login speed. <a href="http://robbeekmans.net/euc/tuning-microsoft-windows-10-part-0-versionbuild-use/" target="_blank">Rob Beekmans</a> already blogged about optimizing Windows 10 for VDI, I will focus on optimizing the login experience and the impact of User Environment Management solutions. The plan is to combine all the optimizations and results and create a whitepaper.
+In the upcoming blogposts I will write about optimizing Windows 10 in a non-persistent VDI environment and especially focus on optimizing the login speed. <a href="https://robbeekmans.net/euc/tuning-microsoft-windows-10-part-0-versionbuild-use/" target="_blank">Rob Beekmans</a> already blogged about optimizing Windows 10 for VDI, I will focus on optimizing the login experience and the impact of User Environment Management solutions. The plan is to combine all the optimizations and results and create a whitepaper.
 
 ## Introduction
 
@@ -69,7 +69,7 @@ After applying these optimizations, I will compare different kind of profile ma
 
 ## Test infrastructure
 
-I&#8217;m lucky to be able to use the hardware that was previously used for the <a href="http://www.projectvrc.com" target="_blank">Project VRC</a> tests. In 2015, Project VRC already performed analysis on what the impact is on <a href="http://www.projectvrc.com/white-papers/18-windows-10-in-vdi-first-analysis/file" target="_blank">optimizing Windows 10</a>. The difference now is that I use the latest Windows 10 version (1607) and will focus on login speed, not on maximizing user density.
+I&#8217;m lucky to be able to use the hardware that was previously used for the <a href="https://www.projectvrc.com" target="_blank">Project VRC</a> tests. In 2015, Project VRC already performed analysis on what the impact is on <a href="https://www.projectvrc.com/white-papers/18-windows-10-in-vdi-first-analysis/file" target="_blank">optimizing Windows 10</a>. The difference now is that I use the latest Windows 10 version (1607) and will focus on login speed, not on maximizing user density.
 
 the following infrastructure for the tests:
 
@@ -79,7 +79,7 @@ Hardware:
   * 1x Cisco UCS blade B230-M2 for VDI, vSphere ESXi 6.5, 2x 10 core CPU (2.266GHz), 256GB RAM
   * Hitachi AMS2100 FC shared storage
 
-For more details on the hardware, see the whitepaper <a href="http://www.projectvrc.com/white-papers/13-architecture-and-hardware-setup-2013-2016/file" target="_blank">Architecture and hardware setup 2013-2016</a>.
+For more details on the hardware, see the whitepaper <a href="https://www.projectvrc.com/white-papers/13-architecture-and-hardware-setup-2013-2016/file" target="_blank">Architecture and hardware setup 2013-2016</a>.
 
 Software:
 

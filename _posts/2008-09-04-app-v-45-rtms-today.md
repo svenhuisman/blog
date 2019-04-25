@@ -11,7 +11,7 @@ categories:
 tags:
   - App-V
 ---
-Microsoft <a title="App-V 4.5 RTM" href="http://blogs.technet.com/softgrid/default.aspx" target="_blank">RTMs App-V today</a>. With App-V 4.5 a lot of new features are introduced. One of them is Dynamic Suite Composition (DSC), which is just a fancy term for application interconnectivity:
+Microsoft <a title="App-V 4.5 RTM" href="https://blogs.technet.com/softgrid/default.aspx" target="_blank">RTMs App-V today</a>. With App-V 4.5 a lot of new features are introduced. One of them is Dynamic Suite Composition (DSC), which is just a fancy term for application interconnectivity:
 
 > _we have introduced a feature called Dynamic Suite Composition (DSC) that is targeted at solving the plug-in and middleware issues specifically. This feature allows an administrator to dynamically suite different plug-in and middleware application packages together with a primary application so that the applications can interact with each other, while maintaining only a single package for each application and reducing total package sizes._
 

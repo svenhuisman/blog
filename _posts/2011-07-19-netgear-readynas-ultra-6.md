@@ -23,11 +23,11 @@ tags:
 ---
 **T**his is the fourth post in the [_**SMB/LAB NAS review**_](https://svenhuisman.com/2011/07/smblab-nas-review/). This review compares the following products on features and performance:
 
-**&#8211; [Cisco NSS324](http://www.cisco.com/en/US/products/ps10854/index.html)  
+**&#8211; [Cisco NSS324](https://www.cisco.com/en/US/products/ps10854/index.html)  
 ** &#8211; **[Iomega IX4-200d](https://iomega-eu-en.custhelp.com/app/answers/detail/a_id/22024)  
-** &#8211; **[Netgear ReadyNAS Ultra 6](http://www.netgear.com/home/products/storage/work-and-play/RNDU6000.aspx)  
-** &#8211; **[QNAP TS-859U-RP+](http://www.qnap.com/pro_detail_feature.asp?p_id=185)  
-** &#8211; **[Synology RS1511+](http://www.synology.com/products/product.php?product_name=DS1511%2B&lang=enu)**
+** &#8211; **[Netgear ReadyNAS Ultra 6](https://www.netgear.com/home/products/storage/work-and-play/RNDU6000.aspx)  
+** &#8211; **[QNAP TS-859U-RP+](https://www.qnap.com/pro_detail_feature.asp?p_id=185)  
+** &#8211; **[Synology RS1511+](https://www.synology.com/products/product.php?product_name=DS1511%2B&lang=enu)**
 
 **T**oday I describe my experiences with the the Netgear ReadyNAS Ultra 6. It is a 6 bay desktop model. It has a single power supply, dual NIC, 2 USB ports on the back and one USB port on the front, with a copy/backup button. It has lockable trays and a display on the front. It also has an on/off button on the back and that’s unique. <!--more-->
 

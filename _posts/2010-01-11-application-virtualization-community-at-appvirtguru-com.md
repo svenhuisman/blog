@@ -16,9 +16,9 @@ tags:
   - Thinapp
   - VMware
 ---
-Last month the well-known community forum [softgridguru.com](http://www.softgridguru.com/ "Softgridguru") moved to the new <a title="www.appvirtguru.com" href="http://www.appvirtguru.com" target="_blank">Appvirtguru.com</a> site. Here is <a title="appvirtguru.com" href="http://www.softgridguru.com/viewtopic.php?t=3446" target="_blank">the note</a> Ruben Spruijt left behind on [softgridguru.com](http://www.softgridguru.com/ "Softgridguru"):
+Last month the well-known community forum [softgridguru.com](https://www.softgridguru.com/ "Softgridguru") moved to the new <a title="www.appvirtguru.com" href="https://www.appvirtguru.com" target="_blank">Appvirtguru.com</a> site. Here is <a title="appvirtguru.com" href="https://www.softgridguru.com/viewtopic.php?t=3446" target="_blank">the note</a> Ruben Spruijt left behind on [softgridguru.com](https://www.softgridguru.com/ "Softgridguru"):
 
-<span><em>After 20 years it&#8217;s time for some changes.<br /> We want to inform you about the fact that the softgridguru.com content is moved to </em><a href="http://www.appvirtguru.com./" target="_blank"><em>www.appvirtguru.com.</em></a><em></em> </span>
+<span><em>After 20 years it&#8217;s time for some changes.<br /> We want to inform you about the fact that the softgridguru.com content is moved to </em><a href="https://www.appvirtguru.com./" target="_blank"><em>www.appvirtguru.com.</em></a><em></em> </span>
 
 The goal of Appvirtguru.com is to provide deep technical information about Application Virtualization in general.  
 The first phases of AppVirtguru.com are:  

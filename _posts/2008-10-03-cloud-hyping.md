@@ -13,7 +13,7 @@ tags:
   - Citrix
   - cloud computing
 ---
-Wow there&#8217;s a new buzz word in the IT world. Virtualization isn&#8217;t hot anymore, everybody knows what it does and everybody knows how to use it with the single products. And most of us know how to combine several virtualization products and create a super flexibel and redundant environment. Great but virtualization isn&#8217;t flashy anymore. So let&#8217;s give it a new name and call a combination of products <a title="Cloud Computing Wikipedia" href="http://en.wikipedia.org/wiki/Cloud_computing" target="_blank">Cloud Computing</a>.
+Wow there&#8217;s a new buzz word in the IT world. Virtualization isn&#8217;t hot anymore, everybody knows what it does and everybody knows how to use it with the single products. And most of us know how to combine several virtualization products and create a super flexibel and redundant environment. Great but virtualization isn&#8217;t flashy anymore. So let&#8217;s give it a new name and call a combination of products <a title="Cloud Computing Wikipedia" href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank">Cloud Computing</a>.
 
 Question: What is so very different about Cloud Computing?
 
@@ -23,7 +23,7 @@ Technology improves with the time (luckily for us) and thus now the time combina
 
 Result: &#8220;Cloud Computing&#8221;
 
-for exampe this is the drawing of the <a title="Citix Cloud Center" href="http://www.citrix.com/English/ps2/products/product.asp?contentID=1681633&ntref=hp_promoC_US" target="_blank">Citrix Cloud Center (C3)</a> from the Citrix Website:
+for exampe this is the drawing of the <a title="Citix Cloud Center" href="https://www.citrix.com/English/ps2/products/product.asp?contentID=1681633&ntref=hp_promoC_US" target="_blank">Citrix Cloud Center (C3)</a> from the Citrix Website:
 
 <div id="attachment_478" style="width: 310px" class="wp-caption alignnone">
   <a href="https://svenhuisman.com/wp-content/uploads/2008/10/citrix_c3.jpg"><img aria-describedby="caption-attachment-478" class="size-medium wp-image-478" src="https://svenhuisman.com/wp-content/uploads/2008/10/citrix_c3-300x114.jpg" alt="Citrix Cloud Center" width="300" height="114" /></a>
@@ -33,7 +33,7 @@ for exampe this is the drawing of the <a title="Citix Cloud Center" href="http:
   </p>
 </div>
 
-And this is the competition from <a title="VmWare Cloud Datacenter" href="http://www.vmware.com/technology/virtual-datacenter-os/" target="_blank">Virtual Datacenter OS</a> VmWare:
+And this is the competition from <a title="VmWare Cloud Datacenter" href="https://www.vmware.com/technology/virtual-datacenter-os/" target="_blank">Virtual Datacenter OS</a> VmWare:
 
 <div id="attachment_479" style="width: 310px" class="wp-caption alignnone">
   <a href="https://svenhuisman.com/wp-content/uploads/2008/10/vmwareclouddiagram.gif"><img aria-describedby="caption-attachment-479" class="size-medium wp-image-479" src="https://svenhuisman.com/wp-content/uploads/2008/10/vmwareclouddiagram-300x160.gif" alt="VmWare Cloud Diagram" width="300" height="160" /></a>

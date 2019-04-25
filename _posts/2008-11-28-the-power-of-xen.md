@@ -22,7 +22,7 @@ As we all know Citrix has aquired Xensource a year and a half ago, and developed
 
 So a short summary:
 
-Advantages <a title="Xen (open source)" href="http://www.xen.org/" target="_blank">XenSource</a>:
+Advantages <a title="Xen (open source)" href="https://www.xen.org/" target="_blank">XenSource</a>:
 
 &#8211; Quick Development
 
@@ -32,7 +32,7 @@ Advantages <a title="Xen (open source)" href="http://www.xen.org/" target="_blan
 
 &#8211; Abbility to adjust
 
-Additions <a title="XenServer" href="http://www.citrix.com/English/ps2/products/product.asp?contentID=683148&ntref=hp_nav_US" target="_blank">XenServer</a>
+Additions <a title="XenServer" href="https://www.citrix.com/English/ps2/products/product.asp?contentID=683148&ntref=hp_nav_US" target="_blank">XenServer</a>
 
 &#8211; Improved performance for Windows machines
 

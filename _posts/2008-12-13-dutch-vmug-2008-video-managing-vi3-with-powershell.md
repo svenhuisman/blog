@@ -18,9 +18,9 @@ tags:
   - VMUG 2008
   - VMware
 ---
-Eric Sloof from <a title="NTProo.nl" href="http://www.ntpro.nl" target="_blank">NTPro.nl</a> gave a very good presentation at the Dutch VMUG 2008 event:  
+Eric Sloof from <a title="NTProo.nl" href="https://www.ntpro.nl" target="_blank">NTPro.nl</a> gave a very good presentation at the Dutch VMUG 2008 event:  
 **Managing VI3 with Powershell**.
 
 > _This presentation focuses on the tools that are currently available for PowerShell. It also gives you an insight on the VMware PowerShell extensions and presents a short introduction to PowerShell as a scripting language._
 
-Eric already posted his <a title="Managing VI3 with Powershell" href="http://www.ntpro.nl/blog/archives/804-Eric-Sloof-presented-Managing-VI3-with-PowerShell-at-Dutch-VMUG.html" target="_blank">presentation</a> on his blog, but here is the video Johan recorded:
+Eric already posted his <a title="Managing VI3 with Powershell" href="https://www.ntpro.nl/blog/archives/804-Eric-Sloof-presented-Managing-VI3-with-PowerShell-at-Dutch-VMUG.html" target="_blank">presentation</a> on his blog, but here is the video Johan recorded:

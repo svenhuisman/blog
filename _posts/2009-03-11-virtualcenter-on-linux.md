@@ -16,7 +16,7 @@ tags:
   - VMware
   - VMware VCenter
 ---
-I was interested about the beta vCenter based on Linux. After i did read the [documentation](http://communities.vmware.com/docs/DOC-9580), I downloaded the <a title="vcserver_linux" href="http://communities.vmware.com/community/beta/vcserver_linux" target="_blank">Virtual Appliance</a>.
+I was interested about the beta vCenter based on Linux. After i did read the [documentation](https://communities.vmware.com/docs/DOC-9580), I downloaded the <a title="vcserver_linux" href="https://communities.vmware.com/community/beta/vcserver_linux" target="_blank">Virtual Appliance</a>.
 
 <p style="text-align: left;">
   The VirtualCenter on Linux appliance uses Red Hat Community Enterprise Operating System (CentOS), version 5, as the base operating system. VirtualCenter on Linux is based on VMware VirtualCenter server, version 3.5. VirtualCenter has been modified to operate on a Linux operating system.
@@ -25,9 +25,9 @@ I was interested about the beta vCenter based on Linux. After i did read the [do
 Since I was recently involved with some RedHat Enterprise Linux implementations, I would give it a try.<!--more-->
 
 First I downloaded the required packages:  
-&#8211; [VirtualCenter for Linux Virtual Appliance](http://communities.vmware.com/community/beta/vcserver_linux)  
-&#8211; [Oracle Express Edition 10g for Windows](http://www.oracle.com/technology/software/products/database/xe/index.html)  
-&#8211; [ODBC drivers for the VA](http://www.oracle.com/technology/software/tech/oci/instantclient/htdocs/linuxsoft.html)
+&#8211; [VirtualCenter for Linux Virtual Appliance](https://communities.vmware.com/community/beta/vcserver_linux)  
+&#8211; [Oracle Express Edition 10g for Windows](https://www.oracle.com/technology/software/products/database/xe/index.html)  
+&#8211; [ODBC drivers for the VA](https://www.oracle.com/technology/software/tech/oci/instantclient/htdocs/linuxsoft.html)
 
 I refer to the documentation for more information about the Oracle Express and Oracle ODBC installation.
 
@@ -35,7 +35,7 @@ _Step 1. install Oracle Express_
 
 Since Oracle Express is free to use, you can download this package for free from the Oracle website.  
 Install Oracle Express Edition for Windows. The minimal OS requirements are Windows 2000 SP4, Windows 2003 or Windows XP SP1.  
-I decided to install Oracle Express on a Windows 2003 Server, which is quite easy to do. Just follow the installation instructions described in this [Oracle installation document](http://download.oracle.com/docs/cd/B25329_01/doc/install.102/b25143/toc.htm#BABGGAJA).
+I decided to install Oracle Express on a Windows 2003 Server, which is quite easy to do. Just follow the installation instructions described in this [Oracle installation document](https://download.oracle.com/docs/cd/B25329_01/doc/install.102/b25143/toc.htm#BABGGAJA).
 
 _Step 2.install VA and install Oracle components_
 

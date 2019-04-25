@@ -38,8 +38,8 @@ I&#8217;m proud to present to you the User Environment Management Smackdown.
 > 
 > _In the current market there is an increasing demand for unbiased information about User Environment Management solutions. This white paper is focused on solutions that are anticipated to have an important role in Desktop deployments. An overview of available features of each solution is created to better understand each solutions capability. &#8220;<!--more-->_
 
-This is a 105 page counting whitepaper about one of the key elements of any Application and Desktop Delivery environment. The UEM Smackdown is an initiative of my employer PQR but mainly <a title="Ruben @ Twitter" href="http://twitter.com/rspruijt" target="_blank">Ruben Spruijt</a> and I am proud I can be a part of it. The last weeks I&#8217;ve spend quite some time on finalizing the work that my coworkers (among who my co-blogger <a href="http://twitter.com/svenh" target="_blank">@Svenh</a>) of PQR had produced over de past few months.
+This is a 105 page counting whitepaper about one of the key elements of any Application and Desktop Delivery environment. The UEM Smackdown is an initiative of my employer PQR but mainly <a title="Ruben @ Twitter" href="https://twitter.com/rspruijt" target="_blank">Ruben Spruijt</a> and I am proud I can be a part of it. The last weeks I&#8217;ve spend quite some time on finalizing the work that my coworkers (among who my co-blogger <a href="https://twitter.com/svenh" target="_blank">@Svenh</a>) of PQR had produced over de past few months.
 
 It&#8217;s a must read for anyone interested or working on Application and Desktop Delivery concepts!
 
-You can download the whitepaper here; <a href="http://virtuall.eu/request-whitepaper-access" target="_blank">http://virtuall.eu/request-whitepaper-access</a>
+You can download the whitepaper here; <a href="https://virtuall.eu/request-whitepaper-access" target="_blank">https://virtuall.eu/request-whitepaper-access</a>

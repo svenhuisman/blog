@@ -17,9 +17,9 @@ tags:
   - Paul Maritz
   - VMworld
 ---
-**[](https://svenhuisman.com/wp-content/uploads/2010/10/IMG_0489-640x480.jpg)As stated earlier** VirtualFuture.info is present again with both **<a href="http://twitter.com/svenh" target="_blank">Sven Huisman</a>** as myself **<a href="http://twitter.com/vf_matt" target="_blank">Matthijs Haverink</a>**.
+**[](https://svenhuisman.com/wp-content/uploads/2010/10/IMG_0489-640x480.jpg)As stated earlier** VirtualFuture.info is present again with both **<a href="https://twitter.com/svenh" target="_blank">Sven Huisman</a>** as myself **<a href="https://twitter.com/vf_matt" target="_blank">Matthijs Haverink</a>**.
 
-**If unofficially began yesterday** with picking up the badges, grabbing something to eat, meeting up with Mike Laverick, Scott Herald, Scott Bennet and some other established names in the VMware Community. Later on a real spontaneous unofficial Dutch VMUG “borrel” by **<a href="http://twitter.com/viktoriousss" target="_blank">Viktorious</a>** (head of the Dutch VMUG):<!--more-->
+**If unofficially began yesterday** with picking up the badges, grabbing something to eat, meeting up with Mike Laverick, Scott Herald, Scott Bennet and some other established names in the VMware Community. Later on a real spontaneous unofficial Dutch VMUG “borrel” by **<a href="https://twitter.com/viktoriousss" target="_blank">Viktorious</a>** (head of the Dutch VMUG):<!--more-->
 
 [<img class="alignleft size-thumbnail wp-image-1789" title="vmugmeetingvmworld1 [640x480]" src="https://svenhuisman.com/wp-content/uploads/2010/10/vmugmeetingvmworld1-640x480-200x200.jpg" alt="" width="180" height="180" srcset="https://svenhuisman.com/wp-content/uploads/2010/10/vmugmeetingvmworld1-640x480-200x200.jpg 200w, https://svenhuisman.com/wp-content/uploads/2010/10/vmugmeetingvmworld1-640x480-250x250.jpg 250w, https://svenhuisman.com/wp-content/uploads/2010/10/vmugmeetingvmworld1-640x480-75x75.jpg 75w" sizes="(max-width: 180px) 100vw, 180px" />](https://svenhuisman.com/wp-content/uploads/2010/10/vmugmeetingvmworld1-640x480.jpg)
 
@@ -39,6 +39,6 @@ I think at least 90%, probably all, of the sessions will dive deeper into thes
 
 I personally used today to get some lab time with ThinApp 4.6, View 4.5 and vCloud Director. The last one was interesting; it seems to encapsulate most of the LabManager features but is a brandnew product designed completely for hybrid Cloud Management (Private and Public Clouds); looks like a pretty mature product already!
 
-What I also found impressive was that the labs are all hosted in the cloud (<a href="http://www.terremark.com/services/cloudcomputing/theenterprisecloud.aspx" target="_blank">Terramark</a> and <a href="http://www.verizonbusiness.com/" target="_blank">Verizon</a> in the states)  and with &#8220;only&#8221; a 48 mbit line it worked pretty smoothly!
+What I also found impressive was that the labs are all hosted in the cloud (<a href="https://www.terremark.com/services/cloudcomputing/theenterprisecloud.aspx" target="_blank">Terramark</a> and <a href="https://www.verizonbusiness.com/" target="_blank">Verizon</a> in the states)  and with &#8220;only&#8221; a 48 mbit line it worked pretty smoothly!
 
 All and all a great start for VMworld and I&#8217;m looking forward to the openening KeyNote tomorrow morning !

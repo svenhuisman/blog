@@ -20,4 +20,4 @@ Mike Laverick just posted the new 2.0 beta of the well know UDA (Ultimate Deploy
 
 The new 2.0 beta is interesting because there should be some ESX/vSphere 4.0 support in there. I haven&#8217;t had the time to test it yet but sounds like great work Mike!
 
-Check out Mike&#8217;s post and the download URL here : <a href="http://www.rtfm-ed.co.uk/?p=1266" target="_blank">http://www.rtfm-ed.co.uk/?p=1266</a>.
+Check out Mike&#8217;s post and the download URL here : <a href="https://www.rtfm-ed.co.uk/?p=1266" target="_blank">https://www.rtfm-ed.co.uk/?p=1266</a>.

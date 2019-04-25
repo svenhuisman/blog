@@ -14,7 +14,7 @@ tags:
   - Liquidware Labs
   - VMworld 2011
 ---
-At <a title="VMworld" href="http://www.vmworld.com" target="_blank">VMworld</a> 2011 in Las Vegas, <a title="Liquidware Labs" href="http://www.liquidwarelabs.com/" target="_blank">Liquidware Labs</a> announced that user-installed application functionality will be available in the profile and user environment management solution, <a title="Profile Unity" href="http://www.liquidwarelabs.com/products/profileunity.asp" target="_blank">ProfileUnity</a>. With ProfileUnity FlexApp, authorized desktop users will now have the ability to install applications during a virtual desktop session-even within shared-image, stateless, non-persistent and floating pool environments.
+At <a title="VMworld" href="https://www.vmworld.com" target="_blank">VMworld</a> 2011 in Las Vegas, <a title="Liquidware Labs" href="https://www.liquidwarelabs.com/" target="_blank">Liquidware Labs</a> announced that user-installed application functionality will be available in the profile and user environment management solution, <a title="Profile Unity" href="https://www.liquidwarelabs.com/products/profileunity.asp" target="_blank">ProfileUnity</a>. With ProfileUnity FlexApp, authorized desktop users will now have the ability to install applications during a virtual desktop session-even within shared-image, stateless, non-persistent and floating pool environments.
 
 When users log off, the application installation will not be lost and will be returned to their desktop environment upon next login. ProfileUnity FlexApp also features the ability for departmental managers and administrators to install applications and apply them to individuals or to their entire organizational unit within Microsoft Active Directory.
 
@@ -31,4 +31,4 @@ At VMworld, I recorded this demo of Liquidware Labs FlexApp:
   </div>
 </div>
 
-##### Liquidware Labs FlexApp is planned to be officially released with <a title="Profile Unity" href="http://www.liquidwarelabs.com/products/profileunity.asp" target="_blank">ProfileUnity</a> version 5.0 by the end of the year.
+##### Liquidware Labs FlexApp is planned to be officially released with <a title="Profile Unity" href="https://www.liquidwarelabs.com/products/profileunity.asp" target="_blank">ProfileUnity</a> version 5.0 by the end of the year.

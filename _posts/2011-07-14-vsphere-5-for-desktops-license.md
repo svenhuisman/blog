@@ -17,7 +17,7 @@ tags:
   - vSphere for Desktops
   - Xendesktop View
 ---
-Just within 2 days after my blogpost about <a href="https://svenhuisman.com/2011/07/xendesktop-says-goodbye-to-vsphere/" target="_blank">Xendesktop says goodbye to vSphere</a> on vSphere anymore with the new license model, VMware published a document which “introduces” the <a href="http://mylearn.vmware.com/courseware/103763/vmLIVE_VMware_vSphere_Desktop_FAQ.pdf" target="_blank">vSphere 5 for Desktops license</a>. This is the exact same license as a vSphere 5 Enterprise Plus license, only there is no vRAM limit, you’re only allowed to use it for desktop VMs and it is priced per powered on VM.
+Just within 2 days after my blogpost about <a href="https://svenhuisman.com/2011/07/xendesktop-says-goodbye-to-vsphere/" target="_blank">Xendesktop says goodbye to vSphere</a> on vSphere anymore with the new license model, VMware published a document which “introduces” the <a href="https://mylearn.vmware.com/courseware/103763/vmLIVE_VMware_vSphere_Desktop_FAQ.pdf" target="_blank">vSphere 5 for Desktops license</a>. This is the exact same license as a vSphere 5 Enterprise Plus license, only there is no vRAM limit, you’re only allowed to use it for desktop VMs and it is priced per powered on VM.
 
 We are happy again<img class="wlEmoticon wlEmoticon-smile" style="border-style: none;" src="https://svenhuisman.com/wp-content/uploads/2011/07/wlEmoticon-smile.png" alt="Smile" /> 
 
@@ -74,4 +74,4 @@ So it&#8221;s recommended, not required.
 
 Question: what if I buy the vSphere 5 for Desktop now, but I want to use vSphere 4 for Desktops until Xendesktop (or Quest vWorkspace, or other VDI brokers) supports vSphere 5? This questions I had to ask myself today at a customer.
 
-Answer: vSphere 5 Desktop can be downgraded to vSphere 4 Desktop (according to the answer given on <a title="VMware View blog" href="http://blogs.vmware.com/euc/2011/07/vsphere-desktop-licensing-overview.html" target="_blank">this blog</a>).
+Answer: vSphere 5 Desktop can be downgraded to vSphere 4 Desktop (according to the answer given on <a title="VMware View blog" href="https://blogs.vmware.com/euc/2011/07/vsphere-desktop-licensing-overview.html" target="_blank">this blog</a>).

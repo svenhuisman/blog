@@ -11,7 +11,7 @@ categories:
 tags:
   - ESX Tools managing free
 ---
-The ESX managing tool ESX Manager written by Dennis Zimmer has reached version 2.3 and incorporates support for ESX 3.5 but unfortunatly not 3i. It can be downloaded at the homesite of <a href="http://www.esxguide.com" target="_blank">esxguide</a>.
+The ESX managing tool ESX Manager written by Dennis Zimmer has reached version 2.3 and incorporates support for ESX 3.5 but unfortunatly not 3i. It can be downloaded at the homesite of <a href="https://www.esxguide.com" target="_blank">esxguide</a>.
 
 The feature list:
 

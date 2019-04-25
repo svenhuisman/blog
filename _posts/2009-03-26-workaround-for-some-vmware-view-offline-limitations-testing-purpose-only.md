@@ -18,7 +18,7 @@ tags:
 ---
 I wanted to test the VMware View Offline desktop. I know it has some limitations at the moment and that it is still an experimental feature. But still, I wanted to be able to show a customer the capabilities that VMware View already has in the current release, whether it is an experimental feature or not. I managed to work around some of the limitations and in this post, I explain how.<!--more-->
 
-According to the VMware <a title="VMware View Admin guide" href="http://www.vmware.com/pdf/viewmanager3_admin_guide.pdf" target="_blank">View admin guide</a> the current limitations for Offline desktop are:
+According to the VMware <a title="VMware View Admin guide" href="https://www.vmware.com/pdf/viewmanager3_admin_guide.pdf" target="_blank">View admin guide</a> the current limitations for Offline desktop are:
 
   * <span style="color: #ff0000;">You cannot install View Client with Offline Desktop on any system that has the following applications installed:<br /> VMware ACE, VMware Player, VMware Server, VMware Workstation.</span>
   * <span style="color: #ff0000;">View Client with Offline desktop capabilities must be installed on Windows XP Professional SP2 or SP3.</span>

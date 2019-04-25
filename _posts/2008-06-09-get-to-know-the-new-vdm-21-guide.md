@@ -16,7 +16,7 @@ tags:
   - VDI
   - VMware
 ---
-<span style="EN-US;">Doug Brown, known for the </span><span style="minor-latin;"><a href="http://www.dabcc.com/miab/" target="_blank"><span style="EN-US;">Methodology in a Box</span></a></span> <span style="minor-latin;">(a 900+ page guide for installing and deploying a successful Citrix environment), has written a new white paper this time on how to get you up and running with VDM, as quick as possible, even if you have never used VDM before. It is downloadable </span><span style="minor-latin;"><a href="http://www.vmware.com/resources/techresources/1058" target="_blank"><span style="EN-US;">here</span></a></span><span style="minor-latin;">. </span>
+<span style="EN-US;">Doug Brown, known for the </span><span style="minor-latin;"><a href="https://www.dabcc.com/miab/" target="_blank"><span style="EN-US;">Methodology in a Box</span></a></span> <span style="minor-latin;">(a 900+ page guide for installing and deploying a successful Citrix environment), has written a new white paper this time on how to get you up and running with VDM, as quick as possible, even if you have never used VDM before. It is downloadable </span><span style="minor-latin;"><a href="https://www.vmware.com/resources/techresources/1058" target="_blank"><span style="EN-US;">here</span></a></span><span style="minor-latin;">. </span>
 
 <p style="14.25pt;">
   <span style="minor-latin;">This is what he says him self about writing this guide:</span>

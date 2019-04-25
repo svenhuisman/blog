@@ -17,7 +17,7 @@ tags:
   - View 3.1
   - VMware
 ---
-The long awaited update (3.1) for VMware View is finally released. The most important thing in my eyes are the so called **Performance Improvements.** According to <a href="http://www.vmware.com/support/viewmanager3/doc/releasenotes_viewmanager31.html#whatsnew" target="_blank">the release notes</a> the login times are significantly improved and server utilization is reduced. I&#8217;ve seen View implementations with 3.0 which had serious problems at logon time so I hope that this solves the issue.
+The long awaited update (3.1) for VMware View is finally released. The most important thing in my eyes are the so called **Performance Improvements.** According to <a href="https://www.vmware.com/support/viewmanager3/doc/releasenotes_viewmanager31.html#whatsnew" target="_blank">the release notes</a> the login times are significantly improved and server utilization is reduced. I&#8217;ve seen View implementations with 3.0 which had serious problems at logon time so I hope that this solves the issue.
 
 Besides that View Manager 3.1 includes the following enhancements:  
 <!--more-->
@@ -33,5 +33,5 @@ Besides that View Manager 3.1 includes the following enhancements:
   * **Adobe Flash Bandwidth Reduction &#8211;** The Adobe Flash bandwidth reduction feature improves end-user productivity when browsing Adobe Flash content.
   * **Multi-Protocol Support &#8211;** View Client can now use HP Remote Graphics Software (RGS) as the display protocol when connecting to HP Blade PCs, HP Workstations, and HP Blade Workstations. The connection is brokered by View Manager. HP RGS is a display protocol from HP that allows a user to access the desktop of a remote computer over a standard network. VMware View 3.1 supports HP RGS Version 5.2.5. VMware does not bundle or license HP RGS with View 3.1. Please contact HP to license a copy of HP RGS software version 5.2.5 to use with View 3.1. This release does not support HP RGS connections to virtual machines.
 
-Check out <a href="http://www.vmware.com/support/viewmanager3/doc/releasenotes_viewmanager31.html#whatsnew" target="_blank">the release notes</a> for more details.  
+Check out <a href="https://www.vmware.com/support/viewmanager3/doc/releasenotes_viewmanager31.html#whatsnew" target="_blank">the release notes</a> for more details.  
 Download a trial or the new update <a href="https://www.vmware.com/tryvmware/?p=view&lp=1" target="_blank">here</a>.

@@ -19,7 +19,7 @@ tags:
   - View
   - VMware
 ---
-I recently got some hands-on experience with <a title="Fusion-io ioVDI" href="http://www.fusionio.com/products/iovdi" target="_blank" rel="noopener noreferrer">Fusion ioVDI </a>which I would like to share. Fusion ioVDI software is a desktop-aware solution for VDI. ioVDI uses shared storage to store the virtual desktops and Fusion-io ioDrives or ioScale cards to offload IO traffic. ioVDI has the following features:  
+I recently got some hands-on experience with <a title="Fusion-io ioVDI" href="https://www.fusionio.com/products/iovdi" target="_blank" rel="noopener noreferrer">Fusion ioVDI </a>which I would like to share. Fusion ioVDI software is a desktop-aware solution for VDI. ioVDI uses shared storage to store the virtual desktops and Fusion-io ioDrives or ioScale cards to offload IO traffic. ioVDI has the following features:  
 **&#8211; Write Vectoring**
 
   * Accelerates desktop performance by intelligently vectoring non-persistent writes to local server flash
@@ -30,7 +30,7 @@ I recently got some hands-on experience with <a title="Fusion-io ioVDI" href="ht
 **&#8211; Storage-agnostic Architecture** preserves storage and data protection investment on any SAN or NAS storage  
 **&#8211; Storage Snapshots** transparently supported with any VAAI shared storage management solution
 
-You can also read about Fusion ioVDI and the architecture in <a title="ESG - Fusion ioVDI report" href="http://www.esg-global.com/lab-reports/fusion-iovdi-and-vmware-horizon-view/" target="_blank" rel="noopener noreferrer">this labreport</a>.  
+You can also read about Fusion ioVDI and the architecture in <a title="ESG - Fusion ioVDI report" href="https://www.esg-global.com/lab-reports/fusion-iovdi-and-vmware-horizon-view/" target="_blank" rel="noopener noreferrer">this labreport</a>.  
 <!--more-->
 
   
@@ -58,7 +58,7 @@ The instructions are well described in the administrator guide, but I will descr
 
 * * *
 
-Go mobile with cloud hosted VDIs and virtual machines stored on the SSAE 16 certified datacenters with automatic backups and 99.9% uptime guarantee using <a href=https://www.clouddesktoponline.com/ target=”_blank”>CloudDesktopOnline</a>. Learn more about Desktop as a Service (DaaS) or virtualization software by visiting <a href=http://www.apps4rent.com/ target=”_blank”>Apps4Rent.com</a>.
+Go mobile with cloud hosted VDIs and virtual machines stored on the SSAE 16 certified datacenters with automatic backups and 99.9% uptime guarantee using <a href=https://www.clouddesktoponline.com/ target=”_blank”>CloudDesktopOnline</a>. Learn more about Desktop as a Service (DaaS) or virtualization software by visiting <a href=https://www.apps4rent.com/ target=”_blank”>Apps4Rent.com</a>.
 
 * * *
 
@@ -152,7 +152,7 @@ As you noticed, I had to enable caching on the VMs after I deployed the pool usi
 For now, I would recommend to use ioVDI with persistent desktops. If you would like to use non-persistent desktop, I would not refresh the desktops after logoff, but schedule a refresh of the pool every night. After the refresh is completed, schedule the ioVDI re-enable script.
 
 **Performance**  
-I haven&#8217;t performed any performance tests using ioVDI, so I can&#8217;t comment on that. There is a <a title="ioVDI" href="http://www.fusionio.com/white-papers/iovdi-simple-cost-effective-vdi/" target="_blank" rel="noopener noreferrer">whitepaper from Fusion-io</a> and it looks promising (of course, the whitepaper is marketing but it should work as described in the whitepaper).
+I haven&#8217;t performed any performance tests using ioVDI, so I can&#8217;t comment on that. There is a <a title="ioVDI" href="https://www.fusionio.com/white-papers/iovdi-simple-cost-effective-vdi/" target="_blank" rel="noopener noreferrer">whitepaper from Fusion-io</a> and it looks promising (of course, the whitepaper is marketing but it should work as described in the whitepaper).
 
 **The good, the bad and the ugly**
 
