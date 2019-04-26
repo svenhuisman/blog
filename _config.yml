@@ -16,7 +16,7 @@
 title: SvenHuisman.com
 email: info@svenhuisman.com
 description: >- # this means to ignore newlines until "baseurl:"
-  EUC related blog by Sven Huisman.
+  End User Computing blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://svenhuisman.com"
 name: SvenHuisman.com
