@@ -1,6 +1,6 @@
 ---
 id: 23008
-title: 'VMware Identity Manager change expired password bug'
+title: 'VMware Identity Manager - change expired password bug'
 date: 2017-03-28T11:45:27+02:00
 author: Sven Huisman
 layout: post
